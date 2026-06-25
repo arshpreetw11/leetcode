@@ -8,23 +8,16 @@ public:
         }
         subfreq=freq;
         vector<int> unique;
-        for(int a:arr){
-            if(subfreq[a]==0) continue;
+        for(auto [_,a]:freq){
             unique.push_back(a);
-            subfreq[a]=0;
+            
         }
-        sort(unique.begin(),unique.end(),[&](int a,int b){
-            return freq[a]>freq[b];
-        });
+        sort(unique.begin(),unique.end());
         int half=n/2;
-        int size=0,fr=0;
-        for(int u:unique){
-            fr+=freq[u];
-            if(fr<half) size++;
-            else{
-                size++;
-                break;
-            }
+        int size=0,fr=0,i=unique.size()-1;
+        while(fr<half){
+            size+=1;
+            fr+=unique[i--];
         }
         return size;
     }
