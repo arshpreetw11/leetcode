@@ -1,25 +1,28 @@
 class Solution {
 public:
     string getHint(string secret, string guess) {
-        int cows=0;
-        int bulls=0;
-        for(int i=0;i<secret.size();i++){
-            if(secret[i]==guess[i]){
-                bulls++;
-                secret[i]=guess[i]=-1;
-            } 
+        unordered_map<char, int> mp;
+        int cow = 0, bull = 0;
+
+        for(int i = 0; i < secret.size(); i++){
+            mp[secret[i]]++;
         }
-        unordered_map<int,int> freq;
-        for(int n: secret){
-            if(n!=-1) freq[n]++;
-        }
-        for(int n: guess){
-            if(freq[n]!=0){
-                cows++;
-                freq[n]--;
+
+        for(int i = 0; i < guess.size(); i++){
+            if(secret[i] == guess[i]){
+                bull++;
+                mp[guess[i]]--;
             }
         }
-        string res=to_string(bulls)+"A"+to_string(cows)+"B";
-        return res;
+
+        for(int i = 0; i < guess.size(); i++){
+            if(secret[i] != guess[i] && mp[guess[i]] > 0){
+                cow++;
+                mp[guess[i]]--;
+            }
+        }
+
+        string ans = to_string(bull) + "A" + to_string(cow) + "B";
+        return ans;
     }
 };
