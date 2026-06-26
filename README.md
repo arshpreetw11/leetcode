@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/arshpreetw11/leetcode/tree/master/0486-predict-the-winner) |
+| [0500-keyboard-row](https://github.com/arshpreetw11/leetcode/tree/master/0500-keyboard-row) |
 | [0526-beautiful-arrangement](https://github.com/arshpreetw11/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0553-optimal-division](https://github.com/arshpreetw11/leetcode/tree/master/0553-optimal-division) |
 | [0845-longest-mountain-in-array](https://github.com/arshpreetw11/leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -70,6 +71,7 @@
 ## String
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/arshpreetw11/leetcode/tree/master/0500-keyboard-row) |
 | [0647-palindromic-substrings](https://github.com/arshpreetw11/leetcode/tree/master/0647-palindromic-substrings) |
 | [1366-rank-teams-by-votes](https://github.com/arshpreetw11/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1668-maximum-repeating-substring](https://github.com/arshpreetw11/leetcode/tree/master/1668-maximum-repeating-substring) |
@@ -85,6 +87,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/arshpreetw11/leetcode/tree/master/0500-keyboard-row) |
 | [1338-reduce-array-size-to-the-half](https://github.com/arshpreetw11/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arshpreetw11/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1366-rank-teams-by-votes](https://github.com/arshpreetw11/leetcode/tree/master/1366-rank-teams-by-votes) |
