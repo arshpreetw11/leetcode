@@ -76,6 +76,7 @@
 | [1366-rank-teams-by-votes](https://github.com/arshpreetw11/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1668-maximum-repeating-substring](https://github.com/arshpreetw11/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1859-sorting-the-sentence](https://github.com/arshpreetw11/leetcode/tree/master/1859-sorting-the-sentence) |
+| [3330-find-the-original-typed-string-i](https://github.com/arshpreetw11/leetcode/tree/master/3330-find-the-original-typed-string-i) |
 ## Enumeration
 |  |
 | ------- |
