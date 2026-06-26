@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/arshpreetw11/leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/arshpreetw11/leetcode/tree/master/0299-bulls-and-cows) |
 | [0482-license-key-formatting](https://github.com/arshpreetw11/leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/arshpreetw11/leetcode/tree/master/0500-keyboard-row) |
 | [0647-palindromic-substrings](https://github.com/arshpreetw11/leetcode/tree/master/0647-palindromic-substrings) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/arshpreetw11/leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/arshpreetw11/leetcode/tree/master/0299-bulls-and-cows) |
 | [0500-keyboard-row](https://github.com/arshpreetw11/leetcode/tree/master/0500-keyboard-row) |
 | [1338-reduce-array-size-to-the-half](https://github.com/arshpreetw11/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arshpreetw11/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -115,6 +117,7 @@
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/arshpreetw11/leetcode/tree/master/0299-bulls-and-cows) |
 | [1366-rank-teams-by-votes](https://github.com/arshpreetw11/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/arshpreetw11/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arshpreetw11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
