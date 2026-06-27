@@ -81,6 +81,7 @@
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/arshpreetw11/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0290-word-pattern](https://github.com/arshpreetw11/leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/arshpreetw11/leetcode/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/arshpreetw11/leetcode/tree/master/0306-additive-number) |
@@ -109,6 +110,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/arshpreetw11/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0128-longest-consecutive-sequence](https://github.com/arshpreetw11/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0290-word-pattern](https://github.com/arshpreetw11/leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/arshpreetw11/leetcode/tree/master/0299-bulls-and-cows) |
@@ -197,4 +199,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/arshpreetw11/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/arshpreetw11/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
