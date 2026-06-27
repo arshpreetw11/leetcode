@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/arshpreetw11/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0486-predict-the-winner](https://github.com/arshpreetw11/leetcode/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/arshpreetw11/leetcode/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/arshpreetw11/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -102,6 +103,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/arshpreetw11/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0290-word-pattern](https://github.com/arshpreetw11/leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/arshpreetw11/leetcode/tree/master/0299-bulls-and-cows) |
 | [0500-keyboard-row](https://github.com/arshpreetw11/leetcode/tree/master/0500-keyboard-row) |
@@ -182,4 +184,8 @@
 |  |
 | ------- |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/arshpreetw11/leetcode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/arshpreetw11/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
