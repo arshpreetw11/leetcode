@@ -25,6 +25,7 @@
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/arshpreetw11/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/arshpreetw11/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/arshpreetw11/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arshpreetw11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/arshpreetw11/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/arshpreetw11/leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/arshpreetw11/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
@@ -171,6 +172,7 @@
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/arshpreetw11/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/arshpreetw11/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/arshpreetw11/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arshpreetw11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1859-sorting-the-sentence](https://github.com/arshpreetw11/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/arshpreetw11/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 ## Greedy
@@ -179,6 +181,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/arshpreetw11/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1710-maximum-units-on-a-truck](https://github.com/arshpreetw11/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arshpreetw11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/arshpreetw11/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/arshpreetw11/leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Heap (Priority Queue)
