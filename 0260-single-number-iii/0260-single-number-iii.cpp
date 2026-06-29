@@ -1,13 +1,14 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        unordered_map<int,int> freq;
+        int x=accumulate(nums.begin(),nums.end(),0,bit_xor<int>());
+        unsigned int diff=(unsigned int)x;
+        diff &= -diff;
+
+        vector<int> res={0,0};
         for(int n : nums){
-            freq[n]++;
-        }
-        vector<int> res;
-        for(int n : nums){
-            if(freq[n]==1) res.push_back(n);
+            if((n&diff)==0) res[0]^=n;
+            else res[1]^=n;
         }
         return res;
     }
