@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/arshpreetw11/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0486-predict-the-winner](https://github.com/arshpreetw11/leetcode/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/arshpreetw11/leetcode/tree/master/0500-keyboard-row) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arshpreetw11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -248,4 +250,16 @@
 | [0187-repeated-dna-sequences](https://github.com/arshpreetw11/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0705-design-hashset](https://github.com/arshpreetw11/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/arshpreetw11/leetcode/tree/master/0706-design-hashmap) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
