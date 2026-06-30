@@ -7,7 +7,7 @@ public:
 
         for(int i=0;i<=m-3;i++){
             for(int j=0;j<=n-3;j++){
-                int s=0;
+                long long s=0;
                 bool ok=true;
                 for(int x=i;x<i+3 && ok;x++){
                     for( int y=j;y<j+3 && ok ; y++){
