@@ -10,6 +10,7 @@
 | [0238-product-of-array-except-self](https://github.com/arshpreetw11/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/arshpreetw11/leetcode/tree/master/0260-single-number-iii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/arshpreetw11/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/arshpreetw11/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0486-predict-the-winner](https://github.com/arshpreetw11/leetcode/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/arshpreetw11/leetcode/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/arshpreetw11/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -220,6 +221,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/arshpreetw11/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1338-reduce-array-size-to-the-half](https://github.com/arshpreetw11/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
