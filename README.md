@@ -11,6 +11,7 @@
 | [0260-single-number-iii](https://github.com/arshpreetw11/leetcode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/arshpreetw11/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/arshpreetw11/leetcode/tree/master/0275-h-index-ii) |
+| [0284-peeking-iterator](https://github.com/arshpreetw11/leetcode/tree/master/0284-peeking-iterator) |
 | [0304-range-sum-query-2d-immutable](https://github.com/arshpreetw11/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/arshpreetw11/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0486-predict-the-winner](https://github.com/arshpreetw11/leetcode/tree/master/0486-predict-the-winner) |
@@ -285,6 +286,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/arshpreetw11/leetcode/tree/master/0146-lru-cache) |
+| [0284-peeking-iterator](https://github.com/arshpreetw11/leetcode/tree/master/0284-peeking-iterator) |
 | [0304-range-sum-query-2d-immutable](https://github.com/arshpreetw11/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/arshpreetw11/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/arshpreetw11/leetcode/tree/master/0706-design-hashmap) |
@@ -345,4 +347,8 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/arshpreetw11/leetcode/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
