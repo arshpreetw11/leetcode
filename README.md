@@ -9,6 +9,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/arshpreetw11/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/arshpreetw11/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/arshpreetw11/leetcode/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/arshpreetw11/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/arshpreetw11/leetcode/tree/master/0275-h-index-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/arshpreetw11/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/arshpreetw11/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -197,6 +198,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/arshpreetw11/leetcode/tree/master/0274-h-index) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/arshpreetw11/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/arshpreetw11/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -236,6 +238,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/arshpreetw11/leetcode/tree/master/0274-h-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arshpreetw11/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
