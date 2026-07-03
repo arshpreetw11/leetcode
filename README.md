@@ -78,6 +78,7 @@
 | [0423-reconstruct-original-digits-from-english](https://github.com/arshpreetw11/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/arshpreetw11/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/arshpreetw11/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0470-implement-rand10-using-rand7](https://github.com/arshpreetw11/leetcode/tree/master/0470-implement-rand10-using-rand7) |
 | [0486-predict-the-winner](https://github.com/arshpreetw11/leetcode/tree/master/0486-predict-the-winner) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/arshpreetw11/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0553-optimal-division](https://github.com/arshpreetw11/leetcode/tree/master/0553-optimal-division) |
@@ -449,6 +450,7 @@
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/arshpreetw11/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/arshpreetw11/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0470-implement-rand10-using-rand7](https://github.com/arshpreetw11/leetcode/tree/master/0470-implement-rand10-using-rand7) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/arshpreetw11/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Topological Sort
 |  |
@@ -464,4 +466,12 @@
 | [0208-implement-trie-prefix-tree](https://github.com/arshpreetw11/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0676-implement-magic-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0720-longest-word-in-dictionary) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/arshpreetw11/leetcode/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/arshpreetw11/leetcode/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
