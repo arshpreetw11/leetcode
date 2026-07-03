@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/arshpreetw11/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/arshpreetw11/leetcode/tree/master/0372-super-pow) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arshpreetw11/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/arshpreetw11/leetcode/tree/master/0486-predict-the-winner) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/arshpreetw11/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
@@ -205,6 +206,7 @@
 | [0307-range-sum-query-mutable](https://github.com/arshpreetw11/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/arshpreetw11/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/arshpreetw11/leetcode/tree/master/0327-count-of-range-sum) |
+| [0372-super-pow](https://github.com/arshpreetw11/leetcode/tree/master/0372-super-pow) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arshpreetw11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
