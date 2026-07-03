@@ -22,6 +22,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/arshpreetw11/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/arshpreetw11/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0406-queue-reconstruction-by-height](https://github.com/arshpreetw11/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/arshpreetw11/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/arshpreetw11/leetcode/tree/master/0486-predict-the-winner) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/arshpreetw11/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0500-keyboard-row](https://github.com/arshpreetw11/leetcode/tree/master/0500-keyboard-row) |
@@ -74,6 +75,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/arshpreetw11/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0400-nth-digit](https://github.com/arshpreetw11/leetcode/tree/master/0400-nth-digit) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/arshpreetw11/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/arshpreetw11/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/arshpreetw11/leetcode/tree/master/0486-predict-the-winner) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/arshpreetw11/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0553-optimal-division](https://github.com/arshpreetw11/leetcode/tree/master/0553-optimal-division) |
