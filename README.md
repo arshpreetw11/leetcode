@@ -72,6 +72,7 @@
 | [0372-super-pow](https://github.com/arshpreetw11/leetcode/tree/master/0372-super-pow) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arshpreetw11/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/arshpreetw11/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0400-nth-digit](https://github.com/arshpreetw11/leetcode/tree/master/0400-nth-digit) |
 | [0486-predict-the-winner](https://github.com/arshpreetw11/leetcode/tree/master/0486-predict-the-winner) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/arshpreetw11/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0553-optimal-division](https://github.com/arshpreetw11/leetcode/tree/master/0553-optimal-division) |
@@ -296,6 +297,7 @@
 | [0275-h-index-ii](https://github.com/arshpreetw11/leetcode/tree/master/0275-h-index-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/arshpreetw11/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/arshpreetw11/leetcode/tree/master/0327-count-of-range-sum) |
+| [0400-nth-digit](https://github.com/arshpreetw11/leetcode/tree/master/0400-nth-digit) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/arshpreetw11/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arshpreetw11/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
