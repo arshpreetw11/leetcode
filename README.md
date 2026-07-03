@@ -138,6 +138,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/arshpreetw11/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/arshpreetw11/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0647-palindromic-substrings](https://github.com/arshpreetw11/leetcode/tree/master/0647-palindromic-substrings) |
+| [0676-implement-magic-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0771-jewels-and-stones](https://github.com/arshpreetw11/leetcode/tree/master/0771-jewels-and-stones) |
 | [1366-rank-teams-by-votes](https://github.com/arshpreetw11/leetcode/tree/master/1366-rank-teams-by-votes) |
@@ -173,6 +174,7 @@
 | [0500-keyboard-row](https://github.com/arshpreetw11/leetcode/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/arshpreetw11/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0676-implement-magic-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0697-degree-of-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/arshpreetw11/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/arshpreetw11/leetcode/tree/master/0706-design-hashmap) |
@@ -329,6 +331,7 @@
 | [0284-peeking-iterator](https://github.com/arshpreetw11/leetcode/tree/master/0284-peeking-iterator) |
 | [0304-range-sum-query-2d-immutable](https://github.com/arshpreetw11/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/arshpreetw11/leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0676-implement-magic-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0705-design-hashset](https://github.com/arshpreetw11/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/arshpreetw11/leetcode/tree/master/0706-design-hashmap) |
 ## Doubly-Linked List
@@ -393,6 +396,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0676-implement-magic-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
 ## Iterator
 |  |
@@ -430,5 +434,6 @@
 ## Trie
 |  |
 | ------- |
+| [0676-implement-magic-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
