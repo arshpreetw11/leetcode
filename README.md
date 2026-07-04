@@ -333,6 +333,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/arshpreetw11/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arshpreetw11/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sliding Window
 |  |
@@ -399,6 +400,7 @@
 |  |
 | ------- |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arshpreetw11/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3620-network-recovery-pathways](https://github.com/arshpreetw11/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Combinatorics
 |  |
@@ -421,12 +423,14 @@
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/arshpreetw11/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arshpreetw11/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0676-implement-magic-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arshpreetw11/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Iterator
 |  |
 | ------- |
