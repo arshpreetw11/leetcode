@@ -14,7 +14,6 @@ public:
         while(k-- && !pq.empty()){
             auto [sum,i,j]=pq.top();
             pq.pop();
-
             ans.push_back({nums1[i],nums2[j]});
             if(j+1<n){
                 pq.push({nums1[i] + nums2[j + 1], i, j + 1});
