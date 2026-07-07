@@ -128,6 +128,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/arshpreetw11/leetcode/tree/master/0077-combinations) |
 | [0306-additive-number](https://github.com/arshpreetw11/leetcode/tree/master/0306-additive-number) |
 | [0526-beautiful-arrangement](https://github.com/arshpreetw11/leetcode/tree/master/0526-beautiful-arrangement) |
 ## Bit Manipulation
