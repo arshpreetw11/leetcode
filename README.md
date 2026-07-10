@@ -29,6 +29,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/arshpreetw11/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0406-queue-reconstruction-by-height](https://github.com/arshpreetw11/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0436-find-right-interval](https://github.com/arshpreetw11/leetcode/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/arshpreetw11/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/arshpreetw11/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/arshpreetw11/leetcode/tree/master/0477-total-hamming-distance) |
@@ -232,6 +233,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/arshpreetw11/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/arshpreetw11/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/arshpreetw11/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/arshpreetw11/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/arshpreetw11/leetcode/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/arshpreetw11/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -317,6 +319,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0406-queue-reconstruction-by-height](https://github.com/arshpreetw11/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0436-find-right-interval](https://github.com/arshpreetw11/leetcode/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/arshpreetw11/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/arshpreetw11/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/arshpreetw11/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
