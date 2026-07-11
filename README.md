@@ -27,6 +27,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arshpreetw11/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/arshpreetw11/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0399-evaluate-division](https://github.com/arshpreetw11/leetcode/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/arshpreetw11/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0436-find-right-interval](https://github.com/arshpreetw11/leetcode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -180,6 +181,7 @@
 | [0299-bulls-and-cows](https://github.com/arshpreetw11/leetcode/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/arshpreetw11/leetcode/tree/master/0306-additive-number) |
 | [0332-reconstruct-itinerary](https://github.com/arshpreetw11/leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/arshpreetw11/leetcode/tree/master/0399-evaluate-division) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/arshpreetw11/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0451-sort-characters-by-frequency](https://github.com/arshpreetw11/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/arshpreetw11/leetcode/tree/master/0482-license-key-formatting) |
@@ -408,6 +410,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/arshpreetw11/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0399-evaluate-division](https://github.com/arshpreetw11/leetcode/tree/master/0399-evaluate-division) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
 | [2421-number-of-good-paths](https://github.com/arshpreetw11/leetcode/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arshpreetw11/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -480,6 +483,7 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/arshpreetw11/leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/arshpreetw11/leetcode/tree/master/0399-evaluate-division) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [2421-number-of-good-paths](https://github.com/arshpreetw11/leetcode/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arshpreetw11/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -506,6 +510,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/arshpreetw11/leetcode/tree/master/0399-evaluate-division) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/arshpreetw11/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arshpreetw11/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -514,6 +519,7 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/arshpreetw11/leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/arshpreetw11/leetcode/tree/master/0399-evaluate-division) |
 | [0676-implement-magic-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arshpreetw11/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -555,6 +561,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/arshpreetw11/leetcode/tree/master/0399-evaluate-division) |
 | [3620-network-recovery-pathways](https://github.com/arshpreetw11/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Trie
 |  |
