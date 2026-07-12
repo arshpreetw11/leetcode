@@ -481,6 +481,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/arshpreetw11/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/arshpreetw11/leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2421-number-of-good-paths](https://github.com/arshpreetw11/leetcode/tree/master/2421-number-of-good-paths) |
+| [3249-count-the-number-of-good-nodes](https://github.com/arshpreetw11/leetcode/tree/master/3249-count-the-number-of-good-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -551,6 +552,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/arshpreetw11/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/arshpreetw11/leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arshpreetw11/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3249-count-the-number-of-good-nodes](https://github.com/arshpreetw11/leetcode/tree/master/3249-count-the-number-of-good-nodes) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/arshpreetw11/leetcode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 ## Iterator
 |  |
