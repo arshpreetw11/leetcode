@@ -75,6 +75,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/arshpreetw11/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2101-detonate-the-maximum-bombs](https://github.com/arshpreetw11/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/arshpreetw11/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/arshpreetw11/leetcode/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/arshpreetw11/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/arshpreetw11/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/arshpreetw11/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -130,6 +131,7 @@
 | [0845-longest-mountain-in-array](https://github.com/arshpreetw11/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1668-maximum-repeating-substring](https://github.com/arshpreetw11/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [2063-vowels-of-all-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2063-vowels-of-all-substrings) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/arshpreetw11/leetcode/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [3333-find-the-original-typed-string-ii](https://github.com/arshpreetw11/leetcode/tree/master/3333-find-the-original-typed-string-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arshpreetw11/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/arshpreetw11/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -509,6 +511,7 @@
 | [0684-redundant-connection](https://github.com/arshpreetw11/leetcode/tree/master/0684-redundant-connection) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [2101-detonate-the-maximum-bombs](https://github.com/arshpreetw11/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/arshpreetw11/leetcode/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/arshpreetw11/leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2421-number-of-good-paths](https://github.com/arshpreetw11/leetcode/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arshpreetw11/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -561,6 +564,7 @@
 | [0721-accounts-merge](https://github.com/arshpreetw11/leetcode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
 | [2101-detonate-the-maximum-bombs](https://github.com/arshpreetw11/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/arshpreetw11/leetcode/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/arshpreetw11/leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arshpreetw11/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3249-count-the-number-of-good-nodes](https://github.com/arshpreetw11/leetcode/tree/master/3249-count-the-number-of-good-nodes) |
@@ -599,6 +603,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/arshpreetw11/leetcode/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/arshpreetw11/leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3620-network-recovery-pathways](https://github.com/arshpreetw11/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
