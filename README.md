@@ -421,6 +421,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/arshpreetw11/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/arshpreetw11/leetcode/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/arshpreetw11/leetcode/tree/master/0547-number-of-provinces) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
 | [2421-number-of-good-paths](https://github.com/arshpreetw11/leetcode/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arshpreetw11/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -497,6 +498,7 @@
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/arshpreetw11/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/arshpreetw11/leetcode/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/arshpreetw11/leetcode/tree/master/0547-number-of-provinces) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [2101-detonate-the-maximum-bombs](https://github.com/arshpreetw11/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/arshpreetw11/leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -529,6 +531,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/arshpreetw11/leetcode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/arshpreetw11/leetcode/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/arshpreetw11/leetcode/tree/master/0547-number-of-provinces) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/arshpreetw11/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2101-detonate-the-maximum-bombs](https://github.com/arshpreetw11/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -542,6 +545,7 @@
 | [0399-evaluate-division](https://github.com/arshpreetw11/leetcode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/arshpreetw11/leetcode/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/arshpreetw11/leetcode/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/arshpreetw11/leetcode/tree/master/0547-number-of-provinces) |
 | [0676-implement-magic-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
 | [2101-detonate-the-maximum-bombs](https://github.com/arshpreetw11/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
