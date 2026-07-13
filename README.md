@@ -46,6 +46,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/arshpreetw11/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/arshpreetw11/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0661-image-smoother](https://github.com/arshpreetw11/leetcode/tree/master/0661-image-smoother) |
+| [0690-employee-importance](https://github.com/arshpreetw11/leetcode/tree/master/0690-employee-importance) |
 | [0697-degree-of-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/arshpreetw11/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/arshpreetw11/leetcode/tree/master/0706-design-hashmap) |
@@ -258,6 +259,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/arshpreetw11/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0676-implement-magic-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0676-implement-magic-dictionary) |
+| [0690-employee-importance](https://github.com/arshpreetw11/leetcode/tree/master/0690-employee-importance) |
 | [0697-degree-of-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/arshpreetw11/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/arshpreetw11/leetcode/tree/master/0706-design-hashmap) |
@@ -490,6 +492,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/arshpreetw11/leetcode/tree/master/0437-path-sum-iii) |
+| [0690-employee-importance](https://github.com/arshpreetw11/leetcode/tree/master/0690-employee-importance) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/arshpreetw11/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/arshpreetw11/leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -551,6 +554,7 @@
 | [0547-number-of-provinces](https://github.com/arshpreetw11/leetcode/tree/master/0547-number-of-provinces) |
 | [0672-bulb-switcher-ii](https://github.com/arshpreetw11/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0684-redundant-connection](https://github.com/arshpreetw11/leetcode/tree/master/0684-redundant-connection) |
+| [0690-employee-importance](https://github.com/arshpreetw11/leetcode/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/arshpreetw11/leetcode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/arshpreetw11/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -569,6 +573,7 @@
 | [0672-bulb-switcher-ii](https://github.com/arshpreetw11/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0676-implement-magic-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/arshpreetw11/leetcode/tree/master/0684-redundant-connection) |
+| [0690-employee-importance](https://github.com/arshpreetw11/leetcode/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/arshpreetw11/leetcode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0851-loud-and-rich](https://github.com/arshpreetw11/leetcode/tree/master/0851-loud-and-rich) |
