@@ -94,6 +94,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/arshpreetw11/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3030-find-the-grid-of-region-average](https://github.com/arshpreetw11/leetcode/tree/master/3030-find-the-grid-of-region-average) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/arshpreetw11/leetcode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/arshpreetw11/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arshpreetw11/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arshpreetw11/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/arshpreetw11/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -127,6 +128,7 @@
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/arshpreetw11/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2413-smallest-even-multiple](https://github.com/arshpreetw11/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/arshpreetw11/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/arshpreetw11/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/arshpreetw11/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/arshpreetw11/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -245,6 +247,7 @@
 | [1952-three-divisors](https://github.com/arshpreetw11/leetcode/tree/master/1952-three-divisors) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/arshpreetw11/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/arshpreetw11/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/arshpreetw11/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String Matching
 |  |
 | ------- |
@@ -468,6 +471,7 @@
 | [1763-longest-nice-substring](https://github.com/arshpreetw11/leetcode/tree/master/1763-longest-nice-substring) |
 | [2090-k-radius-subarray-averages](https://github.com/arshpreetw11/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2953-count-complete-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2953-count-complete-substrings) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/arshpreetw11/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Linked List
 |  |
 | ------- |
@@ -696,4 +700,5 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arshpreetw11/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/arshpreetw11/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/arshpreetw11/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/arshpreetw11/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
