@@ -11,12 +11,11 @@ public:
         int n=nums.size();
         int ans=0;
         for(int i=0;i<n;i++){
-            vector<int> temp;
+            int g=0;
             for(int j=i;j<n;j++){
-                temp.push_back(nums[j]);
-                int val=gcd_vec(temp);
-                if(val==k) ans++;
-                else if(val<k) break;
+                g=gcd(g,nums[j]);
+                if(g==k) ans++;
+                else if(g<k) break;
             }
         }
         return ans;
