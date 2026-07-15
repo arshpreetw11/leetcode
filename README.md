@@ -459,6 +459,7 @@
 | [0721-accounts-merge](https://github.com/arshpreetw11/leetcode/tree/master/0721-accounts-merge) |
 | [0765-couples-holding-hands](https://github.com/arshpreetw11/leetcode/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
+| [1971-find-if-path-exists-in-graph](https://github.com/arshpreetw11/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2421-number-of-good-paths](https://github.com/arshpreetw11/leetcode/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arshpreetw11/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -544,6 +545,7 @@
 | [0841-keys-and-rooms](https://github.com/arshpreetw11/leetcode/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/arshpreetw11/leetcode/tree/master/0851-loud-and-rich) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/arshpreetw11/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/arshpreetw11/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/arshpreetw11/leetcode/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/arshpreetw11/leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -588,6 +590,7 @@
 | [0854-k-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/0854-k-similar-strings) |
 | [1034-coloring-a-border](https://github.com/arshpreetw11/leetcode/tree/master/1034-coloring-a-border) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/arshpreetw11/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1971-find-if-path-exists-in-graph](https://github.com/arshpreetw11/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/arshpreetw11/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arshpreetw11/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -612,6 +615,7 @@
 | [0841-keys-and-rooms](https://github.com/arshpreetw11/leetcode/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/arshpreetw11/leetcode/tree/master/0851-loud-and-rich) |
 | [1034-coloring-a-border](https://github.com/arshpreetw11/leetcode/tree/master/1034-coloring-a-border) |
+| [1971-find-if-path-exists-in-graph](https://github.com/arshpreetw11/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/arshpreetw11/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/arshpreetw11/leetcode/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/arshpreetw11/leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
