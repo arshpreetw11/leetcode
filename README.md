@@ -519,6 +519,7 @@
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/arshpreetw11/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/arshpreetw11/leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2421-number-of-good-paths](https://github.com/arshpreetw11/leetcode/tree/master/2421-number-of-good-paths) |
 | [3249-count-the-number-of-good-nodes](https://github.com/arshpreetw11/leetcode/tree/master/3249-count-the-number-of-good-nodes) |
 ## Binary Search Tree
@@ -533,6 +534,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/arshpreetw11/leetcode/tree/master/0437-path-sum-iii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/arshpreetw11/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -619,6 +621,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/arshpreetw11/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/arshpreetw11/leetcode/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/arshpreetw11/leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arshpreetw11/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3249-count-the-number-of-good-nodes](https://github.com/arshpreetw11/leetcode/tree/master/3249-count-the-number-of-good-nodes) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/arshpreetw11/leetcode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
