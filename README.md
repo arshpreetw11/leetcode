@@ -130,6 +130,7 @@
 | [0650-2-keys-keyboard](https://github.com/arshpreetw11/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0672-bulb-switcher-ii](https://github.com/arshpreetw11/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0710-random-pick-with-blacklist](https://github.com/arshpreetw11/leetcode/tree/master/0710-random-pick-with-blacklist) |
+| [0869-reordered-power-of-2](https://github.com/arshpreetw11/leetcode/tree/master/0869-reordered-power-of-2) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/arshpreetw11/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1952-three-divisors](https://github.com/arshpreetw11/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arshpreetw11/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -264,6 +265,7 @@
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/arshpreetw11/leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0869-reordered-power-of-2](https://github.com/arshpreetw11/leetcode/tree/master/0869-reordered-power-of-2) |
 | [1291-sequential-digits](https://github.com/arshpreetw11/leetcode/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/arshpreetw11/leetcode/tree/master/1952-three-divisors) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/arshpreetw11/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
@@ -307,6 +309,7 @@
 | [0791-custom-sort-string](https://github.com/arshpreetw11/leetcode/tree/master/0791-custom-sort-string) |
 | [0833-find-and-replace-in-string](https://github.com/arshpreetw11/leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0854-k-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/0854-k-similar-strings) |
+| [0869-reordered-power-of-2](https://github.com/arshpreetw11/leetcode/tree/master/0869-reordered-power-of-2) |
 | [1331-rank-transform-of-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/arshpreetw11/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arshpreetw11/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -363,6 +366,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/arshpreetw11/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/arshpreetw11/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0869-reordered-power-of-2](https://github.com/arshpreetw11/leetcode/tree/master/0869-reordered-power-of-2) |
 | [1366-rank-teams-by-votes](https://github.com/arshpreetw11/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/arshpreetw11/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/arshpreetw11/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
@@ -403,6 +407,7 @@
 | [0721-accounts-merge](https://github.com/arshpreetw11/leetcode/tree/master/0721-accounts-merge) |
 | [0791-custom-sort-string](https://github.com/arshpreetw11/leetcode/tree/master/0791-custom-sort-string) |
 | [0833-find-and-replace-in-string](https://github.com/arshpreetw11/leetcode/tree/master/0833-find-and-replace-in-string) |
+| [0869-reordered-power-of-2](https://github.com/arshpreetw11/leetcode/tree/master/0869-reordered-power-of-2) |
 | [1288-remove-covered-intervals](https://github.com/arshpreetw11/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/arshpreetw11/leetcode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
