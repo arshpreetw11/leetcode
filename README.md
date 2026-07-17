@@ -105,6 +105,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/arshpreetw11/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3030-find-the-grid-of-region-average](https://github.com/arshpreetw11/leetcode/tree/master/3030-find-the-grid-of-region-average) |
+| [3312-sorted-gcd-pair-queries](https://github.com/arshpreetw11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/arshpreetw11/leetcode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/arshpreetw11/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arshpreetw11/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -144,6 +145,7 @@
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/arshpreetw11/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2413-smallest-even-multiple](https://github.com/arshpreetw11/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/arshpreetw11/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [3312-sorted-gcd-pair-queries](https://github.com/arshpreetw11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/arshpreetw11/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arshpreetw11/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/arshpreetw11/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -328,6 +330,7 @@
 | [2506-count-pairs-of-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2953-count-complete-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2953-count-complete-substrings) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/arshpreetw11/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/arshpreetw11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arshpreetw11/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arshpreetw11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -378,6 +381,7 @@
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/arshpreetw11/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/arshpreetw11/leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
+| [3312-sorted-gcd-pair-queries](https://github.com/arshpreetw11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arshpreetw11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -385,6 +389,7 @@
 | [0238-product-of-array-except-self](https://github.com/arshpreetw11/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/arshpreetw11/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/arshpreetw11/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [3312-sorted-gcd-pair-queries](https://github.com/arshpreetw11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3333-find-the-original-typed-string-ii](https://github.com/arshpreetw11/leetcode/tree/master/3333-find-the-original-typed-string-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arshpreetw11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/arshpreetw11/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -490,6 +495,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arshpreetw11/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1649-create-sorted-array-through-instructions](https://github.com/arshpreetw11/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/arshpreetw11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arshpreetw11/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arshpreetw11/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/arshpreetw11/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -621,6 +627,7 @@
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2063-vowels-of-all-substrings) |
+| [3312-sorted-gcd-pair-queries](https://github.com/arshpreetw11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -780,6 +787,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arshpreetw11/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/arshpreetw11/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/arshpreetw11/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [3312-sorted-gcd-pair-queries](https://github.com/arshpreetw11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/arshpreetw11/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arshpreetw11/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arshpreetw11/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
