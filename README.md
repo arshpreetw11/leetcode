@@ -63,6 +63,7 @@
 | [0851-loud-and-rich](https://github.com/arshpreetw11/leetcode/tree/master/0851-loud-and-rich) |
 | [0912-sort-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/arshpreetw11/leetcode/tree/master/0948-bag-of-tokens) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0969-pancake-sorting](https://github.com/arshpreetw11/leetcode/tree/master/0969-pancake-sorting) |
 | [1034-coloring-a-border](https://github.com/arshpreetw11/leetcode/tree/master/1034-coloring-a-border) |
 | [1288-remove-covered-intervals](https://github.com/arshpreetw11/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -422,6 +423,7 @@
 | [0869-reordered-power-of-2](https://github.com/arshpreetw11/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0912-sort-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/arshpreetw11/leetcode/tree/master/0948-bag-of-tokens) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0969-pancake-sorting](https://github.com/arshpreetw11/leetcode/tree/master/0969-pancake-sorting) |
 | [1288-remove-covered-intervals](https://github.com/arshpreetw11/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -512,6 +514,7 @@
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/arshpreetw11/leetcode/tree/master/0289-game-of-life) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/arshpreetw11/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/arshpreetw11/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -799,4 +802,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0912-sort-an-array) |
+## Queue
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
