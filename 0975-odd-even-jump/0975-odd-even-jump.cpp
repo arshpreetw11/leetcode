@@ -1,32 +1,5 @@
 class Solution {
 public:
-    int cnt=0;
-    
-    bool isPos(int i,vector<int>& arr,vector<int>& vis,bool odd,int f){
-        if(i==f) return true;
-        if(vis[i]) return false;
-        vis[i]=1;
-        int next=-1;
-        if(odd){
-            int best = INT_MAX;
-            for (int j = i + 1; j < arr.size(); j++) {
-                if (arr[j] >= arr[i] && arr[j] < best) {
-                    best = arr[j];
-                    next = j;
-                }
-            }
-        }else{
-            int best = INT_MIN;
-            for (int j = i + 1; j < arr.size(); j++) {
-                if (arr[j] <= arr[i] && arr[j] > best) {
-                    best = arr[j];
-                    next = j;
-                }
-            }
-        }
-        if(next==-1) return false;
-        return isPos(next,arr,vis,!odd,f);
-    }
     int oddEvenJumps(vector<int>& arr) {
         int n=arr.size();
         map<int,int> mp;
