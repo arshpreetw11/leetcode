@@ -68,6 +68,7 @@
 | [0975-odd-even-jump](https://github.com/arshpreetw11/leetcode/tree/master/0975-odd-even-jump) |
 | [1029-two-city-scheduling](https://github.com/arshpreetw11/leetcode/tree/master/1029-two-city-scheduling) |
 | [1034-coloring-a-border](https://github.com/arshpreetw11/leetcode/tree/master/1034-coloring-a-border) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/arshpreetw11/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1288-remove-covered-intervals](https://github.com/arshpreetw11/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/arshpreetw11/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1331-rank-transform-of-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -139,6 +140,7 @@
 | [0672-bulb-switcher-ii](https://github.com/arshpreetw11/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0710-random-pick-with-blacklist](https://github.com/arshpreetw11/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0869-reordered-power-of-2](https://github.com/arshpreetw11/leetcode/tree/master/0869-reordered-power-of-2) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/arshpreetw11/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/arshpreetw11/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1952-three-divisors](https://github.com/arshpreetw11/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arshpreetw11/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -432,6 +434,7 @@
 | [0969-pancake-sorting](https://github.com/arshpreetw11/leetcode/tree/master/0969-pancake-sorting) |
 | [0975-odd-even-jump](https://github.com/arshpreetw11/leetcode/tree/master/0975-odd-even-jump) |
 | [1029-two-city-scheduling](https://github.com/arshpreetw11/leetcode/tree/master/1029-two-city-scheduling) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/arshpreetw11/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1288-remove-covered-intervals](https://github.com/arshpreetw11/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/arshpreetw11/leetcode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
@@ -554,6 +557,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/arshpreetw11/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/arshpreetw11/leetcode/tree/master/0658-find-k-closest-elements) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/arshpreetw11/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1763-longest-nice-substring](https://github.com/arshpreetw11/leetcode/tree/master/1763-longest-nice-substring) |
 | [2090-k-radius-subarray-averages](https://github.com/arshpreetw11/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2953-count-complete-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2953-count-complete-substrings) |
