@@ -49,6 +49,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/arshpreetw11/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/arshpreetw11/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/arshpreetw11/leetcode/tree/master/0661-image-smoother) |
+| [0665-non-decreasing-array](https://github.com/arshpreetw11/leetcode/tree/master/0665-non-decreasing-array) |
 | [0690-employee-importance](https://github.com/arshpreetw11/leetcode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/arshpreetw11/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0697-degree-of-an-array) |
