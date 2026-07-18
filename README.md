@@ -27,6 +27,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arshpreetw11/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/arshpreetw11/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0391-perfect-rectangle](https://github.com/arshpreetw11/leetcode/tree/master/0391-perfect-rectangle) |
 | [0399-evaluate-division](https://github.com/arshpreetw11/leetcode/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/arshpreetw11/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0436-find-right-interval](https://github.com/arshpreetw11/leetcode/tree/master/0436-find-right-interval) |
@@ -135,6 +136,7 @@
 | [0372-super-pow](https://github.com/arshpreetw11/leetcode/tree/master/0372-super-pow) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arshpreetw11/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/arshpreetw11/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0391-perfect-rectangle](https://github.com/arshpreetw11/leetcode/tree/master/0391-perfect-rectangle) |
 | [0400-nth-digit](https://github.com/arshpreetw11/leetcode/tree/master/0400-nth-digit) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/arshpreetw11/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/arshpreetw11/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -316,6 +318,7 @@
 | [0347-top-k-frequent-elements](https://github.com/arshpreetw11/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arshpreetw11/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/arshpreetw11/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0391-perfect-rectangle](https://github.com/arshpreetw11/leetcode/tree/master/0391-perfect-rectangle) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/arshpreetw11/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/arshpreetw11/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -829,6 +832,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0391-perfect-rectangle](https://github.com/arshpreetw11/leetcode/tree/master/0391-perfect-rectangle) |
 | [0587-erect-the-fence](https://github.com/arshpreetw11/leetcode/tree/master/0587-erect-the-fence) |
 | [2101-detonate-the-maximum-bombs](https://github.com/arshpreetw11/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Memoization
@@ -863,4 +867,8 @@
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/arshpreetw11/leetcode/tree/master/1095-find-in-mountain-array) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/arshpreetw11/leetcode/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
