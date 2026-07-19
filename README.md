@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/arshpreetw11/leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/arshpreetw11/leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/arshpreetw11/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -236,6 +237,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/arshpreetw11/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/arshpreetw11/leetcode/tree/master/0075-sort-colors) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/arshpreetw11/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/arshpreetw11/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
