@@ -92,6 +92,7 @@
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/arshpreetw11/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1649-create-sorted-array-through-instructions](https://github.com/arshpreetw11/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/arshpreetw11/leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/arshpreetw11/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/arshpreetw11/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
@@ -494,6 +495,7 @@
 | [1090-largest-values-from-labels](https://github.com/arshpreetw11/leetcode/tree/master/1090-largest-values-from-labels) |
 | [1338-reduce-array-size-to-the-half](https://github.com/arshpreetw11/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/arshpreetw11/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arshpreetw11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/arshpreetw11/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
@@ -550,6 +552,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/arshpreetw11/leetcode/tree/master/0071-simplify-path) |
 | [0975-odd-even-jump](https://github.com/arshpreetw11/leetcode/tree/master/0975-odd-even-jump) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/arshpreetw11/leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Simulation
 |  |
@@ -863,6 +866,7 @@
 |  |
 | ------- |
 | [0975-odd-even-jump](https://github.com/arshpreetw11/leetcode/tree/master/0975-odd-even-jump) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Interactive
 |  |
 | ------- |
