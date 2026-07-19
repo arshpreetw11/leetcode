@@ -10,6 +10,7 @@
 | [0054-spiral-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/arshpreetw11/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/arshpreetw11/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/arshpreetw11/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/arshpreetw11/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0216-combination-sum-iii](https://github.com/arshpreetw11/leetcode/tree/master/0216-combination-sum-iii) |
@@ -241,6 +242,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/arshpreetw11/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/arshpreetw11/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/arshpreetw11/leetcode/tree/master/0088-merge-sorted-array) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/arshpreetw11/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/arshpreetw11/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0647-palindromic-substrings](https://github.com/arshpreetw11/leetcode/tree/master/0647-palindromic-substrings) |
@@ -448,6 +450,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/arshpreetw11/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/arshpreetw11/leetcode/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/arshpreetw11/leetcode/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/arshpreetw11/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/arshpreetw11/leetcode/tree/master/0347-top-k-frequent-elements) |
