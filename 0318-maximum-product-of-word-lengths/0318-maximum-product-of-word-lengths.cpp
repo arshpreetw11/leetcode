@@ -3,25 +3,29 @@ public:
     int maxProduct(vector<string>& words) {
         int n=words.size();
         int product=0;
+        sort(words.begin(),words.end(),[&](string &a,string &b){
+            if(a.size()==b.size()) return a>b;
+            return a.size()>b.size();
+        });
+        vector<int> bit(n,0);
         for(int i=0;i<n;i++){
             string word=words[i];
             int len=word.size();
-            unordered_map<char,int> freq;
-            for(char ch : word){
-                freq[ch]++;
+            int mask=0;
+            for(char c: word){
+                mask |=1<<(c-'a');
             }
+            bit[i]=mask;
+        }
+        for(int i=0;i<n;i++){
+            int mask1=bit[i];
+            int len=words[i].size();
             for(int j=i+1;j<n;j++){
-                string word2=words[j];
-                int len2=word2.size();
-                int take=true;
-                for(char ch : word2){
-                    if(freq[ch]){
-                        take=false;
-                        break;
-                    }
-                }
-                if(take){
+                int mask2=bit[j];
+                int len2=words[j].size();
+                if((mask1 & mask2)==0){
                     product=max(product,len*len2);
+                    break;
                 }
             }
         }
