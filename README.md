@@ -281,6 +281,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/arshpreetw11/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/arshpreetw11/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/arshpreetw11/leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/arshpreetw11/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2278-percentage-of-letter-in-string](https://github.com/arshpreetw11/leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/arshpreetw11/leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/arshpreetw11/leetcode/tree/master/2418-sort-the-people) |
@@ -299,6 +300,7 @@
 | [1291-sequential-digits](https://github.com/arshpreetw11/leetcode/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/arshpreetw11/leetcode/tree/master/1952-three-divisors) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/arshpreetw11/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/arshpreetw11/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/arshpreetw11/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/arshpreetw11/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String Matching
@@ -502,6 +504,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arshpreetw11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/arshpreetw11/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/arshpreetw11/leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/arshpreetw11/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/arshpreetw11/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arshpreetw11/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
