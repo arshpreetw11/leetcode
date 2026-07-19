@@ -7,6 +7,7 @@
 | [0031-next-permutation](https://github.com/arshpreetw11/leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/arshpreetw11/leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/arshpreetw11/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/arshpreetw11/leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -579,6 +580,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/arshpreetw11/leetcode/tree/master/0289-game-of-life) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
@@ -710,6 +712,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/arshpreetw11/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/arshpreetw11/leetcode/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/arshpreetw11/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
