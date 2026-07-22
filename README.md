@@ -247,6 +247,7 @@
 | [0031-next-permutation](https://github.com/arshpreetw11/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/arshpreetw11/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arshpreetw11/leetcode/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/arshpreetw11/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/arshpreetw11/leetcode/tree/master/0165-compare-version-numbers) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/arshpreetw11/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/arshpreetw11/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -342,6 +343,7 @@
 | [0073-set-matrix-zeroes](https://github.com/arshpreetw11/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/arshpreetw11/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/arshpreetw11/leetcode/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/arshpreetw11/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/arshpreetw11/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/arshpreetw11/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/arshpreetw11/leetcode/tree/master/0290-word-pattern) |
@@ -644,6 +646,7 @@
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0146-lru-cache](https://github.com/arshpreetw11/leetcode/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/arshpreetw11/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/arshpreetw11/leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/arshpreetw11/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/arshpreetw11/leetcode/tree/master/0622-design-circular-queue) |
