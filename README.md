@@ -594,6 +594,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/arshpreetw11/leetcode/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0402-remove-k-digits](https://github.com/arshpreetw11/leetcode/tree/master/0402-remove-k-digits) |
 | [0975-odd-even-jump](https://github.com/arshpreetw11/leetcode/tree/master/0975-odd-even-jump) |
@@ -686,6 +687,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/arshpreetw11/leetcode/tree/master/0437-path-sum-iii) |
 | [0690-employee-importance](https://github.com/arshpreetw11/leetcode/tree/master/0690-employee-importance) |
@@ -707,6 +709,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/arshpreetw11/leetcode/tree/master/0437-path-sum-iii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/arshpreetw11/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -787,6 +790,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0332-reconstruct-itinerary](https://github.com/arshpreetw11/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/arshpreetw11/leetcode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/arshpreetw11/leetcode/tree/master/0437-path-sum-iii) |
