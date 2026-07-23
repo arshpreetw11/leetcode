@@ -688,6 +688,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -710,6 +711,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -768,6 +770,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0399-evaluate-division](https://github.com/arshpreetw11/leetcode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/arshpreetw11/leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/arshpreetw11/leetcode/tree/master/0547-number-of-provinces) |
