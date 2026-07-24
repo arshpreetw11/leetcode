@@ -272,6 +272,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arshpreetw11/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/arshpreetw11/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/arshpreetw11/leetcode/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/arshpreetw11/leetcode/tree/master/0071-simplify-path) |
 | [0093-restore-ip-addresses](https://github.com/arshpreetw11/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0165-compare-version-numbers](https://github.com/arshpreetw11/leetcode/tree/master/0165-compare-version-numbers) |
