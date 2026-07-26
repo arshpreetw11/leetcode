@@ -80,6 +80,7 @@
 | [1029-two-city-scheduling](https://github.com/arshpreetw11/leetcode/tree/master/1029-two-city-scheduling) |
 | [1034-coloring-a-border](https://github.com/arshpreetw11/leetcode/tree/master/1034-coloring-a-border) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/arshpreetw11/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1046-last-stone-weight](https://github.com/arshpreetw11/leetcode/tree/master/1046-last-stone-weight) |
 | [1090-largest-values-from-labels](https://github.com/arshpreetw11/leetcode/tree/master/1090-largest-values-from-labels) |
 | [1095-find-in-mountain-array](https://github.com/arshpreetw11/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1169-invalid-transactions](https://github.com/arshpreetw11/leetcode/tree/master/1169-invalid-transactions) |
@@ -580,6 +581,7 @@
 | [0692-top-k-frequent-words](https://github.com/arshpreetw11/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/arshpreetw11/leetcode/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/arshpreetw11/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
