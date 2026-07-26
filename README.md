@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/arshpreetw11/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/arshpreetw11/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/arshpreetw11/leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/arshpreetw11/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/arshpreetw11/leetcode/tree/master/0260-single-number-iii) |
@@ -192,6 +193,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0377-combination-sum-iv](https://github.com/arshpreetw11/leetcode/tree/master/0377-combination-sum-iv) |
 | [0486-predict-the-winner](https://github.com/arshpreetw11/leetcode/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/arshpreetw11/leetcode/tree/master/0526-beautiful-arrangement) |
