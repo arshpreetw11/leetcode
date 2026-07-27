@@ -59,6 +59,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/arshpreetw11/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/arshpreetw11/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/arshpreetw11/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/arshpreetw11/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0661-image-smoother](https://github.com/arshpreetw11/leetcode/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/arshpreetw11/leetcode/tree/master/0665-non-decreasing-array) |
 | [0690-employee-importance](https://github.com/arshpreetw11/leetcode/tree/master/0690-employee-importance) |
@@ -378,6 +379,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/arshpreetw11/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/arshpreetw11/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/arshpreetw11/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0676-implement-magic-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0690-employee-importance](https://github.com/arshpreetw11/leetcode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/arshpreetw11/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -553,6 +555,7 @@
 | [0502-ipo](https://github.com/arshpreetw11/leetcode/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0646-maximum-length-of-pair-chain](https://github.com/arshpreetw11/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/arshpreetw11/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0765-couples-holding-hands](https://github.com/arshpreetw11/leetcode/tree/master/0765-couples-holding-hands) |
 | [0948-bag-of-tokens](https://github.com/arshpreetw11/leetcode/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/arshpreetw11/leetcode/tree/master/0969-pancake-sorting) |
@@ -582,6 +585,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/arshpreetw11/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/arshpreetw11/leetcode/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/arshpreetw11/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/arshpreetw11/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/arshpreetw11/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0912-sort-an-array) |
