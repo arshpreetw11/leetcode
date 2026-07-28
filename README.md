@@ -335,6 +335,7 @@
 | [3333-find-the-original-typed-string-ii](https://github.com/arshpreetw11/leetcode/tree/master/3333-find-the-original-typed-string-ii) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/arshpreetw11/leetcode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/arshpreetw11/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/arshpreetw11/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/arshpreetw11/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Enumeration
 |  |
@@ -544,6 +545,7 @@
 | [2421-number-of-good-paths](https://github.com/arshpreetw11/leetcode/tree/master/2421-number-of-good-paths) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/arshpreetw11/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/arshpreetw11/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/arshpreetw11/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arshpreetw11/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/arshpreetw11/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/arshpreetw11/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -600,6 +602,7 @@
 | [0274-h-index](https://github.com/arshpreetw11/leetcode/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arshpreetw11/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/arshpreetw11/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
 | ------- |
