@@ -126,6 +126,7 @@
 | [2225-find-players-with-zero-or-one-losses](https://github.com/arshpreetw11/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/arshpreetw11/leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/arshpreetw11/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/arshpreetw11/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/arshpreetw11/leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/arshpreetw11/leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2418-sort-the-people](https://github.com/arshpreetw11/leetcode/tree/master/2418-sort-the-people) |
@@ -276,6 +277,7 @@
 | [0948-bag-of-tokens](https://github.com/arshpreetw11/leetcode/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/arshpreetw11/leetcode/tree/master/0969-pancake-sorting) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arshpreetw11/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/arshpreetw11/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arshpreetw11/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arshpreetw11/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -544,6 +546,7 @@
 | [2195-append-k-integers-with-minimal-sum](https://github.com/arshpreetw11/leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/arshpreetw11/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/arshpreetw11/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/arshpreetw11/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2418-sort-the-people](https://github.com/arshpreetw11/leetcode/tree/master/2418-sort-the-people) |
 | [2421-number-of-good-paths](https://github.com/arshpreetw11/leetcode/tree/master/2421-number-of-good-paths) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/arshpreetw11/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -624,6 +627,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/arshpreetw11/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arshpreetw11/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1649-create-sorted-array-through-instructions](https://github.com/arshpreetw11/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/arshpreetw11/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arshpreetw11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arshpreetw11/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
