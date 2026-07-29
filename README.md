@@ -89,6 +89,7 @@
 | [1095-find-in-mountain-array](https://github.com/arshpreetw11/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/arshpreetw11/leetcode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1169-invalid-transactions](https://github.com/arshpreetw11/leetcode/tree/master/1169-invalid-transactions) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arshpreetw11/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/arshpreetw11/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1260-shift-2d-grid](https://github.com/arshpreetw11/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/arshpreetw11/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -176,6 +177,7 @@
 | [0781-rabbits-in-forest](https://github.com/arshpreetw11/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0869-reordered-power-of-2](https://github.com/arshpreetw11/leetcode/tree/master/0869-reordered-power-of-2) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/arshpreetw11/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arshpreetw11/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/arshpreetw11/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/arshpreetw11/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1952-three-divisors](https://github.com/arshpreetw11/leetcode/tree/master/1952-three-divisors) |
@@ -580,6 +582,7 @@
 | [1053-previous-permutation-with-one-swap](https://github.com/arshpreetw11/leetcode/tree/master/1053-previous-permutation-with-one-swap) |
 | [1090-largest-values-from-labels](https://github.com/arshpreetw11/leetcode/tree/master/1090-largest-values-from-labels) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/arshpreetw11/leetcode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arshpreetw11/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/arshpreetw11/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1338-reduce-array-size-to-the-half](https://github.com/arshpreetw11/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
