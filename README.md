@@ -195,6 +195,7 @@
 | [2413-smallest-even-multiple](https://github.com/arshpreetw11/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/arshpreetw11/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/arshpreetw11/leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arshpreetw11/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arshpreetw11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/arshpreetw11/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/arshpreetw11/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -346,6 +347,7 @@
 | [2506-count-pairs-of-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/arshpreetw11/leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2953-count-complete-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2953-count-complete-substrings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arshpreetw11/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/arshpreetw11/leetcode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3330-find-the-original-typed-string-i](https://github.com/arshpreetw11/leetcode/tree/master/3330-find-the-original-typed-string-i) |
 | [3333-find-the-original-typed-string-ii](https://github.com/arshpreetw11/leetcode/tree/master/3333-find-the-original-typed-string-ii) |
@@ -605,6 +607,7 @@
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/arshpreetw11/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/arshpreetw11/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/arshpreetw11/leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arshpreetw11/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arshpreetw11/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/arshpreetw11/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Heap (Priority Queue)
