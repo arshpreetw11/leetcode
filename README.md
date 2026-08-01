@@ -101,6 +101,7 @@
 | [1260-shift-2d-grid](https://github.com/arshpreetw11/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/arshpreetw11/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/arshpreetw11/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/arshpreetw11/leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1331-rank-transform-of-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/arshpreetw11/leetcode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1338-reduce-array-size-to-the-half](https://github.com/arshpreetw11/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -583,6 +584,7 @@
 | [1169-invalid-transactions](https://github.com/arshpreetw11/leetcode/tree/master/1169-invalid-transactions) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/arshpreetw11/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/arshpreetw11/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/arshpreetw11/leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1331-rank-transform-of-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/arshpreetw11/leetcode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1338-reduce-array-size-to-the-half](https://github.com/arshpreetw11/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -706,6 +708,7 @@
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1095-find-in-mountain-array](https://github.com/arshpreetw11/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/arshpreetw11/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/arshpreetw11/leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arshpreetw11/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1649-create-sorted-array-through-instructions](https://github.com/arshpreetw11/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/arshpreetw11/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
