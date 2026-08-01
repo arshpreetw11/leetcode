@@ -81,6 +81,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0954-array-of-doubled-pairs](https://github.com/arshpreetw11/leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0969-pancake-sorting](https://github.com/arshpreetw11/leetcode/tree/master/0969-pancake-sorting) |
+| [0973-k-closest-points-to-origin](https://github.com/arshpreetw11/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0975-odd-even-jump](https://github.com/arshpreetw11/leetcode/tree/master/0975-odd-even-jump) |
 | [1024-video-stitching](https://github.com/arshpreetw11/leetcode/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/arshpreetw11/leetcode/tree/master/1029-two-city-scheduling) |
@@ -184,6 +185,7 @@
 | [0710-random-pick-with-blacklist](https://github.com/arshpreetw11/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0781-rabbits-in-forest](https://github.com/arshpreetw11/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0869-reordered-power-of-2](https://github.com/arshpreetw11/leetcode/tree/master/0869-reordered-power-of-2) |
+| [0973-k-closest-points-to-origin](https://github.com/arshpreetw11/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/arshpreetw11/leetcode/tree/master/1025-divisor-game) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/arshpreetw11/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/arshpreetw11/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -478,6 +480,7 @@
 | [0372-super-pow](https://github.com/arshpreetw11/leetcode/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/arshpreetw11/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0912-sort-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/arshpreetw11/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1649-create-sorted-array-through-instructions](https://github.com/arshpreetw11/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1763-longest-nice-substring](https://github.com/arshpreetw11/leetcode/tree/master/1763-longest-nice-substring) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arshpreetw11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -568,6 +571,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0954-array-of-doubled-pairs](https://github.com/arshpreetw11/leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0969-pancake-sorting](https://github.com/arshpreetw11/leetcode/tree/master/0969-pancake-sorting) |
+| [0973-k-closest-points-to-origin](https://github.com/arshpreetw11/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0975-odd-even-jump](https://github.com/arshpreetw11/leetcode/tree/master/0975-odd-even-jump) |
 | [1029-two-city-scheduling](https://github.com/arshpreetw11/leetcode/tree/master/1029-two-city-scheduling) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/arshpreetw11/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
@@ -669,6 +673,7 @@
 | [0692-top-k-frequent-words](https://github.com/arshpreetw11/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/arshpreetw11/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/arshpreetw11/leetcode/tree/master/1046-last-stone-weight) |
 | [1054-distant-barcodes](https://github.com/arshpreetw11/leetcode/tree/master/1054-distant-barcodes) |
 | [1338-reduce-array-size-to-the-half](https://github.com/arshpreetw11/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -1011,6 +1016,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/arshpreetw11/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/arshpreetw11/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -1021,6 +1027,7 @@
 | ------- |
 | [0391-perfect-rectangle](https://github.com/arshpreetw11/leetcode/tree/master/0391-perfect-rectangle) |
 | [0587-erect-the-fence](https://github.com/arshpreetw11/leetcode/tree/master/0587-erect-the-fence) |
+| [0973-k-closest-points-to-origin](https://github.com/arshpreetw11/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [2101-detonate-the-maximum-bombs](https://github.com/arshpreetw11/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Memoization
 |  |
