@@ -132,6 +132,7 @@
 | [1818-minimum-absolute-sum-difference](https://github.com/arshpreetw11/leetcode/tree/master/1818-minimum-absolute-sum-difference) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/arshpreetw11/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arshpreetw11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/arshpreetw11/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arshpreetw11/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/arshpreetw11/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2101-detonate-the-maximum-bombs](https://github.com/arshpreetw11/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -620,6 +621,7 @@
 | [1818-minimum-absolute-sum-difference](https://github.com/arshpreetw11/leetcode/tree/master/1818-minimum-absolute-sum-difference) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arshpreetw11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1859-sorting-the-sentence](https://github.com/arshpreetw11/leetcode/tree/master/1859-sorting-the-sentence) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/arshpreetw11/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/arshpreetw11/leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/arshpreetw11/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/arshpreetw11/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
@@ -670,6 +672,7 @@
 | [1686-stone-game-vi](https://github.com/arshpreetw11/leetcode/tree/master/1686-stone-game-vi) |
 | [1710-maximum-units-on-a-truck](https://github.com/arshpreetw11/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arshpreetw11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/arshpreetw11/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/arshpreetw11/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/arshpreetw11/leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/arshpreetw11/leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
