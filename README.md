@@ -241,6 +241,7 @@
 | [0152-maximum-product-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0377-combination-sum-iv](https://github.com/arshpreetw11/leetcode/tree/master/0377-combination-sum-iv) |
 | [0486-predict-the-winner](https://github.com/arshpreetw11/leetcode/tree/master/0486-predict-the-winner) |
+| [0488-zuma-game](https://github.com/arshpreetw11/leetcode/tree/master/0488-zuma-game) |
 | [0526-beautiful-arrangement](https://github.com/arshpreetw11/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0553-optimal-division](https://github.com/arshpreetw11/leetcode/tree/master/0553-optimal-division) |
 | [0646-maximum-length-of-pair-chain](https://github.com/arshpreetw11/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -356,6 +357,7 @@
 | [0423-reconstruct-original-digits-from-english](https://github.com/arshpreetw11/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0451-sort-characters-by-frequency](https://github.com/arshpreetw11/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/arshpreetw11/leetcode/tree/master/0482-license-key-formatting) |
+| [0488-zuma-game](https://github.com/arshpreetw11/leetcode/tree/master/0488-zuma-game) |
 | [0500-keyboard-row](https://github.com/arshpreetw11/leetcode/tree/master/0500-keyboard-row) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/arshpreetw11/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/arshpreetw11/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -756,6 +758,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0402-remove-k-digits](https://github.com/arshpreetw11/leetcode/tree/master/0402-remove-k-digits) |
+| [0488-zuma-game](https://github.com/arshpreetw11/leetcode/tree/master/0488-zuma-game) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0975-odd-even-jump](https://github.com/arshpreetw11/leetcode/tree/master/0975-odd-even-jump) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -936,6 +939,7 @@
 | [0399-evaluate-division](https://github.com/arshpreetw11/leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/arshpreetw11/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/arshpreetw11/leetcode/tree/master/0463-island-perimeter) |
+| [0488-zuma-game](https://github.com/arshpreetw11/leetcode/tree/master/0488-zuma-game) |
 | [0547-number-of-provinces](https://github.com/arshpreetw11/leetcode/tree/master/0547-number-of-provinces) |
 | [0672-bulb-switcher-ii](https://github.com/arshpreetw11/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0684-redundant-connection](https://github.com/arshpreetw11/leetcode/tree/master/0684-redundant-connection) |
@@ -1074,6 +1078,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0488-zuma-game](https://github.com/arshpreetw11/leetcode/tree/master/0488-zuma-game) |
 | [1137-n-th-tribonacci-number](https://github.com/arshpreetw11/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/arshpreetw11/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Number Theory
