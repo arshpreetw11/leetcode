@@ -304,6 +304,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/arshpreetw11/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0222-count-complete-tree-nodes](https://github.com/arshpreetw11/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/arshpreetw11/leetcode/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/arshpreetw11/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0371-sum-of-two-integers](https://github.com/arshpreetw11/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -740,6 +741,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/arshpreetw11/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0275-h-index-ii](https://github.com/arshpreetw11/leetcode/tree/master/0275-h-index-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/arshpreetw11/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/arshpreetw11/leetcode/tree/master/0327-count-of-range-sum) |
@@ -865,6 +867,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/arshpreetw11/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/arshpreetw11/leetcode/tree/master/0437-path-sum-iii) |
 | [0690-employee-importance](https://github.com/arshpreetw11/leetcode/tree/master/0690-employee-importance) |
@@ -888,6 +891,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/arshpreetw11/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/arshpreetw11/leetcode/tree/master/0437-path-sum-iii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/arshpreetw11/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
