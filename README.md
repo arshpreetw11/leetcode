@@ -925,6 +925,7 @@
 | [2368-reachable-nodes-with-restrictions](https://github.com/arshpreetw11/leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2421-number-of-good-paths](https://github.com/arshpreetw11/leetcode/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arshpreetw11/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/arshpreetw11/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/arshpreetw11/leetcode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3528-unit-conversion-i](https://github.com/arshpreetw11/leetcode/tree/master/3528-unit-conversion-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arshpreetw11/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -984,6 +985,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arshpreetw11/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/arshpreetw11/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3310-remove-methods-from-project](https://github.com/arshpreetw11/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/arshpreetw11/leetcode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3528-unit-conversion-i](https://github.com/arshpreetw11/leetcode/tree/master/3528-unit-conversion-i) |
 ## Depth-First Search
@@ -1014,6 +1016,7 @@
 | [2368-reachable-nodes-with-restrictions](https://github.com/arshpreetw11/leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arshpreetw11/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3249-count-the-number-of-good-nodes](https://github.com/arshpreetw11/leetcode/tree/master/3249-count-the-number-of-good-nodes) |
+| [3310-remove-methods-from-project](https://github.com/arshpreetw11/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/arshpreetw11/leetcode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3528-unit-conversion-i](https://github.com/arshpreetw11/leetcode/tree/master/3528-unit-conversion-i) |
 ## Iterator
