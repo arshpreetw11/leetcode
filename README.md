@@ -415,6 +415,7 @@
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/arshpreetw11/leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/arshpreetw11/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2278-percentage-of-letter-in-string](https://github.com/arshpreetw11/leetcode/tree/master/2278-percentage-of-letter-in-string) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/arshpreetw11/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2284-sender-with-largest-word-count](https://github.com/arshpreetw11/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/arshpreetw11/leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/arshpreetw11/leetcode/tree/master/2418-sort-the-people) |
@@ -513,6 +514,7 @@
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/arshpreetw11/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/arshpreetw11/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/arshpreetw11/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/arshpreetw11/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2284-sender-with-largest-word-count](https://github.com/arshpreetw11/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/arshpreetw11/leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/arshpreetw11/leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -584,6 +586,7 @@
 | [1862-sum-of-floored-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/arshpreetw11/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/arshpreetw11/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/arshpreetw11/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2284-sender-with-largest-word-count](https://github.com/arshpreetw11/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/arshpreetw11/leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
