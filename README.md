@@ -185,6 +185,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arshpreetw11/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/arshpreetw11/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3620-network-recovery-pathways](https://github.com/arshpreetw11/leetcode/tree/master/3620-network-recovery-pathways) |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/arshpreetw11/leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/arshpreetw11/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arshpreetw11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arshpreetw11/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -544,6 +545,7 @@
 | [3527-find-the-most-common-response](https://github.com/arshpreetw11/leetcode/tree/master/3527-find-the-most-common-response) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arshpreetw11/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/arshpreetw11/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/arshpreetw11/leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arshpreetw11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -614,6 +616,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/arshpreetw11/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3527-find-the-most-common-response](https://github.com/arshpreetw11/leetcode/tree/master/3527-find-the-most-common-response) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/arshpreetw11/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/arshpreetw11/leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arshpreetw11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -852,6 +855,7 @@
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/arshpreetw11/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/arshpreetw11/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/arshpreetw11/leetcode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/arshpreetw11/leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arshpreetw11/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
@@ -884,6 +888,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/arshpreetw11/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2953-count-complete-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2953-count-complete-substrings) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/arshpreetw11/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/arshpreetw11/leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 ## Linked List
 |  |
 | ------- |
