@@ -173,6 +173,7 @@
 | [2545-sort-the-students-by-their-kth-score](https://github.com/arshpreetw11/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/arshpreetw11/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/arshpreetw11/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/arshpreetw11/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3030-find-the-grid-of-region-average](https://github.com/arshpreetw11/leetcode/tree/master/3030-find-the-grid-of-region-average) |
 | [3265-count-almost-equal-pairs-i](https://github.com/arshpreetw11/leetcode/tree/master/3265-count-almost-equal-pairs-i) |
@@ -546,6 +547,7 @@
 | [2418-sort-the-people](https://github.com/arshpreetw11/leetcode/tree/master/2418-sort-the-people) |
 | [2421-number-of-good-paths](https://github.com/arshpreetw11/leetcode/tree/master/2421-number-of-good-paths) |
 | [2506-count-pairs-of-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/arshpreetw11/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2953-count-complete-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2953-count-complete-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshpreetw11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/arshpreetw11/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -622,6 +624,7 @@
 | [2284-sender-with-largest-word-count](https://github.com/arshpreetw11/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/arshpreetw11/leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/arshpreetw11/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshpreetw11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3265-count-almost-equal-pairs-i](https://github.com/arshpreetw11/leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/arshpreetw11/leetcode/tree/master/3267-count-almost-equal-pairs-ii) |
@@ -779,6 +782,7 @@
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/arshpreetw11/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/arshpreetw11/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/arshpreetw11/leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/arshpreetw11/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arshpreetw11/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshpreetw11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arshpreetw11/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
