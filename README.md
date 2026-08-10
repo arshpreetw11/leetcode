@@ -451,6 +451,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arshpreetw11/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshpreetw11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/arshpreetw11/leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
+| [3138-minimum-length-of-anagram-concatenation](https://github.com/arshpreetw11/leetcode/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arshpreetw11/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/arshpreetw11/leetcode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3330-find-the-original-typed-string-i](https://github.com/arshpreetw11/leetcode/tree/master/3330-find-the-original-typed-string-i) |
@@ -563,6 +564,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshpreetw11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/arshpreetw11/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/arshpreetw11/leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
+| [3138-minimum-length-of-anagram-concatenation](https://github.com/arshpreetw11/leetcode/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3238-find-the-number-of-winning-players](https://github.com/arshpreetw11/leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3265-count-almost-equal-pairs-i](https://github.com/arshpreetw11/leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/arshpreetw11/leetcode/tree/master/3267-count-almost-equal-pairs-ii) |
@@ -642,6 +644,7 @@
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/arshpreetw11/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshpreetw11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/arshpreetw11/leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
+| [3138-minimum-length-of-anagram-concatenation](https://github.com/arshpreetw11/leetcode/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3238-find-the-number-of-winning-players](https://github.com/arshpreetw11/leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3265-count-almost-equal-pairs-i](https://github.com/arshpreetw11/leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/arshpreetw11/leetcode/tree/master/3267-count-almost-equal-pairs-ii) |
