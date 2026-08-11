@@ -220,6 +220,7 @@
 | [0781-rabbits-in-forest](https://github.com/arshpreetw11/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0869-reordered-power-of-2](https://github.com/arshpreetw11/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/arshpreetw11/leetcode/tree/master/0877-stone-game) |
+| [0913-cat-and-mouse](https://github.com/arshpreetw11/leetcode/tree/master/0913-cat-and-mouse) |
 | [0973-k-closest-points-to-origin](https://github.com/arshpreetw11/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/arshpreetw11/leetcode/tree/master/1025-divisor-game) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/arshpreetw11/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
@@ -283,6 +284,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/arshpreetw11/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/arshpreetw11/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/arshpreetw11/leetcode/tree/master/0877-stone-game) |
+| [0913-cat-and-mouse](https://github.com/arshpreetw11/leetcode/tree/master/0913-cat-and-mouse) |
 | [0975-odd-even-jump](https://github.com/arshpreetw11/leetcode/tree/master/0975-odd-even-jump) |
 | [1024-video-stitching](https://github.com/arshpreetw11/leetcode/tree/master/1024-video-stitching) |
 | [1025-divisor-game](https://github.com/arshpreetw11/leetcode/tree/master/1025-divisor-game) |
@@ -316,6 +318,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/arshpreetw11/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/arshpreetw11/leetcode/tree/master/0877-stone-game) |
+| [0913-cat-and-mouse](https://github.com/arshpreetw11/leetcode/tree/master/0913-cat-and-mouse) |
 | [1025-divisor-game](https://github.com/arshpreetw11/leetcode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/arshpreetw11/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/arshpreetw11/leetcode/tree/master/1406-stone-game-iii) |
@@ -1025,6 +1028,7 @@
 | [0765-couples-holding-hands](https://github.com/arshpreetw11/leetcode/tree/master/0765-couples-holding-hands) |
 | [0841-keys-and-rooms](https://github.com/arshpreetw11/leetcode/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/arshpreetw11/leetcode/tree/master/0851-loud-and-rich) |
+| [0913-cat-and-mouse](https://github.com/arshpreetw11/leetcode/tree/master/0913-cat-and-mouse) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/arshpreetw11/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/arshpreetw11/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -1171,6 +1175,7 @@
 |  |
 | ------- |
 | [0851-loud-and-rich](https://github.com/arshpreetw11/leetcode/tree/master/0851-loud-and-rich) |
+| [0913-cat-and-mouse](https://github.com/arshpreetw11/leetcode/tree/master/0913-cat-and-mouse) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/arshpreetw11/leetcode/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/arshpreetw11/leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3620-network-recovery-pathways](https://github.com/arshpreetw11/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -1222,6 +1227,7 @@
 |  |
 | ------- |
 | [0488-zuma-game](https://github.com/arshpreetw11/leetcode/tree/master/0488-zuma-game) |
+| [0913-cat-and-mouse](https://github.com/arshpreetw11/leetcode/tree/master/0913-cat-and-mouse) |
 | [1137-n-th-tribonacci-number](https://github.com/arshpreetw11/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/arshpreetw11/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Number Theory
@@ -1269,6 +1275,7 @@
 ## Minimax
 |  |
 | ------- |
+| [0913-cat-and-mouse](https://github.com/arshpreetw11/leetcode/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/arshpreetw11/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/arshpreetw11/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/arshpreetw11/leetcode/tree/master/1510-stone-game-iv) |
@@ -1276,6 +1283,7 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0913-cat-and-mouse](https://github.com/arshpreetw11/leetcode/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/arshpreetw11/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/arshpreetw11/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/arshpreetw11/leetcode/tree/master/1510-stone-game-iv) |
