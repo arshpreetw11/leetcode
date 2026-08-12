@@ -229,6 +229,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/arshpreetw11/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/arshpreetw11/leetcode/tree/master/1140-stone-game-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arshpreetw11/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1227-airplane-seat-assignment-probability](https://github.com/arshpreetw11/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/arshpreetw11/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1323-maximum-69-number](https://github.com/arshpreetw11/leetcode/tree/master/1323-maximum-69-number) |
 | [1363-largest-multiple-of-three](https://github.com/arshpreetw11/leetcode/tree/master/1363-largest-multiple-of-three) |
@@ -293,6 +294,7 @@
 | [1025-divisor-game](https://github.com/arshpreetw11/leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/arshpreetw11/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/arshpreetw11/leetcode/tree/master/1140-stone-game-ii) |
+| [1227-airplane-seat-assignment-probability](https://github.com/arshpreetw11/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/arshpreetw11/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1363-largest-multiple-of-three](https://github.com/arshpreetw11/leetcode/tree/master/1363-largest-multiple-of-three) |
 | [1402-reducing-dishes](https://github.com/arshpreetw11/leetcode/tree/master/1402-reducing-dishes) |
@@ -1204,6 +1206,7 @@
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/arshpreetw11/leetcode/tree/master/0470-implement-rand10-using-rand7) |
+| [1227-airplane-seat-assignment-probability](https://github.com/arshpreetw11/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1277,6 +1280,7 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/arshpreetw11/leetcode/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/arshpreetw11/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 ## Minimax
 |  |
 | ------- |
