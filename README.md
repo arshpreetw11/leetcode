@@ -241,6 +241,7 @@
 | [1510-stone-game-iv](https://github.com/arshpreetw11/leetcode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/arshpreetw11/leetcode/tree/master/1563-stone-game-v) |
+| [1641-count-sorted-vowel-strings](https://github.com/arshpreetw11/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1686-stone-game-vi](https://github.com/arshpreetw11/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/arshpreetw11/leetcode/tree/master/1690-stone-game-vii) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/arshpreetw11/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
@@ -307,6 +308,7 @@
 | [1563-stone-game-v](https://github.com/arshpreetw11/leetcode/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/arshpreetw11/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1626-best-team-with-no-conflicts](https://github.com/arshpreetw11/leetcode/tree/master/1626-best-team-with-no-conflicts) |
+| [1641-count-sorted-vowel-strings](https://github.com/arshpreetw11/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1668-maximum-repeating-substring](https://github.com/arshpreetw11/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1690-stone-game-vii](https://github.com/arshpreetw11/leetcode/tree/master/1690-stone-game-vii) |
 | [2063-vowels-of-all-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2063-vowels-of-all-substrings) |
@@ -1064,6 +1066,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/arshpreetw11/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [2063-vowels-of-all-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arshpreetw11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/arshpreetw11/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
