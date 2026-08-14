@@ -470,6 +470,7 @@
 | [2953-count-complete-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2953-count-complete-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arshpreetw11/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshpreetw11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/arshpreetw11/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/arshpreetw11/leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/arshpreetw11/leetcode/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arshpreetw11/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -586,6 +587,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arshpreetw11/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshpreetw11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/arshpreetw11/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/arshpreetw11/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/arshpreetw11/leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/arshpreetw11/leetcode/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3238-find-the-number-of-winning-players](https://github.com/arshpreetw11/leetcode/tree/master/3238-find-the-number-of-winning-players) |
@@ -961,6 +963,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/arshpreetw11/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2953-count-complete-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2953-count-complete-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arshpreetw11/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/arshpreetw11/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/arshpreetw11/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/arshpreetw11/leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 ## Linked List
