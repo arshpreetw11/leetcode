@@ -128,6 +128,7 @@
 | [1471-the-k-strongest-values-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arshpreetw11/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/arshpreetw11/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/arshpreetw11/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/arshpreetw11/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/arshpreetw11/leetcode/tree/master/1563-stone-game-v) |
@@ -399,6 +400,7 @@
 | [0969-pancake-sorting](https://github.com/arshpreetw11/leetcode/tree/master/0969-pancake-sorting) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arshpreetw11/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/arshpreetw11/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/arshpreetw11/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/arshpreetw11/leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arshpreetw11/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -766,6 +768,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/arshpreetw11/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/arshpreetw11/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/arshpreetw11/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/arshpreetw11/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/arshpreetw11/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -901,6 +904,7 @@
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/arshpreetw11/leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arshpreetw11/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arshpreetw11/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/arshpreetw11/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1649-create-sorted-array-through-instructions](https://github.com/arshpreetw11/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1818-minimum-absolute-sum-difference](https://github.com/arshpreetw11/leetcode/tree/master/1818-minimum-absolute-sum-difference) |
 | [1862-sum-of-floored-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1862-sum-of-floored-pairs) |
