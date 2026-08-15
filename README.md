@@ -183,6 +183,7 @@
 | [2421-number-of-good-paths](https://github.com/arshpreetw11/leetcode/tree/master/2421-number-of-good-paths) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/arshpreetw11/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2506-count-pairs-of-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
+| [2512-reward-top-k-students](https://github.com/arshpreetw11/leetcode/tree/master/2512-reward-top-k-students) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/arshpreetw11/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/arshpreetw11/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -479,6 +480,7 @@
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/arshpreetw11/leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/arshpreetw11/leetcode/tree/master/2418-sort-the-people) |
 | [2506-count-pairs-of-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
+| [2512-reward-top-k-students](https://github.com/arshpreetw11/leetcode/tree/master/2512-reward-top-k-students) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/arshpreetw11/leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2953-count-complete-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2953-count-complete-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arshpreetw11/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -595,6 +597,7 @@
 | [2418-sort-the-people](https://github.com/arshpreetw11/leetcode/tree/master/2418-sort-the-people) |
 | [2421-number-of-good-paths](https://github.com/arshpreetw11/leetcode/tree/master/2421-number-of-good-paths) |
 | [2506-count-pairs-of-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
+| [2512-reward-top-k-students](https://github.com/arshpreetw11/leetcode/tree/master/2512-reward-top-k-students) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/arshpreetw11/leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/arshpreetw11/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2953-count-complete-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2953-count-complete-substrings) |
@@ -801,6 +804,7 @@
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/arshpreetw11/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2418-sort-the-people](https://github.com/arshpreetw11/leetcode/tree/master/2418-sort-the-people) |
 | [2421-number-of-good-paths](https://github.com/arshpreetw11/leetcode/tree/master/2421-number-of-good-paths) |
+| [2512-reward-top-k-students](https://github.com/arshpreetw11/leetcode/tree/master/2512-reward-top-k-students) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/arshpreetw11/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/arshpreetw11/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arshpreetw11/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -895,6 +899,7 @@
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/arshpreetw11/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/arshpreetw11/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/arshpreetw11/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2512-reward-top-k-students](https://github.com/arshpreetw11/leetcode/tree/master/2512-reward-top-k-students) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/arshpreetw11/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Counting Sort
