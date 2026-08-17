@@ -272,6 +272,7 @@
 | [2376-count-special-integers](https://github.com/arshpreetw11/leetcode/tree/master/2376-count-special-integers) |
 | [2413-smallest-even-multiple](https://github.com/arshpreetw11/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/arshpreetw11/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2578-split-with-minimum-sum](https://github.com/arshpreetw11/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/arshpreetw11/leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arshpreetw11/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arshpreetw11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -815,6 +816,7 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/arshpreetw11/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2512-reward-top-k-students](https://github.com/arshpreetw11/leetcode/tree/master/2512-reward-top-k-students) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/arshpreetw11/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2578-split-with-minimum-sum](https://github.com/arshpreetw11/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/arshpreetw11/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arshpreetw11/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshpreetw11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -872,6 +874,7 @@
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/arshpreetw11/leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/arshpreetw11/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/arshpreetw11/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2578-split-with-minimum-sum](https://github.com/arshpreetw11/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/arshpreetw11/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/arshpreetw11/leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/arshpreetw11/leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
