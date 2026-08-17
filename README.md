@@ -193,6 +193,7 @@
 | [2740-find-the-value-of-the-partition](https://github.com/arshpreetw11/leetcode/tree/master/2740-find-the-value-of-the-partition) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arshpreetw11/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/arshpreetw11/leetcode/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/arshpreetw11/leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/arshpreetw11/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arshpreetw11/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -336,6 +337,7 @@
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/arshpreetw11/leetcode/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2376-count-special-integers](https://github.com/arshpreetw11/leetcode/tree/master/2376-count-special-integers) |
 | [2420-find-all-good-indices](https://github.com/arshpreetw11/leetcode/tree/master/2420-find-all-good-indices) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/arshpreetw11/leetcode/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/arshpreetw11/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arshpreetw11/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3333-find-the-original-typed-string-ii](https://github.com/arshpreetw11/leetcode/tree/master/3333-find-the-original-typed-string-ii) |
@@ -608,6 +610,7 @@
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/arshpreetw11/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2506-count-pairs-of-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2512-reward-top-k-students](https://github.com/arshpreetw11/leetcode/tree/master/2512-reward-top-k-students) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/arshpreetw11/leetcode/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/arshpreetw11/leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/arshpreetw11/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2953-count-complete-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2953-count-complete-substrings) |
@@ -824,6 +827,7 @@
 | [2679-sum-in-a-matrix](https://github.com/arshpreetw11/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2740-find-the-value-of-the-partition](https://github.com/arshpreetw11/leetcode/tree/master/2740-find-the-value-of-the-partition) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arshpreetw11/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/arshpreetw11/leetcode/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arshpreetw11/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshpreetw11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3265-count-almost-equal-pairs-i](https://github.com/arshpreetw11/leetcode/tree/master/3265-count-almost-equal-pairs-i) |
@@ -956,6 +960,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/arshpreetw11/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arshpreetw11/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/arshpreetw11/leetcode/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/arshpreetw11/leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arshpreetw11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arshpreetw11/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
