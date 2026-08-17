@@ -191,6 +191,7 @@
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/arshpreetw11/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2679-sum-in-a-matrix](https://github.com/arshpreetw11/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2740-find-the-value-of-the-partition](https://github.com/arshpreetw11/leetcode/tree/master/2740-find-the-value-of-the-partition) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arshpreetw11/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/arshpreetw11/leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/arshpreetw11/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -822,6 +823,7 @@
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/arshpreetw11/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2679-sum-in-a-matrix](https://github.com/arshpreetw11/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2740-find-the-value-of-the-partition](https://github.com/arshpreetw11/leetcode/tree/master/2740-find-the-value-of-the-partition) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arshpreetw11/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arshpreetw11/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshpreetw11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3265-count-almost-equal-pairs-i](https://github.com/arshpreetw11/leetcode/tree/master/3265-count-almost-equal-pairs-i) |
@@ -952,6 +954,7 @@
 | [1862-sum-of-floored-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/arshpreetw11/leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/arshpreetw11/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arshpreetw11/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/arshpreetw11/leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arshpreetw11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1021,6 +1024,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arshpreetw11/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1763-longest-nice-substring](https://github.com/arshpreetw11/leetcode/tree/master/1763-longest-nice-substring) |
 | [2090-k-radius-subarray-averages](https://github.com/arshpreetw11/leetcode/tree/master/2090-k-radius-subarray-averages) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arshpreetw11/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2953-count-complete-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2953-count-complete-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arshpreetw11/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arshpreetw11/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
