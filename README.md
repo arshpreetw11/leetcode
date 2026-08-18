@@ -204,6 +204,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/arshpreetw11/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3030-find-the-grid-of-region-average](https://github.com/arshpreetw11/leetcode/tree/master/3030-find-the-grid-of-region-average) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/arshpreetw11/leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
+| [3074-apple-redistribution-into-boxes](https://github.com/arshpreetw11/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3238-find-the-number-of-winning-players](https://github.com/arshpreetw11/leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3265-count-almost-equal-pairs-i](https://github.com/arshpreetw11/leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/arshpreetw11/leetcode/tree/master/3267-count-almost-equal-pairs-ii) |
@@ -843,6 +844,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arshpreetw11/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshpreetw11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/arshpreetw11/leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
+| [3074-apple-redistribution-into-boxes](https://github.com/arshpreetw11/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3265-count-almost-equal-pairs-i](https://github.com/arshpreetw11/leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/arshpreetw11/leetcode/tree/master/3267-count-almost-equal-pairs-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/arshpreetw11/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -904,6 +906,7 @@
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/arshpreetw11/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arshpreetw11/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshpreetw11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3074-apple-redistribution-into-boxes](https://github.com/arshpreetw11/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arshpreetw11/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/arshpreetw11/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arshpreetw11/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
