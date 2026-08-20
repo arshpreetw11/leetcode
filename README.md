@@ -190,6 +190,7 @@
 | [2512-reward-top-k-students](https://github.com/arshpreetw11/leetcode/tree/master/2512-reward-top-k-students) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/arshpreetw11/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/arshpreetw11/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [2603-collect-coins-in-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/2603-collect-coins-in-a-tree) |
 | [2679-sum-in-a-matrix](https://github.com/arshpreetw11/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2740-find-the-value-of-the-partition](https://github.com/arshpreetw11/leetcode/tree/master/2740-find-the-value-of-the-partition) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arshpreetw11/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
@@ -1118,6 +1119,7 @@
 | [2331-evaluate-boolean-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/arshpreetw11/leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2421-number-of-good-paths](https://github.com/arshpreetw11/leetcode/tree/master/2421-number-of-good-paths) |
+| [2603-collect-coins-in-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/2603-collect-coins-in-a-tree) |
 | [3249-count-the-number-of-good-nodes](https://github.com/arshpreetw11/leetcode/tree/master/3249-count-the-number-of-good-nodes) |
 ## Binary Search Tree
 |  |
@@ -1159,6 +1161,7 @@
 | [2368-reachable-nodes-with-restrictions](https://github.com/arshpreetw11/leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2421-number-of-good-paths](https://github.com/arshpreetw11/leetcode/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arshpreetw11/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2603-collect-coins-in-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/2603-collect-coins-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/arshpreetw11/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/arshpreetw11/leetcode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3528-unit-conversion-i](https://github.com/arshpreetw11/leetcode/tree/master/3528-unit-conversion-i) |
@@ -1307,6 +1310,7 @@
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/arshpreetw11/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/arshpreetw11/leetcode/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/arshpreetw11/leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2603-collect-coins-in-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/2603-collect-coins-in-a-tree) |
 | [3620-network-recovery-pathways](https://github.com/arshpreetw11/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
