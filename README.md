@@ -277,6 +277,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/arshpreetw11/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/arshpreetw11/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/arshpreetw11/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/arshpreetw11/leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/arshpreetw11/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/arshpreetw11/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/arshpreetw11/leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -827,6 +828,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/arshpreetw11/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/arshpreetw11/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/arshpreetw11/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/arshpreetw11/leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/arshpreetw11/leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/arshpreetw11/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/arshpreetw11/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
