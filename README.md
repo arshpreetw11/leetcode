@@ -122,6 +122,7 @@
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/arshpreetw11/leetcode/tree/master/1375-number-of-times-binary-string-is-prefix-aligned) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arshpreetw11/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/arshpreetw11/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1388-pizza-with-3n-slices](https://github.com/arshpreetw11/leetcode/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/arshpreetw11/leetcode/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/arshpreetw11/leetcode/tree/master/1406-stone-game-iii) |
@@ -337,6 +338,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/arshpreetw11/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1363-largest-multiple-of-three](https://github.com/arshpreetw11/leetcode/tree/master/1363-largest-multiple-of-three) |
 | [1387-sort-integers-by-the-power-value](https://github.com/arshpreetw11/leetcode/tree/master/1387-sort-integers-by-the-power-value) |
+| [1388-pizza-with-3n-slices](https://github.com/arshpreetw11/leetcode/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/arshpreetw11/leetcode/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/arshpreetw11/leetcode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arshpreetw11/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -905,6 +907,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/arshpreetw11/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1363-largest-multiple-of-three](https://github.com/arshpreetw11/leetcode/tree/master/1363-largest-multiple-of-three) |
 | [1386-cinema-seat-allocation](https://github.com/arshpreetw11/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1388-pizza-with-3n-slices](https://github.com/arshpreetw11/leetcode/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/arshpreetw11/leetcode/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/arshpreetw11/leetcode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
@@ -959,6 +962,7 @@
 | [1054-distant-barcodes](https://github.com/arshpreetw11/leetcode/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/arshpreetw11/leetcode/tree/master/1094-car-pooling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/arshpreetw11/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1388-pizza-with-3n-slices](https://github.com/arshpreetw11/leetcode/tree/master/1388-pizza-with-3n-slices) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/arshpreetw11/leetcode/tree/master/1686-stone-game-vi) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/arshpreetw11/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
