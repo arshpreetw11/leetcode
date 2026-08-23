@@ -490,6 +490,7 @@
 | [1202-smallest-string-with-swaps](https://github.com/arshpreetw11/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/arshpreetw11/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/arshpreetw11/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1328-break-a-palindrome](https://github.com/arshpreetw11/leetcode/tree/master/1328-break-a-palindrome) |
 | [1366-rank-teams-by-votes](https://github.com/arshpreetw11/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/arshpreetw11/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/arshpreetw11/leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
@@ -900,6 +901,7 @@
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/arshpreetw11/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/arshpreetw11/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1323-maximum-69-number](https://github.com/arshpreetw11/leetcode/tree/master/1323-maximum-69-number) |
+| [1328-break-a-palindrome](https://github.com/arshpreetw11/leetcode/tree/master/1328-break-a-palindrome) |
 | [1338-reduce-array-size-to-the-half](https://github.com/arshpreetw11/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1363-largest-multiple-of-three](https://github.com/arshpreetw11/leetcode/tree/master/1363-largest-multiple-of-three) |
 | [1386-cinema-seat-allocation](https://github.com/arshpreetw11/leetcode/tree/master/1386-cinema-seat-allocation) |
