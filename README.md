@@ -158,6 +158,7 @@
 | [1862-sum-of-floored-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/arshpreetw11/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/arshpreetw11/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/arshpreetw11/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arshpreetw11/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/arshpreetw11/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
@@ -932,6 +933,7 @@
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/arshpreetw11/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arshpreetw11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/arshpreetw11/leetcode/tree/master/1927-sum-game) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/arshpreetw11/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/arshpreetw11/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/arshpreetw11/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/arshpreetw11/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
@@ -979,6 +981,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/arshpreetw11/leetcode/tree/master/1686-stone-game-vi) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/arshpreetw11/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/arshpreetw11/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/arshpreetw11/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/arshpreetw11/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/arshpreetw11/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
