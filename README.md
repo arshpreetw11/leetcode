@@ -505,6 +505,7 @@
 | [1763-longest-nice-substring](https://github.com/arshpreetw11/leetcode/tree/master/1763-longest-nice-substring) |
 | [1859-sorting-the-sentence](https://github.com/arshpreetw11/leetcode/tree/master/1859-sorting-the-sentence) |
 | [1927-sum-game](https://github.com/arshpreetw11/leetcode/tree/master/1927-sum-game) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/arshpreetw11/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/arshpreetw11/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2063-vowels-of-all-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/arshpreetw11/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -932,6 +933,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arshpreetw11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/arshpreetw11/leetcode/tree/master/1927-sum-game) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/arshpreetw11/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/arshpreetw11/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/arshpreetw11/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/arshpreetw11/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/arshpreetw11/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
