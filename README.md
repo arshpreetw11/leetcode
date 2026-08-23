@@ -153,6 +153,7 @@
 | [1800-maximum-ascending-subarray-sum](https://github.com/arshpreetw11/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1818-minimum-absolute-sum-difference](https://github.com/arshpreetw11/leetcode/tree/master/1818-minimum-absolute-sum-difference) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/arshpreetw11/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/arshpreetw11/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arshpreetw11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1862-sum-of-floored-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/arshpreetw11/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -927,6 +928,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/arshpreetw11/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/arshpreetw11/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/arshpreetw11/leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/arshpreetw11/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arshpreetw11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/arshpreetw11/leetcode/tree/master/1927-sum-game) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/arshpreetw11/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
