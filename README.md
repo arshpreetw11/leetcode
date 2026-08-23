@@ -500,6 +500,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/arshpreetw11/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1668-maximum-repeating-substring](https://github.com/arshpreetw11/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/arshpreetw11/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/arshpreetw11/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1763-longest-nice-substring](https://github.com/arshpreetw11/leetcode/tree/master/1763-longest-nice-substring) |
 | [1859-sorting-the-sentence](https://github.com/arshpreetw11/leetcode/tree/master/1859-sorting-the-sentence) |
 | [1927-sum-game](https://github.com/arshpreetw11/leetcode/tree/master/1927-sum-game) |
@@ -924,6 +925,7 @@
 | [1673-find-the-most-competitive-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1686-stone-game-vi](https://github.com/arshpreetw11/leetcode/tree/master/1686-stone-game-vi) |
 | [1710-maximum-units-on-a-truck](https://github.com/arshpreetw11/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/arshpreetw11/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/arshpreetw11/leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arshpreetw11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/arshpreetw11/leetcode/tree/master/1927-sum-game) |
