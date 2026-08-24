@@ -163,6 +163,7 @@
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/arshpreetw11/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arshpreetw11/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/arshpreetw11/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2007-find-original-array-from-doubled-array](https://github.com/arshpreetw11/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/arshpreetw11/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/arshpreetw11/leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/arshpreetw11/leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
@@ -629,6 +630,7 @@
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [1748-sum-of-unique-elements](https://github.com/arshpreetw11/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1763-longest-nice-substring](https://github.com/arshpreetw11/leetcode/tree/master/1763-longest-nice-substring) |
+| [2007-find-original-array-from-doubled-array](https://github.com/arshpreetw11/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/arshpreetw11/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/arshpreetw11/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/arshpreetw11/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -848,6 +850,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/arshpreetw11/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/arshpreetw11/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2007-find-original-array-from-doubled-array](https://github.com/arshpreetw11/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/arshpreetw11/leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arshpreetw11/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/arshpreetw11/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -939,6 +942,7 @@
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/arshpreetw11/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/arshpreetw11/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/arshpreetw11/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2007-find-original-array-from-doubled-array](https://github.com/arshpreetw11/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/arshpreetw11/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/arshpreetw11/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/arshpreetw11/leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
