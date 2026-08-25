@@ -136,6 +136,7 @@
 | [1512-number-of-good-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/arshpreetw11/leetcode/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/arshpreetw11/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/arshpreetw11/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/arshpreetw11/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/arshpreetw11/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1626-best-team-with-no-conflicts](https://github.com/arshpreetw11/leetcode/tree/master/1626-best-team-with-no-conflicts) |
@@ -353,6 +354,7 @@
 | [1510-stone-game-iv](https://github.com/arshpreetw11/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/arshpreetw11/leetcode/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/arshpreetw11/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/arshpreetw11/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1626-best-team-with-no-conflicts](https://github.com/arshpreetw11/leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1641-count-sorted-vowel-strings](https://github.com/arshpreetw11/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1668-maximum-repeating-substring](https://github.com/arshpreetw11/leetcode/tree/master/1668-maximum-repeating-substring) |
@@ -505,6 +507,7 @@
 | [1366-rank-teams-by-votes](https://github.com/arshpreetw11/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/arshpreetw11/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/arshpreetw11/leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/arshpreetw11/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/arshpreetw11/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/arshpreetw11/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1668-maximum-repeating-substring](https://github.com/arshpreetw11/leetcode/tree/master/1668-maximum-repeating-substring) |
@@ -933,6 +936,7 @@
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/arshpreetw11/leetcode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/arshpreetw11/leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/arshpreetw11/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/arshpreetw11/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/arshpreetw11/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/arshpreetw11/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
