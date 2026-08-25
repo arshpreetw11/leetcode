@@ -230,6 +230,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/arshpreetw11/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3620-network-recovery-pathways](https://github.com/arshpreetw11/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/arshpreetw11/leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/arshpreetw11/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/arshpreetw11/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arshpreetw11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arshpreetw11/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -673,6 +674,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/arshpreetw11/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/arshpreetw11/leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3692-majority-frequency-characters](https://github.com/arshpreetw11/leetcode/tree/master/3692-majority-frequency-characters) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/arshpreetw11/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arshpreetw11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
