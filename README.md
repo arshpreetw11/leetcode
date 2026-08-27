@@ -551,6 +551,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/arshpreetw11/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3527-find-the-most-common-response](https://github.com/arshpreetw11/leetcode/tree/master/3527-find-the-most-common-response) |
 | [3692-majority-frequency-characters](https://github.com/arshpreetw11/leetcode/tree/master/3692-majority-frequency-characters) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/arshpreetw11/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/arshpreetw11/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Enumeration
 |  |
@@ -571,6 +572,7 @@
 | [3411-maximum-subarray-with-equal-products](https://github.com/arshpreetw11/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/arshpreetw11/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arshpreetw11/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/arshpreetw11/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String Matching
 |  |
 | ------- |
@@ -680,6 +682,7 @@
 | [3679-minimum-discards-to-balance-inventory](https://github.com/arshpreetw11/leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3692-majority-frequency-characters](https://github.com/arshpreetw11/leetcode/tree/master/3692-majority-frequency-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arshpreetw11/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/arshpreetw11/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arshpreetw11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -761,6 +764,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/arshpreetw11/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/arshpreetw11/leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3692-majority-frequency-characters](https://github.com/arshpreetw11/leetcode/tree/master/3692-majority-frequency-characters) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/arshpreetw11/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arshpreetw11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -975,6 +979,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/arshpreetw11/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3362-zero-array-transformation-iii](https://github.com/arshpreetw11/leetcode/tree/master/3362-zero-array-transformation-iii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arshpreetw11/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/arshpreetw11/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/arshpreetw11/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Heap (Priority Queue)
 |  |
