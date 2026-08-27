@@ -159,6 +159,7 @@
 | [1862-sum-of-floored-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/arshpreetw11/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1936-add-minimum-number-of-rungs](https://github.com/arshpreetw11/leetcode/tree/master/1936-add-minimum-number-of-rungs) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/arshpreetw11/leetcode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/arshpreetw11/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/arshpreetw11/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -952,6 +953,7 @@
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/arshpreetw11/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arshpreetw11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/arshpreetw11/leetcode/tree/master/1927-sum-game) |
+| [1936-add-minimum-number-of-rungs](https://github.com/arshpreetw11/leetcode/tree/master/1936-add-minimum-number-of-rungs) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/arshpreetw11/leetcode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/arshpreetw11/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/arshpreetw11/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
