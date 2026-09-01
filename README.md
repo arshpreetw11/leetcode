@@ -84,6 +84,7 @@
 | [0948-bag-of-tokens](https://github.com/arshpreetw11/leetcode/tree/master/0948-bag-of-tokens) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0954-array-of-doubled-pairs](https://github.com/arshpreetw11/leetcode/tree/master/0954-array-of-doubled-pairs) |
+| [0957-prison-cells-after-n-days](https://github.com/arshpreetw11/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0969-pancake-sorting](https://github.com/arshpreetw11/leetcode/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/arshpreetw11/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0975-odd-even-jump](https://github.com/arshpreetw11/leetcode/tree/master/0975-odd-even-jump) |
@@ -265,6 +266,7 @@
 | [0869-reordered-power-of-2](https://github.com/arshpreetw11/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/arshpreetw11/leetcode/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/arshpreetw11/leetcode/tree/master/0913-cat-and-mouse) |
+| [0957-prison-cells-after-n-days](https://github.com/arshpreetw11/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0973-k-closest-points-to-origin](https://github.com/arshpreetw11/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/arshpreetw11/leetcode/tree/master/1025-divisor-game) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/arshpreetw11/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
@@ -428,6 +430,7 @@
 | [0672-bulb-switcher-ii](https://github.com/arshpreetw11/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0784-letter-case-permutation](https://github.com/arshpreetw11/leetcode/tree/master/0784-letter-case-permutation) |
+| [0957-prison-cells-after-n-days](https://github.com/arshpreetw11/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [1386-cinema-seat-allocation](https://github.com/arshpreetw11/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/arshpreetw11/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1763-longest-nice-substring](https://github.com/arshpreetw11/leetcode/tree/master/1763-longest-nice-substring) |
@@ -632,6 +635,7 @@
 | [0854-k-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/0854-k-similar-strings) |
 | [0869-reordered-power-of-2](https://github.com/arshpreetw11/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0954-array-of-doubled-pairs](https://github.com/arshpreetw11/leetcode/tree/master/0954-array-of-doubled-pairs) |
+| [0957-prison-cells-after-n-days](https://github.com/arshpreetw11/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [1036-escape-a-large-maze](https://github.com/arshpreetw11/leetcode/tree/master/1036-escape-a-large-maze) |
 | [1054-distant-barcodes](https://github.com/arshpreetw11/leetcode/tree/master/1054-distant-barcodes) |
 | [1090-largest-values-from-labels](https://github.com/arshpreetw11/leetcode/tree/master/1090-largest-values-from-labels) |
@@ -1564,4 +1568,8 @@
 |  |
 | ------- |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/arshpreetw11/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0957-prison-cells-after-n-days](https://github.com/arshpreetw11/leetcode/tree/master/0957-prison-cells-after-n-days) |
 <!---LeetCode Topics End-->
