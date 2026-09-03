@@ -546,6 +546,7 @@
 | [2063-vowels-of-all-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/arshpreetw11/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/arshpreetw11/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/arshpreetw11/leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/arshpreetw11/leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/arshpreetw11/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2278-percentage-of-letter-in-string](https://github.com/arshpreetw11/leetcode/tree/master/2278-percentage-of-letter-in-string) |
@@ -996,6 +997,7 @@
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/arshpreetw11/leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/arshpreetw11/leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/arshpreetw11/leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/arshpreetw11/leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/arshpreetw11/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/arshpreetw11/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/arshpreetw11/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
