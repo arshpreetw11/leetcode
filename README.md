@@ -213,6 +213,7 @@
 | [2740-find-the-value-of-the-partition](https://github.com/arshpreetw11/leetcode/tree/master/2740-find-the-value-of-the-partition) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arshpreetw11/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/arshpreetw11/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/arshpreetw11/leetcode/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/arshpreetw11/leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/arshpreetw11/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -481,6 +482,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/arshpreetw11/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/arshpreetw11/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/arshpreetw11/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/arshpreetw11/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/arshpreetw11/leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arshpreetw11/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3362-zero-array-transformation-iii](https://github.com/arshpreetw11/leetcode/tree/master/3362-zero-array-transformation-iii) |
@@ -928,6 +930,7 @@
 | [2679-sum-in-a-matrix](https://github.com/arshpreetw11/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2740-find-the-value-of-the-partition](https://github.com/arshpreetw11/leetcode/tree/master/2740-find-the-value-of-the-partition) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arshpreetw11/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/arshpreetw11/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/arshpreetw11/leetcode/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2933-high-access-employees](https://github.com/arshpreetw11/leetcode/tree/master/2933-high-access-employees) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/arshpreetw11/leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
@@ -1104,6 +1107,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/arshpreetw11/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arshpreetw11/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/arshpreetw11/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/arshpreetw11/leetcode/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/arshpreetw11/leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/arshpreetw11/leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
