@@ -227,6 +227,7 @@
 | [3039-apply-operations-to-make-string-empty](https://github.com/arshpreetw11/leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3074-apple-redistribution-into-boxes](https://github.com/arshpreetw11/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3143-maximum-points-inside-the-square](https://github.com/arshpreetw11/leetcode/tree/master/3143-maximum-points-inside-the-square) |
+| [3169-count-days-without-meetings](https://github.com/arshpreetw11/leetcode/tree/master/3169-count-days-without-meetings) |
 | [3238-find-the-number-of-winning-players](https://github.com/arshpreetw11/leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3265-count-almost-equal-pairs-i](https://github.com/arshpreetw11/leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/arshpreetw11/leetcode/tree/master/3267-count-almost-equal-pairs-ii) |
@@ -945,6 +946,7 @@
 | [3039-apply-operations-to-make-string-empty](https://github.com/arshpreetw11/leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3074-apple-redistribution-into-boxes](https://github.com/arshpreetw11/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3143-maximum-points-inside-the-square](https://github.com/arshpreetw11/leetcode/tree/master/3143-maximum-points-inside-the-square) |
+| [3169-count-days-without-meetings](https://github.com/arshpreetw11/leetcode/tree/master/3169-count-days-without-meetings) |
 | [3265-count-almost-equal-pairs-i](https://github.com/arshpreetw11/leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/arshpreetw11/leetcode/tree/master/3267-count-almost-equal-pairs-ii) |
 | [3362-zero-array-transformation-iii](https://github.com/arshpreetw11/leetcode/tree/master/3362-zero-array-transformation-iii) |
