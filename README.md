@@ -231,6 +231,7 @@
 | [3238-find-the-number-of-winning-players](https://github.com/arshpreetw11/leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3265-count-almost-equal-pairs-i](https://github.com/arshpreetw11/leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/arshpreetw11/leetcode/tree/master/3267-count-almost-equal-pairs-ii) |
+| [3288-length-of-the-longest-increasing-path](https://github.com/arshpreetw11/leetcode/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arshpreetw11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3362-zero-array-transformation-iii](https://github.com/arshpreetw11/leetcode/tree/master/3362-zero-array-transformation-iii) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
@@ -949,6 +950,7 @@
 | [3169-count-days-without-meetings](https://github.com/arshpreetw11/leetcode/tree/master/3169-count-days-without-meetings) |
 | [3265-count-almost-equal-pairs-i](https://github.com/arshpreetw11/leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/arshpreetw11/leetcode/tree/master/3267-count-almost-equal-pairs-ii) |
+| [3288-length-of-the-longest-increasing-path](https://github.com/arshpreetw11/leetcode/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3362-zero-array-transformation-iii](https://github.com/arshpreetw11/leetcode/tree/master/3362-zero-array-transformation-iii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/arshpreetw11/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arshpreetw11/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1120,6 +1122,7 @@
 | [2856-minimum-array-length-after-pair-removals](https://github.com/arshpreetw11/leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/arshpreetw11/leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3143-maximum-points-inside-the-square](https://github.com/arshpreetw11/leetcode/tree/master/3143-maximum-points-inside-the-square) |
+| [3288-length-of-the-longest-increasing-path](https://github.com/arshpreetw11/leetcode/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arshpreetw11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arshpreetw11/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arshpreetw11/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1605,6 +1608,7 @@
 |  |
 | ------- |
 | [1626-best-team-with-no-conflicts](https://github.com/arshpreetw11/leetcode/tree/master/1626-best-team-with-no-conflicts) |
+| [3288-length-of-the-longest-increasing-path](https://github.com/arshpreetw11/leetcode/tree/master/3288-length-of-the-longest-increasing-path) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
