@@ -226,6 +226,7 @@
 | [3030-find-the-grid-of-region-average](https://github.com/arshpreetw11/leetcode/tree/master/3030-find-the-grid-of-region-average) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/arshpreetw11/leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3074-apple-redistribution-into-boxes](https://github.com/arshpreetw11/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3143-maximum-points-inside-the-square](https://github.com/arshpreetw11/leetcode/tree/master/3143-maximum-points-inside-the-square) |
 | [3238-find-the-number-of-winning-players](https://github.com/arshpreetw11/leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3265-count-almost-equal-pairs-i](https://github.com/arshpreetw11/leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/arshpreetw11/leetcode/tree/master/3267-count-almost-equal-pairs-ii) |
@@ -576,6 +577,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arshpreetw11/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/arshpreetw11/leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/arshpreetw11/leetcode/tree/master/3138-minimum-length-of-anagram-concatenation) |
+| [3143-maximum-points-inside-the-square](https://github.com/arshpreetw11/leetcode/tree/master/3143-maximum-points-inside-the-square) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arshpreetw11/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/arshpreetw11/leetcode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3330-find-the-original-typed-string-i](https://github.com/arshpreetw11/leetcode/tree/master/3330-find-the-original-typed-string-i) |
@@ -708,6 +710,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arshpreetw11/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/arshpreetw11/leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/arshpreetw11/leetcode/tree/master/3138-minimum-length-of-anagram-concatenation) |
+| [3143-maximum-points-inside-the-square](https://github.com/arshpreetw11/leetcode/tree/master/3143-maximum-points-inside-the-square) |
 | [3238-find-the-number-of-winning-players](https://github.com/arshpreetw11/leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3265-count-almost-equal-pairs-i](https://github.com/arshpreetw11/leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/arshpreetw11/leetcode/tree/master/3267-count-almost-equal-pairs-ii) |
@@ -941,6 +944,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshpreetw11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/arshpreetw11/leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3074-apple-redistribution-into-boxes](https://github.com/arshpreetw11/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3143-maximum-points-inside-the-square](https://github.com/arshpreetw11/leetcode/tree/master/3143-maximum-points-inside-the-square) |
 | [3265-count-almost-equal-pairs-i](https://github.com/arshpreetw11/leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/arshpreetw11/leetcode/tree/master/3267-count-almost-equal-pairs-ii) |
 | [3362-zero-array-transformation-iii](https://github.com/arshpreetw11/leetcode/tree/master/3362-zero-array-transformation-iii) |
@@ -1113,6 +1117,7 @@
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/arshpreetw11/leetcode/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/arshpreetw11/leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/arshpreetw11/leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [3143-maximum-points-inside-the-square](https://github.com/arshpreetw11/leetcode/tree/master/3143-maximum-points-inside-the-square) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arshpreetw11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arshpreetw11/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arshpreetw11/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
