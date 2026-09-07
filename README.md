@@ -238,6 +238,7 @@
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/arshpreetw11/leetcode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/arshpreetw11/leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/arshpreetw11/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3446-sort-matrix-by-diagonals](https://github.com/arshpreetw11/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/arshpreetw11/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arshpreetw11/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3527-find-the-most-common-response](https://github.com/arshpreetw11/leetcode/tree/master/3527-find-the-most-common-response) |
@@ -954,6 +955,7 @@
 | [3288-length-of-the-longest-increasing-path](https://github.com/arshpreetw11/leetcode/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3362-zero-array-transformation-iii](https://github.com/arshpreetw11/leetcode/tree/master/3362-zero-array-transformation-iii) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/arshpreetw11/leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
+| [3446-sort-matrix-by-diagonals](https://github.com/arshpreetw11/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/arshpreetw11/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arshpreetw11/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/arshpreetw11/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -1354,6 +1356,7 @@
 | [2679-sum-in-a-matrix](https://github.com/arshpreetw11/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3030-find-the-grid-of-region-average](https://github.com/arshpreetw11/leetcode/tree/master/3030-find-the-grid-of-region-average) |
+| [3446-sort-matrix-by-diagonals](https://github.com/arshpreetw11/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 ## Breadth-First Search
 |  |
 | ------- |
