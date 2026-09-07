@@ -358,6 +358,7 @@
 | [0845-longest-mountain-in-array](https://github.com/arshpreetw11/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/arshpreetw11/leetcode/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/arshpreetw11/leetcode/tree/master/0913-cat-and-mouse) |
+| [0940-distinct-subsequences-ii](https://github.com/arshpreetw11/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0975-odd-even-jump](https://github.com/arshpreetw11/leetcode/tree/master/0975-odd-even-jump) |
 | [0983-minimum-cost-for-tickets](https://github.com/arshpreetw11/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1024-video-stitching](https://github.com/arshpreetw11/leetcode/tree/master/1024-video-stitching) |
@@ -532,6 +533,7 @@
 | [0833-find-and-replace-in-string](https://github.com/arshpreetw11/leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0844-backspace-string-compare](https://github.com/arshpreetw11/leetcode/tree/master/0844-backspace-string-compare) |
 | [0854-k-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/0854-k-similar-strings) |
+| [0940-distinct-subsequences-ii](https://github.com/arshpreetw11/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1169-invalid-transactions](https://github.com/arshpreetw11/leetcode/tree/master/1169-invalid-transactions) |
 | [1202-smallest-string-with-swaps](https://github.com/arshpreetw11/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/arshpreetw11/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
