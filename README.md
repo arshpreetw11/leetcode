@@ -248,6 +248,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/arshpreetw11/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3606-coupon-code-validator](https://github.com/arshpreetw11/leetcode/tree/master/3606-coupon-code-validator) |
 | [3620-network-recovery-pathways](https://github.com/arshpreetw11/leetcode/tree/master/3620-network-recovery-pathways) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/arshpreetw11/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/arshpreetw11/leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arshpreetw11/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/arshpreetw11/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -341,6 +342,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/arshpreetw11/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/arshpreetw11/leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/arshpreetw11/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/arshpreetw11/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arshpreetw11/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/arshpreetw11/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/arshpreetw11/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -428,6 +430,7 @@
 | [1686-stone-game-vi](https://github.com/arshpreetw11/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/arshpreetw11/leetcode/tree/master/1690-stone-game-vii) |
 | [1927-sum-game](https://github.com/arshpreetw11/leetcode/tree/master/1927-sum-game) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/arshpreetw11/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Backtracking
 |  |
 | ------- |
@@ -970,6 +973,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/arshpreetw11/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/arshpreetw11/leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3606-coupon-code-validator](https://github.com/arshpreetw11/leetcode/tree/master/3606-coupon-code-validator) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/arshpreetw11/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/arshpreetw11/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arshpreetw11/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -1055,6 +1059,7 @@
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/arshpreetw11/leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3457-eat-pizzas](https://github.com/arshpreetw11/leetcode/tree/master/3457-eat-pizzas) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arshpreetw11/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/arshpreetw11/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/arshpreetw11/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/arshpreetw11/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Heap (Priority Queue)
