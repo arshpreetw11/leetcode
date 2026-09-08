@@ -265,6 +265,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/arshpreetw11/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/arshpreetw11/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/arshpreetw11/leetcode/tree/master/0382-linked-list-random-node) |
+| [0390-elimination-game](https://github.com/arshpreetw11/leetcode/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/arshpreetw11/leetcode/tree/master/0391-perfect-rectangle) |
 | [0400-nth-digit](https://github.com/arshpreetw11/leetcode/tree/master/0400-nth-digit) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/arshpreetw11/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -414,6 +415,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/arshpreetw11/leetcode/tree/master/0206-reverse-linked-list) |
+| [0390-elimination-game](https://github.com/arshpreetw11/leetcode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/arshpreetw11/leetcode/tree/master/0486-predict-the-winner) |
 | [0779-k-th-symbol-in-grammar](https://github.com/arshpreetw11/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Game Theory
