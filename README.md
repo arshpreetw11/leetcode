@@ -512,6 +512,7 @@
 | [3362-zero-array-transformation-iii](https://github.com/arshpreetw11/leetcode/tree/master/3362-zero-array-transformation-iii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arshpreetw11/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arshpreetw11/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/arshpreetw11/leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## String
 |  |
 | ------- |
@@ -615,6 +616,7 @@
 | [3692-majority-frequency-characters](https://github.com/arshpreetw11/leetcode/tree/master/3692-majority-frequency-characters) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/arshpreetw11/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/arshpreetw11/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/arshpreetw11/leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Enumeration
 |  |
 | ------- |
@@ -992,6 +994,7 @@
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/arshpreetw11/leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/arshpreetw11/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arshpreetw11/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/arshpreetw11/leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Greedy
 |  |
 | ------- |
