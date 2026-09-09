@@ -257,6 +257,7 @@
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/arshpreetw11/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arshpreetw11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/arshpreetw11/leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/arshpreetw11/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arshpreetw11/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arshpreetw11/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/arshpreetw11/leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -989,6 +990,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/arshpreetw11/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/arshpreetw11/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/arshpreetw11/leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/arshpreetw11/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arshpreetw11/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
