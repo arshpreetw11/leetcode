@@ -253,6 +253,7 @@
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/arshpreetw11/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/arshpreetw11/leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arshpreetw11/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/arshpreetw11/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/arshpreetw11/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arshpreetw11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arshpreetw11/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -984,6 +985,7 @@
 | [3606-coupon-code-validator](https://github.com/arshpreetw11/leetcode/tree/master/3606-coupon-code-validator) |
 | [3613-minimize-maximum-component-cost](https://github.com/arshpreetw11/leetcode/tree/master/3613-minimize-maximum-component-cost) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/arshpreetw11/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/arshpreetw11/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/arshpreetw11/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arshpreetw11/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -1071,6 +1073,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arshpreetw11/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/arshpreetw11/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/arshpreetw11/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/arshpreetw11/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/arshpreetw11/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Heap (Priority Queue)
 |  |
