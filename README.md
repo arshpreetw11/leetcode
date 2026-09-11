@@ -109,6 +109,7 @@
 | [1140-stone-game-ii](https://github.com/arshpreetw11/leetcode/tree/master/1140-stone-game-ii) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/arshpreetw11/leetcode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1169-invalid-transactions](https://github.com/arshpreetw11/leetcode/tree/master/1169-invalid-transactions) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/arshpreetw11/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1202-smallest-string-with-swaps](https://github.com/arshpreetw11/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arshpreetw11/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/arshpreetw11/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -570,6 +571,7 @@
 | [0937-reorder-data-in-log-files](https://github.com/arshpreetw11/leetcode/tree/master/0937-reorder-data-in-log-files) |
 | [0940-distinct-subsequences-ii](https://github.com/arshpreetw11/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1169-invalid-transactions](https://github.com/arshpreetw11/leetcode/tree/master/1169-invalid-transactions) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/arshpreetw11/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1202-smallest-string-with-swaps](https://github.com/arshpreetw11/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/arshpreetw11/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/arshpreetw11/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -706,6 +708,7 @@
 | [1054-distant-barcodes](https://github.com/arshpreetw11/leetcode/tree/master/1054-distant-barcodes) |
 | [1090-largest-values-from-labels](https://github.com/arshpreetw11/leetcode/tree/master/1090-largest-values-from-labels) |
 | [1169-invalid-transactions](https://github.com/arshpreetw11/leetcode/tree/master/1169-invalid-transactions) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/arshpreetw11/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1202-smallest-string-with-swaps](https://github.com/arshpreetw11/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1331-rank-transform-of-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/arshpreetw11/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -921,6 +924,7 @@
 | [1090-largest-values-from-labels](https://github.com/arshpreetw11/leetcode/tree/master/1090-largest-values-from-labels) |
 | [1094-car-pooling](https://github.com/arshpreetw11/leetcode/tree/master/1094-car-pooling) |
 | [1169-invalid-transactions](https://github.com/arshpreetw11/leetcode/tree/master/1169-invalid-transactions) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/arshpreetw11/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1202-smallest-string-with-swaps](https://github.com/arshpreetw11/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/arshpreetw11/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/arshpreetw11/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -1171,6 +1175,7 @@
 | [0754-reach-a-number](https://github.com/arshpreetw11/leetcode/tree/master/0754-reach-a-number) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1095-find-in-mountain-array](https://github.com/arshpreetw11/leetcode/tree/master/1095-find-in-mountain-array) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/arshpreetw11/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/arshpreetw11/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/arshpreetw11/leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arshpreetw11/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
