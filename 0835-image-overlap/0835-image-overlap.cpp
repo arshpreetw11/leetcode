@@ -6,25 +6,20 @@ public:
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 if(img1[i][j]) allOnePos1.push_back({i,j});
-            }
-        }
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
                 if(img2[i][j]) allOnePos2.push_back({i,j});
             }
         }
-        map<pair<int,int>,int> mp;
+        vector<vector<int>> mp(2*n,vector<int>(2*n,0));
+        int ans=0;
+
         for(auto p1: allOnePos1){
             for(auto p2: allOnePos2){
-                int dx=p2.first-p1.first;
-                int dy=p2.second-p1.second;
+                int dx=p2.first-p1.first+n;
+                int dy=p2.second-p1.second+n;
 
-                mp[{dx,dy}]++;
+                mp[dx][dy]++;
+                ans=max(ans,mp[dx][dy]);
             }
-        }
-        int ans=0;
-        for(auto &x: mp){
-            ans=max(ans,x.second);
         }
         return ans;
     }
