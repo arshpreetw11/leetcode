@@ -421,6 +421,7 @@
 | [2376-count-special-integers](https://github.com/arshpreetw11/leetcode/tree/master/2376-count-special-integers) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/arshpreetw11/leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2420-find-all-good-indices](https://github.com/arshpreetw11/leetcode/tree/master/2420-find-all-good-indices) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/arshpreetw11/leetcode/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/arshpreetw11/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -517,6 +518,7 @@
 | [1471-the-k-strongest-values-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/arshpreetw11/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/arshpreetw11/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/arshpreetw11/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/arshpreetw11/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/arshpreetw11/leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -605,6 +607,7 @@
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/arshpreetw11/leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/arshpreetw11/leetcode/tree/master/2418-sort-the-people) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/arshpreetw11/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2506-count-pairs-of-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2512-reward-top-k-students](https://github.com/arshpreetw11/leetcode/tree/master/2512-reward-top-k-students) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/arshpreetw11/leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
@@ -1097,6 +1100,7 @@
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/arshpreetw11/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/arshpreetw11/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/arshpreetw11/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2578-split-with-minimum-sum](https://github.com/arshpreetw11/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/arshpreetw11/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/arshpreetw11/leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
