@@ -320,6 +320,7 @@
 | [1510-stone-game-iv](https://github.com/arshpreetw11/leetcode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/arshpreetw11/leetcode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arshpreetw11/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/arshpreetw11/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/arshpreetw11/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1686-stone-game-vi](https://github.com/arshpreetw11/leetcode/tree/master/1686-stone-game-vi) |
@@ -409,6 +410,7 @@
 | [1563-stone-game-v](https://github.com/arshpreetw11/leetcode/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/arshpreetw11/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/arshpreetw11/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arshpreetw11/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1626-best-team-with-no-conflicts](https://github.com/arshpreetw11/leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1641-count-sorted-vowel-strings](https://github.com/arshpreetw11/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1668-maximum-repeating-substring](https://github.com/arshpreetw11/leetcode/tree/master/1668-maximum-repeating-substring) |
@@ -876,6 +878,7 @@
 | [1094-car-pooling](https://github.com/arshpreetw11/leetcode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/arshpreetw11/leetcode/tree/master/1140-stone-game-ii) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/arshpreetw11/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arshpreetw11/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1862-sum-of-floored-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [2420-find-all-good-indices](https://github.com/arshpreetw11/leetcode/tree/master/2420-find-all-good-indices) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/arshpreetw11/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
@@ -1410,6 +1413,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arshpreetw11/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/arshpreetw11/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [2063-vowels-of-all-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/arshpreetw11/leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
