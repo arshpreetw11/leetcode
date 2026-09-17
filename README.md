@@ -225,6 +225,7 @@
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/arshpreetw11/leetcode/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/arshpreetw11/leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/arshpreetw11/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arshpreetw11/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2933-high-access-employees](https://github.com/arshpreetw11/leetcode/tree/master/2933-high-access-employees) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arshpreetw11/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/arshpreetw11/leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
@@ -425,6 +426,7 @@
 | [2420-find-all-good-indices](https://github.com/arshpreetw11/leetcode/tree/master/2420-find-all-good-indices) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/arshpreetw11/leetcode/tree/master/2830-maximize-the-profit-as-the-salesman) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arshpreetw11/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/arshpreetw11/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arshpreetw11/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -613,6 +615,7 @@
 | [2506-count-pairs-of-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2512-reward-top-k-students](https://github.com/arshpreetw11/leetcode/tree/master/2512-reward-top-k-students) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/arshpreetw11/leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arshpreetw11/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/arshpreetw11/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2933-high-access-employees](https://github.com/arshpreetw11/leetcode/tree/master/2933-high-access-employees) |
 | [2953-count-complete-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2953-count-complete-substrings) |
@@ -1109,6 +1112,7 @@
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/arshpreetw11/leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/arshpreetw11/leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/arshpreetw11/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arshpreetw11/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arshpreetw11/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshpreetw11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/arshpreetw11/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
