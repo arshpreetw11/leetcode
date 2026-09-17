@@ -226,6 +226,7 @@
 | [2856-minimum-array-length-after-pair-removals](https://github.com/arshpreetw11/leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/arshpreetw11/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arshpreetw11/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/arshpreetw11/leetcode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2933-high-access-employees](https://github.com/arshpreetw11/leetcode/tree/master/2933-high-access-employees) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arshpreetw11/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/arshpreetw11/leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
@@ -427,6 +428,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/arshpreetw11/leetcode/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arshpreetw11/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/arshpreetw11/leetcode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/arshpreetw11/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arshpreetw11/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -616,6 +618,7 @@
 | [2512-reward-top-k-students](https://github.com/arshpreetw11/leetcode/tree/master/2512-reward-top-k-students) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/arshpreetw11/leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arshpreetw11/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/arshpreetw11/leetcode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/arshpreetw11/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2933-high-access-employees](https://github.com/arshpreetw11/leetcode/tree/master/2933-high-access-employees) |
 | [2953-count-complete-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2953-count-complete-substrings) |
