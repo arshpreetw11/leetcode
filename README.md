@@ -256,6 +256,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/arshpreetw11/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/arshpreetw11/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arshpreetw11/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/arshpreetw11/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3527-find-the-most-common-response](https://github.com/arshpreetw11/leetcode/tree/master/3527-find-the-most-common-response) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arshpreetw11/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arshpreetw11/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -363,6 +364,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/arshpreetw11/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arshpreetw11/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/arshpreetw11/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/arshpreetw11/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/arshpreetw11/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/arshpreetw11/leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/arshpreetw11/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -441,6 +443,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arshpreetw11/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3317-find-the-number-of-possible-ways-for-an-event](https://github.com/arshpreetw11/leetcode/tree/master/3317-find-the-number-of-possible-ways-for-an-event) |
 | [3333-find-the-original-typed-string-ii](https://github.com/arshpreetw11/leetcode/tree/master/3333-find-the-original-typed-string-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/arshpreetw11/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arshpreetw11/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/arshpreetw11/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/arshpreetw11/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
