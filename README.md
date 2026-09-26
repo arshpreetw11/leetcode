@@ -164,6 +164,7 @@
 | [1748-sum-of-unique-elements](https://github.com/arshpreetw11/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/arshpreetw11/leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/arshpreetw11/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/arshpreetw11/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1818-minimum-absolute-sum-difference](https://github.com/arshpreetw11/leetcode/tree/master/1818-minimum-absolute-sum-difference) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/arshpreetw11/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/arshpreetw11/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -614,6 +615,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/arshpreetw11/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/arshpreetw11/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1763-longest-nice-substring](https://github.com/arshpreetw11/leetcode/tree/master/1763-longest-nice-substring) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/arshpreetw11/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1859-sorting-the-sentence](https://github.com/arshpreetw11/leetcode/tree/master/1859-sorting-the-sentence) |
 | [1927-sum-game](https://github.com/arshpreetw11/leetcode/tree/master/1927-sum-game) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/arshpreetw11/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
@@ -758,6 +760,7 @@
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [1748-sum-of-unique-elements](https://github.com/arshpreetw11/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1763-longest-nice-substring](https://github.com/arshpreetw11/leetcode/tree/master/1763-longest-nice-substring) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/arshpreetw11/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/arshpreetw11/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/arshpreetw11/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/arshpreetw11/leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
