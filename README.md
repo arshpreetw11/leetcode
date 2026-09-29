@@ -200,6 +200,7 @@
 | [2225-find-players-with-zero-or-one-losses](https://github.com/arshpreetw11/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/arshpreetw11/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/arshpreetw11/leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arshpreetw11/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/arshpreetw11/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2284-sender-with-largest-word-count](https://github.com/arshpreetw11/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/arshpreetw11/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -433,6 +434,7 @@
 | [1911-maximum-alternating-subsequence-sum](https://github.com/arshpreetw11/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2063-vowels-of-all-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/arshpreetw11/leetcode/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arshpreetw11/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/arshpreetw11/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2376-count-special-integers](https://github.com/arshpreetw11/leetcode/tree/master/2376-count-special-integers) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/arshpreetw11/leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
@@ -1485,6 +1487,7 @@
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/arshpreetw11/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1329-sort-the-matrix-diagonally](https://github.com/arshpreetw11/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/arshpreetw11/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arshpreetw11/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/arshpreetw11/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/arshpreetw11/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2679-sum-in-a-matrix](https://github.com/arshpreetw11/leetcode/tree/master/2679-sum-in-a-matrix) |
@@ -1778,4 +1781,5 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arshpreetw11/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arshpreetw11/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
