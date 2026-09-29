@@ -1273,6 +1273,7 @@
 | [0402-remove-k-digits](https://github.com/arshpreetw11/leetcode/tree/master/0402-remove-k-digits) |
 | [0488-zuma-game](https://github.com/arshpreetw11/leetcode/tree/master/0488-zuma-game) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/arshpreetw11/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/0856-score-of-parentheses) |
 | [0975-odd-even-jump](https://github.com/arshpreetw11/leetcode/tree/master/0975-odd-even-jump) |
@@ -1405,6 +1406,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/arshpreetw11/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/arshpreetw11/leetcode/tree/master/0437-path-sum-iii) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0690-employee-importance](https://github.com/arshpreetw11/leetcode/tree/master/0690-employee-importance) |
 | [0834-sum-of-distances-in-tree](https://github.com/arshpreetw11/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
@@ -1550,6 +1552,7 @@
 | [0437-path-sum-iii](https://github.com/arshpreetw11/leetcode/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/arshpreetw11/leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/arshpreetw11/leetcode/tree/master/0547-number-of-provinces) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0672-bulb-switcher-ii](https://github.com/arshpreetw11/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0676-implement-magic-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/arshpreetw11/leetcode/tree/master/0684-redundant-connection) |
