@@ -92,6 +92,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0954-array-of-doubled-pairs](https://github.com/arshpreetw11/leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0957-prison-cells-after-n-days](https://github.com/arshpreetw11/leetcode/tree/master/0957-prison-cells-after-n-days) |
+| [0962-maximum-width-ramp](https://github.com/arshpreetw11/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/arshpreetw11/leetcode/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/arshpreetw11/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0975-odd-even-jump](https://github.com/arshpreetw11/leetcode/tree/master/0975-odd-even-jump) |
@@ -539,6 +540,7 @@
 | [0844-backspace-string-compare](https://github.com/arshpreetw11/leetcode/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/arshpreetw11/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0948-bag-of-tokens](https://github.com/arshpreetw11/leetcode/tree/master/0948-bag-of-tokens) |
+| [0962-maximum-width-ramp](https://github.com/arshpreetw11/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/arshpreetw11/leetcode/tree/master/0969-pancake-sorting) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arshpreetw11/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
@@ -1281,6 +1283,7 @@
 | [0880-decoded-string-at-index](https://github.com/arshpreetw11/leetcode/tree/master/0880-decoded-string-at-index) |
 | [0897-increasing-order-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0946-validate-stack-sequences](https://github.com/arshpreetw11/leetcode/tree/master/0946-validate-stack-sequences) |
+| [0962-maximum-width-ramp](https://github.com/arshpreetw11/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0975-odd-even-jump](https://github.com/arshpreetw11/leetcode/tree/master/0975-odd-even-jump) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arshpreetw11/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/arshpreetw11/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -1726,6 +1729,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/arshpreetw11/leetcode/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0962-maximum-width-ramp](https://github.com/arshpreetw11/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0975-odd-even-jump](https://github.com/arshpreetw11/leetcode/tree/master/0975-odd-even-jump) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/arshpreetw11/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
