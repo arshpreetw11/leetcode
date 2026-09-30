@@ -87,6 +87,7 @@
 | [0892-surface-area-of-3d-shapes](https://github.com/arshpreetw11/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0912-sort-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0912-sort-an-array) |
 | [0937-reorder-data-in-log-files](https://github.com/arshpreetw11/leetcode/tree/master/0937-reorder-data-in-log-files) |
+| [0946-validate-stack-sequences](https://github.com/arshpreetw11/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/arshpreetw11/leetcode/tree/master/0948-bag-of-tokens) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0954-array-of-doubled-pairs](https://github.com/arshpreetw11/leetcode/tree/master/0954-array-of-doubled-pairs) |
@@ -1279,6 +1280,7 @@
 | [0856-score-of-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/arshpreetw11/leetcode/tree/master/0880-decoded-string-at-index) |
 | [0897-increasing-order-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0946-validate-stack-sequences](https://github.com/arshpreetw11/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0975-odd-even-jump](https://github.com/arshpreetw11/leetcode/tree/master/0975-odd-even-jump) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arshpreetw11/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/arshpreetw11/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -1298,6 +1300,7 @@
 | [0054-spiral-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/arshpreetw11/leetcode/tree/master/0289-game-of-life) |
 | [0844-backspace-string-compare](https://github.com/arshpreetw11/leetcode/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/arshpreetw11/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1094-car-pooling](https://github.com/arshpreetw11/leetcode/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/arshpreetw11/leetcode/tree/master/1260-shift-2d-grid) |
