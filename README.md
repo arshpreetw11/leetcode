@@ -149,6 +149,7 @@
 | [1512-number-of-good-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/arshpreetw11/leetcode/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/arshpreetw11/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arshpreetw11/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/arshpreetw11/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/arshpreetw11/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1598-crawler-log-folder](https://github.com/arshpreetw11/leetcode/tree/master/1598-crawler-log-folder) |
@@ -547,6 +548,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arshpreetw11/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/arshpreetw11/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arshpreetw11/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arshpreetw11/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/arshpreetw11/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1251,6 +1253,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arshpreetw11/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arshpreetw11/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/arshpreetw11/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arshpreetw11/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/arshpreetw11/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1649-create-sorted-array-through-instructions](https://github.com/arshpreetw11/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arshpreetw11/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1300,6 +1303,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arshpreetw11/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arshpreetw11/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arshpreetw11/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1598-crawler-log-folder](https://github.com/arshpreetw11/leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -1744,6 +1748,7 @@
 | [0975-odd-even-jump](https://github.com/arshpreetw11/leetcode/tree/master/0975-odd-even-jump) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/arshpreetw11/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arshpreetw11/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arshpreetw11/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/arshpreetw11/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/arshpreetw11/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
