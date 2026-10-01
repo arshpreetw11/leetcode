@@ -234,6 +234,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/arshpreetw11/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/arshpreetw11/leetcode/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/arshpreetw11/leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [2865-beautiful-towers-i](https://github.com/arshpreetw11/leetcode/tree/master/2865-beautiful-towers-i) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/arshpreetw11/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arshpreetw11/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/arshpreetw11/leetcode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -1321,6 +1322,7 @@
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/arshpreetw11/leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/arshpreetw11/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/arshpreetw11/leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2865-beautiful-towers-i](https://github.com/arshpreetw11/leetcode/tree/master/2865-beautiful-towers-i) |
 ## Simulation
 |  |
 | ------- |
@@ -1764,6 +1766,7 @@
 | [1856-maximum-subarray-min-product](https://github.com/arshpreetw11/leetcode/tree/master/1856-maximum-subarray-min-product) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/arshpreetw11/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/arshpreetw11/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2865-beautiful-towers-i](https://github.com/arshpreetw11/leetcode/tree/master/2865-beautiful-towers-i) |
 ## Interactive
 |  |
 | ------- |
