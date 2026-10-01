@@ -164,6 +164,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/arshpreetw11/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1686-stone-game-vi](https://github.com/arshpreetw11/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/arshpreetw11/leetcode/tree/master/1690-stone-game-vii) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/arshpreetw11/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/arshpreetw11/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [1748-sum-of-unique-elements](https://github.com/arshpreetw11/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -1307,6 +1308,7 @@
 | [1598-crawler-log-folder](https://github.com/arshpreetw11/leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/arshpreetw11/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arshpreetw11/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/arshpreetw11/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/arshpreetw11/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -1322,6 +1324,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1094-car-pooling](https://github.com/arshpreetw11/leetcode/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/arshpreetw11/leetcode/tree/master/1260-shift-2d-grid) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/arshpreetw11/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/arshpreetw11/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/arshpreetw11/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -1739,6 +1742,7 @@
 | ------- |
 | [0622-design-circular-queue](https://github.com/arshpreetw11/leetcode/tree/master/0622-design-circular-queue) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/arshpreetw11/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
