@@ -561,6 +561,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arshpreetw11/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/arshpreetw11/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/arshpreetw11/leetcode/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/arshpreetw11/leetcode/tree/master/0071-simplify-path) |
@@ -1274,6 +1275,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/arshpreetw11/leetcode/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -1813,6 +1815,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arshpreetw11/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
