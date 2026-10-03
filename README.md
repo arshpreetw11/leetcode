@@ -64,6 +64,7 @@
 | [0659-split-array-into-consecutive-subsequences](https://github.com/arshpreetw11/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0661-image-smoother](https://github.com/arshpreetw11/leetcode/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/arshpreetw11/leetcode/tree/master/0665-non-decreasing-array) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0679-24-game](https://github.com/arshpreetw11/leetcode/tree/master/0679-24-game) |
 | [0690-employee-importance](https://github.com/arshpreetw11/leetcode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/arshpreetw11/leetcode/tree/master/0692-top-k-frequent-words) |
