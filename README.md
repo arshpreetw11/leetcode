@@ -80,6 +80,7 @@
 | [0729-my-calendar-i](https://github.com/arshpreetw11/leetcode/tree/master/0729-my-calendar-i) |
 | [0740-delete-and-earn](https://github.com/arshpreetw11/leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/arshpreetw11/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0764-largest-plus-sign](https://github.com/arshpreetw11/leetcode/tree/master/0764-largest-plus-sign) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0781-rabbits-in-forest](https://github.com/arshpreetw11/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0806-number-of-lines-to-write-string](https://github.com/arshpreetw11/leetcode/tree/master/0806-number-of-lines-to-write-string) |
@@ -419,6 +420,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/arshpreetw11/leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/arshpreetw11/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0764-largest-plus-sign](https://github.com/arshpreetw11/leetcode/tree/master/0764-largest-plus-sign) |
 | [0823-binary-trees-with-factors](https://github.com/arshpreetw11/leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0834-sum-of-distances-in-tree](https://github.com/arshpreetw11/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0845-longest-mountain-in-array](https://github.com/arshpreetw11/leetcode/tree/master/0845-longest-mountain-in-array) |
