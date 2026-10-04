@@ -411,6 +411,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/arshpreetw11/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/arshpreetw11/leetcode/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/arshpreetw11/leetcode/tree/master/0650-2-keys-keyboard) |
+| [0678-valid-parenthesis-string](https://github.com/arshpreetw11/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/arshpreetw11/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0823-binary-trees-with-factors](https://github.com/arshpreetw11/leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0834-sum-of-distances-in-tree](https://github.com/arshpreetw11/leetcode/tree/master/0834-sum-of-distances-in-tree) |
@@ -602,6 +603,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/arshpreetw11/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0647-palindromic-substrings](https://github.com/arshpreetw11/leetcode/tree/master/0647-palindromic-substrings) |
 | [0676-implement-magic-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0676-implement-magic-dictionary) |
+| [0678-valid-parenthesis-string](https://github.com/arshpreetw11/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/arshpreetw11/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/arshpreetw11/leetcode/tree/master/0721-accounts-merge) |
@@ -1111,6 +1113,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0646-maximum-length-of-pair-chain](https://github.com/arshpreetw11/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/arshpreetw11/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/arshpreetw11/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0765-couples-holding-hands](https://github.com/arshpreetw11/leetcode/tree/master/0765-couples-holding-hands) |
 | [0781-rabbits-in-forest](https://github.com/arshpreetw11/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0948-bag-of-tokens](https://github.com/arshpreetw11/leetcode/tree/master/0948-bag-of-tokens) |
@@ -1303,6 +1306,7 @@
 | [0488-zuma-game](https://github.com/arshpreetw11/leetcode/tree/master/0488-zuma-game) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/arshpreetw11/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/arshpreetw11/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/arshpreetw11/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/0856-score-of-parentheses) |
@@ -1852,6 +1856,7 @@
 | [0020-valid-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/arshpreetw11/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arshpreetw11/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
