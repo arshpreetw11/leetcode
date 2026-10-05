@@ -91,6 +91,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/arshpreetw11/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0809-expressive-words](https://github.com/arshpreetw11/leetcode/tree/master/0809-expressive-words) |
 | [0819-most-common-word](https://github.com/arshpreetw11/leetcode/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/arshpreetw11/leetcode/tree/master/0820-short-encoding-of-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/arshpreetw11/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0822-card-flipping-game](https://github.com/arshpreetw11/leetcode/tree/master/0822-card-flipping-game) |
 | [0823-binary-trees-with-factors](https://github.com/arshpreetw11/leetcode/tree/master/0823-binary-trees-with-factors) |
@@ -641,6 +642,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/arshpreetw11/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0809-expressive-words](https://github.com/arshpreetw11/leetcode/tree/master/0809-expressive-words) |
 | [0819-most-common-word](https://github.com/arshpreetw11/leetcode/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/arshpreetw11/leetcode/tree/master/0820-short-encoding-of-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/arshpreetw11/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0833-find-and-replace-in-string](https://github.com/arshpreetw11/leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0844-backspace-string-compare](https://github.com/arshpreetw11/leetcode/tree/master/0844-backspace-string-compare) |
@@ -797,6 +799,7 @@
 | [0791-custom-sort-string](https://github.com/arshpreetw11/leetcode/tree/master/0791-custom-sort-string) |
 | [0805-split-array-with-same-average](https://github.com/arshpreetw11/leetcode/tree/master/0805-split-array-with-same-average) |
 | [0819-most-common-word](https://github.com/arshpreetw11/leetcode/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/arshpreetw11/leetcode/tree/master/0820-short-encoding-of-words) |
 | [0822-card-flipping-game](https://github.com/arshpreetw11/leetcode/tree/master/0822-card-flipping-game) |
 | [0823-binary-trees-with-factors](https://github.com/arshpreetw11/leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0833-find-and-replace-in-string](https://github.com/arshpreetw11/leetcode/tree/master/0833-find-and-replace-in-string) |
@@ -1744,6 +1747,7 @@
 | [0676-implement-magic-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0692-top-k-frequent-words](https://github.com/arshpreetw11/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0820-short-encoding-of-words](https://github.com/arshpreetw11/leetcode/tree/master/0820-short-encoding-of-words) |
 ## Rejection Sampling
 |  |
 | ------- |
