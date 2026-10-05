@@ -84,6 +84,7 @@
 | [0766-toeplitz-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0781-rabbits-in-forest](https://github.com/arshpreetw11/leetcode/tree/master/0781-rabbits-in-forest) |
+| [0794-valid-tic-tac-toe-state](https://github.com/arshpreetw11/leetcode/tree/master/0794-valid-tic-tac-toe-state) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/arshpreetw11/leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0806-number-of-lines-to-write-string](https://github.com/arshpreetw11/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/arshpreetw11/leetcode/tree/master/0819-most-common-word) |
@@ -1565,6 +1566,7 @@
 | [0661-image-smoother](https://github.com/arshpreetw11/leetcode/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
+| [0794-valid-tic-tac-toe-state](https://github.com/arshpreetw11/leetcode/tree/master/0794-valid-tic-tac-toe-state) |
 | [0835-image-overlap](https://github.com/arshpreetw11/leetcode/tree/master/0835-image-overlap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/arshpreetw11/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [1034-coloring-a-border](https://github.com/arshpreetw11/leetcode/tree/master/1034-coloring-a-border) |
