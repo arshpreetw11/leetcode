@@ -89,6 +89,7 @@
 | [0805-split-array-with-same-average](https://github.com/arshpreetw11/leetcode/tree/master/0805-split-array-with-same-average) |
 | [0806-number-of-lines-to-write-string](https://github.com/arshpreetw11/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/arshpreetw11/leetcode/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/arshpreetw11/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0823-binary-trees-with-factors](https://github.com/arshpreetw11/leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0833-find-and-replace-in-string](https://github.com/arshpreetw11/leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0835-image-overlap](https://github.com/arshpreetw11/leetcode/tree/master/0835-image-overlap) |
@@ -566,6 +567,7 @@
 | [0647-palindromic-substrings](https://github.com/arshpreetw11/leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/arshpreetw11/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/arshpreetw11/leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0821-shortest-distance-to-a-character](https://github.com/arshpreetw11/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/arshpreetw11/leetcode/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/arshpreetw11/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0948-bag-of-tokens](https://github.com/arshpreetw11/leetcode/tree/master/0948-bag-of-tokens) |
@@ -631,6 +633,7 @@
 | [0791-custom-sort-string](https://github.com/arshpreetw11/leetcode/tree/master/0791-custom-sort-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/arshpreetw11/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/arshpreetw11/leetcode/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/arshpreetw11/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0833-find-and-replace-in-string](https://github.com/arshpreetw11/leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0844-backspace-string-compare](https://github.com/arshpreetw11/leetcode/tree/master/0844-backspace-string-compare) |
 | [0854-k-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/0854-k-similar-strings) |
