@@ -101,6 +101,7 @@
 | [0877-stone-game](https://github.com/arshpreetw11/leetcode/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/arshpreetw11/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0892-surface-area-of-3d-shapes](https://github.com/arshpreetw11/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [0896-monotonic-array](https://github.com/arshpreetw11/leetcode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0912-sort-an-array) |
 | [0937-reorder-data-in-log-files](https://github.com/arshpreetw11/leetcode/tree/master/0937-reorder-data-in-log-files) |
 | [0946-validate-stack-sequences](https://github.com/arshpreetw11/leetcode/tree/master/0946-validate-stack-sequences) |
