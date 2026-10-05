@@ -46,6 +46,7 @@
 | [0477-total-hamming-distance](https://github.com/arshpreetw11/leetcode/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/arshpreetw11/leetcode/tree/master/0486-predict-the-winner) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/arshpreetw11/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0498-diagonal-traverse](https://github.com/arshpreetw11/leetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/arshpreetw11/leetcode/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/arshpreetw11/leetcode/tree/master/0502-ipo) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/arshpreetw11/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -1377,6 +1378,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/arshpreetw11/leetcode/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/arshpreetw11/leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/arshpreetw11/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/arshpreetw11/leetcode/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/arshpreetw11/leetcode/tree/master/0946-validate-stack-sequences) |
@@ -1583,6 +1585,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/arshpreetw11/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/arshpreetw11/leetcode/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/arshpreetw11/leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/arshpreetw11/leetcode/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
