@@ -682,6 +682,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/arshpreetw11/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/arshpreetw11/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/arshpreetw11/leetcode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1668-maximum-repeating-substring](https://github.com/arshpreetw11/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/arshpreetw11/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/arshpreetw11/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
@@ -1201,6 +1202,7 @@
 | [1642-furthest-building-you-can-reach](https://github.com/arshpreetw11/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/arshpreetw11/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/arshpreetw11/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/arshpreetw11/leetcode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1686-stone-game-vi](https://github.com/arshpreetw11/leetcode/tree/master/1686-stone-game-vi) |
 | [1710-maximum-units-on-a-truck](https://github.com/arshpreetw11/leetcode/tree/master/1710-maximum-units-on-a-truck) |
