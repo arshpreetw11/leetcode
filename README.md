@@ -143,6 +143,7 @@
 | [1288-remove-covered-intervals](https://github.com/arshpreetw11/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/arshpreetw11/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arshpreetw11/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arshpreetw11/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/arshpreetw11/leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1329-sort-the-matrix-diagonally](https://github.com/arshpreetw11/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -820,6 +821,7 @@
 | [1169-invalid-transactions](https://github.com/arshpreetw11/leetcode/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/arshpreetw11/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1202-smallest-string-with-swaps](https://github.com/arshpreetw11/leetcode/tree/master/1202-smallest-string-with-swaps) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arshpreetw11/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/arshpreetw11/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1348-tweet-counts-per-frequency](https://github.com/arshpreetw11/leetcode/tree/master/1348-tweet-counts-per-frequency) |
@@ -1048,6 +1050,7 @@
 | [1202-smallest-string-with-swaps](https://github.com/arshpreetw11/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/arshpreetw11/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/arshpreetw11/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arshpreetw11/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/arshpreetw11/leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1329-sort-the-matrix-diagonally](https://github.com/arshpreetw11/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -1174,6 +1177,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/arshpreetw11/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/arshpreetw11/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/arshpreetw11/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arshpreetw11/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1323-maximum-69-number](https://github.com/arshpreetw11/leetcode/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/arshpreetw11/leetcode/tree/master/1328-break-a-palindrome) |
 | [1338-reduce-array-size-to-the-half](https://github.com/arshpreetw11/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
