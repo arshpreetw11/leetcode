@@ -12,19 +12,18 @@ public:
         sort(nums.begin(),nums.end());
         int c=0;
         for(int x:nums){
-            bool b =true;
+            if(freq[x]==0) continue;
             for(int i=0;i<k;i++){
                 if(freq[x+i]<1){
-                    b= false;
-                    break;
+                    return false;
                 }
                 else {
                     freq[x+i]--;
                     if(freq[x+i]<1) st.erase(x+i);
                 }
             }
-            if(b) c++;
+            
         }
-        return c==num_arr;
+        return true;
     }
 };
