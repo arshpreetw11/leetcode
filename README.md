@@ -179,6 +179,7 @@
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/arshpreetw11/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1626-best-team-with-no-conflicts](https://github.com/arshpreetw11/leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/arshpreetw11/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1642-furthest-building-you-can-reach](https://github.com/arshpreetw11/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/arshpreetw11/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1649-create-sorted-array-through-instructions](https://github.com/arshpreetw11/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/arshpreetw11/leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
@@ -1197,6 +1198,7 @@
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/arshpreetw11/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/arshpreetw11/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/arshpreetw11/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1642-furthest-building-you-can-reach](https://github.com/arshpreetw11/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/arshpreetw11/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/arshpreetw11/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -1275,6 +1277,7 @@
 | [1388-pizza-with-3n-slices](https://github.com/arshpreetw11/leetcode/tree/master/1388-pizza-with-3n-slices) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/arshpreetw11/leetcode/tree/master/1488-avoid-flood-in-the-city) |
+| [1642-furthest-building-you-can-reach](https://github.com/arshpreetw11/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/arshpreetw11/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1686-stone-game-vi](https://github.com/arshpreetw11/leetcode/tree/master/1686-stone-game-vi) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/arshpreetw11/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
