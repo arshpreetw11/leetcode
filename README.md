@@ -120,6 +120,7 @@
 | [0975-odd-even-jump](https://github.com/arshpreetw11/leetcode/tree/master/0975-odd-even-jump) |
 | [0983-minimum-cost-for-tickets](https://github.com/arshpreetw11/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [0989-add-to-array-form-of-integer](https://github.com/arshpreetw11/leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [0990-satisfiability-of-equality-equations](https://github.com/arshpreetw11/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1024-video-stitching](https://github.com/arshpreetw11/leetcode/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/arshpreetw11/leetcode/tree/master/1029-two-city-scheduling) |
 | [1034-coloring-a-border](https://github.com/arshpreetw11/leetcode/tree/master/1034-coloring-a-border) |
@@ -667,6 +668,7 @@
 | [0937-reorder-data-in-log-files](https://github.com/arshpreetw11/leetcode/tree/master/0937-reorder-data-in-log-files) |
 | [0940-distinct-subsequences-ii](https://github.com/arshpreetw11/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0966-vowel-spellchecker](https://github.com/arshpreetw11/leetcode/tree/master/0966-vowel-spellchecker) |
+| [0990-satisfiability-of-equality-equations](https://github.com/arshpreetw11/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arshpreetw11/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arshpreetw11/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1169-invalid-transactions](https://github.com/arshpreetw11/leetcode/tree/master/1169-invalid-transactions) |
@@ -1445,6 +1447,7 @@
 | [0721-accounts-merge](https://github.com/arshpreetw11/leetcode/tree/master/0721-accounts-merge) |
 | [0765-couples-holding-hands](https://github.com/arshpreetw11/leetcode/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
+| [0990-satisfiability-of-equality-equations](https://github.com/arshpreetw11/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1202-smallest-string-with-swaps](https://github.com/arshpreetw11/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1267-count-servers-that-communicate](https://github.com/arshpreetw11/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/arshpreetw11/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1587,6 +1590,7 @@
 | [0841-keys-and-rooms](https://github.com/arshpreetw11/leetcode/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/arshpreetw11/leetcode/tree/master/0851-loud-and-rich) |
 | [0913-cat-and-mouse](https://github.com/arshpreetw11/leetcode/tree/master/0913-cat-and-mouse) |
+| [0990-satisfiability-of-equality-equations](https://github.com/arshpreetw11/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/arshpreetw11/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1971-find-if-path-exists-in-graph](https://github.com/arshpreetw11/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
