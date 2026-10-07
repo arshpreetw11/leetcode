@@ -530,6 +530,7 @@
 | [0077-combinations](https://github.com/arshpreetw11/leetcode/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/arshpreetw11/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/arshpreetw11/leetcode/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/arshpreetw11/leetcode/tree/master/0306-additive-number) |
 | [0526-beautiful-arrangement](https://github.com/arshpreetw11/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0679-24-game](https://github.com/arshpreetw11/leetcode/tree/master/0679-24-game) |
@@ -620,6 +621,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/arshpreetw11/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/arshpreetw11/leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/arshpreetw11/leetcode/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/arshpreetw11/leetcode/tree/master/0306-additive-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/arshpreetw11/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -1647,6 +1649,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0301-remove-invalid-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/arshpreetw11/leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/arshpreetw11/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/arshpreetw11/leetcode/tree/master/0463-island-perimeter) |
