@@ -127,6 +127,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arshpreetw11/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-best-sightseeing-pair](https://github.com/arshpreetw11/leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/arshpreetw11/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1019-next-greater-node-in-linked-list](https://github.com/arshpreetw11/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1024-video-stitching](https://github.com/arshpreetw11/leetcode/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/arshpreetw11/leetcode/tree/master/1029-two-city-scheduling) |
 | [1034-coloring-a-border](https://github.com/arshpreetw11/leetcode/tree/master/1034-coloring-a-border) |
@@ -1405,6 +1406,7 @@
 | [0946-validate-stack-sequences](https://github.com/arshpreetw11/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/arshpreetw11/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0975-odd-even-jump](https://github.com/arshpreetw11/leetcode/tree/master/0975-odd-even-jump) |
+| [1019-next-greater-node-in-linked-list](https://github.com/arshpreetw11/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arshpreetw11/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arshpreetw11/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1509,6 +1511,7 @@
 | [0622-design-circular-queue](https://github.com/arshpreetw11/leetcode/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/arshpreetw11/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/arshpreetw11/leetcode/tree/master/0706-design-hashmap) |
+| [1019-next-greater-node-in-linked-list](https://github.com/arshpreetw11/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arshpreetw11/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/arshpreetw11/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Design
@@ -1881,6 +1884,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0962-maximum-width-ramp](https://github.com/arshpreetw11/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0975-odd-even-jump](https://github.com/arshpreetw11/leetcode/tree/master/0975-odd-even-jump) |
+| [1019-next-greater-node-in-linked-list](https://github.com/arshpreetw11/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/arshpreetw11/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arshpreetw11/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arshpreetw11/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
