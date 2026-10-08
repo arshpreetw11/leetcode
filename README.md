@@ -123,6 +123,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/arshpreetw11/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/arshpreetw11/leetcode/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/arshpreetw11/leetcode/tree/master/0999-available-captures-for-rook) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/arshpreetw11/leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1024-video-stitching](https://github.com/arshpreetw11/leetcode/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/arshpreetw11/leetcode/tree/master/1029-two-city-scheduling) |
 | [1034-coloring-a-border](https://github.com/arshpreetw11/leetcode/tree/master/1034-coloring-a-border) |
@@ -833,6 +834,7 @@
 | [0957-prison-cells-after-n-days](https://github.com/arshpreetw11/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0966-vowel-spellchecker](https://github.com/arshpreetw11/leetcode/tree/master/0966-vowel-spellchecker) |
 | [0997-find-the-town-judge](https://github.com/arshpreetw11/leetcode/tree/master/0997-find-the-town-judge) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/arshpreetw11/leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1036-escape-a-large-maze](https://github.com/arshpreetw11/leetcode/tree/master/1036-escape-a-large-maze) |
 | [1054-distant-barcodes](https://github.com/arshpreetw11/leetcode/tree/master/1054-distant-barcodes) |
 | [1090-largest-values-from-labels](https://github.com/arshpreetw11/leetcode/tree/master/1090-largest-values-from-labels) |
@@ -958,6 +960,7 @@
 | [0692-top-k-frequent-words](https://github.com/arshpreetw11/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/arshpreetw11/leetcode/tree/master/0819-most-common-word) |
 | [0869-reordered-power-of-2](https://github.com/arshpreetw11/leetcode/tree/master/0869-reordered-power-of-2) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/arshpreetw11/leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1054-distant-barcodes](https://github.com/arshpreetw11/leetcode/tree/master/1054-distant-barcodes) |
 | [1090-largest-values-from-labels](https://github.com/arshpreetw11/leetcode/tree/master/1090-largest-values-from-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/arshpreetw11/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
