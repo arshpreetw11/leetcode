@@ -138,6 +138,7 @@
 | [1049-last-stone-weight-ii](https://github.com/arshpreetw11/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1053-previous-permutation-with-one-swap](https://github.com/arshpreetw11/leetcode/tree/master/1053-previous-permutation-with-one-swap) |
 | [1054-distant-barcodes](https://github.com/arshpreetw11/leetcode/tree/master/1054-distant-barcodes) |
+| [1089-duplicate-zeros](https://github.com/arshpreetw11/leetcode/tree/master/1089-duplicate-zeros) |
 | [1090-largest-values-from-labels](https://github.com/arshpreetw11/leetcode/tree/master/1090-largest-values-from-labels) |
 | [1094-car-pooling](https://github.com/arshpreetw11/leetcode/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/arshpreetw11/leetcode/tree/master/1095-find-in-mountain-array) |
@@ -606,6 +607,7 @@
 | [0962-maximum-width-ramp](https://github.com/arshpreetw11/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/arshpreetw11/leetcode/tree/master/0969-pancake-sorting) |
 | [1023-camelcase-matching](https://github.com/arshpreetw11/leetcode/tree/master/1023-camelcase-matching) |
+| [1089-duplicate-zeros](https://github.com/arshpreetw11/leetcode/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arshpreetw11/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/arshpreetw11/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
