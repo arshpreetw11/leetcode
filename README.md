@@ -153,6 +153,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arshpreetw11/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/arshpreetw11/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/arshpreetw11/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/arshpreetw11/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1260-shift-2d-grid](https://github.com/arshpreetw11/leetcode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/arshpreetw11/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/arshpreetw11/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -475,6 +476,7 @@
 | [1140-stone-game-ii](https://github.com/arshpreetw11/leetcode/tree/master/1140-stone-game-ii) |
 | [1227-airplane-seat-assignment-probability](https://github.com/arshpreetw11/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/arshpreetw11/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/arshpreetw11/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1363-largest-multiple-of-three](https://github.com/arshpreetw11/leetcode/tree/master/1363-largest-multiple-of-three) |
 | [1387-sort-integers-by-the-power-value](https://github.com/arshpreetw11/leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1388-pizza-with-3n-slices](https://github.com/arshpreetw11/leetcode/tree/master/1388-pizza-with-3n-slices) |
@@ -553,6 +555,7 @@
 | [0679-24-game](https://github.com/arshpreetw11/leetcode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0784-letter-case-permutation](https://github.com/arshpreetw11/leetcode/tree/master/0784-letter-case-permutation) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/arshpreetw11/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/arshpreetw11/leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/arshpreetw11/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
@@ -574,6 +577,7 @@
 | [0805-split-array-with-same-average](https://github.com/arshpreetw11/leetcode/tree/master/0805-split-array-with-same-average) |
 | [0957-prison-cells-after-n-days](https://github.com/arshpreetw11/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/arshpreetw11/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/arshpreetw11/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1386-cinema-seat-allocation](https://github.com/arshpreetw11/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/arshpreetw11/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1763-longest-nice-substring](https://github.com/arshpreetw11/leetcode/tree/master/1763-longest-nice-substring) |
@@ -587,6 +591,7 @@
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/arshpreetw11/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0805-split-array-with-same-average](https://github.com/arshpreetw11/leetcode/tree/master/0805-split-array-with-same-average) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/arshpreetw11/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -698,6 +703,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/arshpreetw11/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/arshpreetw11/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/arshpreetw11/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1328-break-a-palindrome](https://github.com/arshpreetw11/leetcode/tree/master/1328-break-a-palindrome) |
 | [1348-tweet-counts-per-frequency](https://github.com/arshpreetw11/leetcode/tree/master/1348-tweet-counts-per-frequency) |
 | [1366-rank-teams-by-votes](https://github.com/arshpreetw11/leetcode/tree/master/1366-rank-teams-by-votes) |
@@ -859,6 +865,7 @@
 | [1169-invalid-transactions](https://github.com/arshpreetw11/leetcode/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/arshpreetw11/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1202-smallest-string-with-swaps](https://github.com/arshpreetw11/leetcode/tree/master/1202-smallest-string-with-swaps) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/arshpreetw11/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arshpreetw11/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/arshpreetw11/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -983,6 +990,7 @@
 | [1090-largest-values-from-labels](https://github.com/arshpreetw11/leetcode/tree/master/1090-largest-values-from-labels) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/arshpreetw11/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/arshpreetw11/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1267-count-servers-that-communicate](https://github.com/arshpreetw11/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1366-rank-teams-by-votes](https://github.com/arshpreetw11/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1512-number-of-good-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1512-number-of-good-pairs) |
