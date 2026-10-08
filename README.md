@@ -135,6 +135,7 @@
 | [1036-escape-a-large-maze](https://github.com/arshpreetw11/leetcode/tree/master/1036-escape-a-large-maze) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/arshpreetw11/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1046-last-stone-weight](https://github.com/arshpreetw11/leetcode/tree/master/1046-last-stone-weight) |
+| [1049-last-stone-weight-ii](https://github.com/arshpreetw11/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1053-previous-permutation-with-one-swap](https://github.com/arshpreetw11/leetcode/tree/master/1053-previous-permutation-with-one-swap) |
 | [1054-distant-barcodes](https://github.com/arshpreetw11/leetcode/tree/master/1054-distant-barcodes) |
 | [1090-largest-values-from-labels](https://github.com/arshpreetw11/leetcode/tree/master/1090-largest-values-from-labels) |
@@ -465,6 +466,7 @@
 | [1014-best-sightseeing-pair](https://github.com/arshpreetw11/leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1024-video-stitching](https://github.com/arshpreetw11/leetcode/tree/master/1024-video-stitching) |
 | [1025-divisor-game](https://github.com/arshpreetw11/leetcode/tree/master/1025-divisor-game) |
+| [1049-last-stone-weight-ii](https://github.com/arshpreetw11/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/arshpreetw11/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1137-n-th-tribonacci-number](https://github.com/arshpreetw11/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/arshpreetw11/leetcode/tree/master/1140-stone-game-ii) |
@@ -1992,4 +1994,12 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arshpreetw11/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Knapsack Problem
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/arshpreetw11/leetcode/tree/master/1049-last-stone-weight-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/arshpreetw11/leetcode/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
