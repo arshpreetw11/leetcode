@@ -164,6 +164,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arshpreetw11/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arshpreetw11/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/arshpreetw11/leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/arshpreetw11/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1329-sort-the-matrix-diagonally](https://github.com/arshpreetw11/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/arshpreetw11/leetcode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
@@ -381,6 +382,7 @@
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/arshpreetw11/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arshpreetw11/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arshpreetw11/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/arshpreetw11/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/arshpreetw11/leetcode/tree/master/1323-maximum-69-number) |
 | [1363-largest-multiple-of-three](https://github.com/arshpreetw11/leetcode/tree/master/1363-largest-multiple-of-three) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/arshpreetw11/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
