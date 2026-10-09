@@ -180,6 +180,7 @@
 | [1402-reducing-dishes](https://github.com/arshpreetw11/leetcode/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/arshpreetw11/leetcode/tree/master/1406-stone-game-iii) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/arshpreetw11/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/arshpreetw11/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/arshpreetw11/leetcode/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
@@ -1475,6 +1476,7 @@
 | [1094-car-pooling](https://github.com/arshpreetw11/leetcode/tree/master/1094-car-pooling) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/arshpreetw11/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/arshpreetw11/leetcode/tree/master/1260-shift-2d-grid) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/arshpreetw11/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/arshpreetw11/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/arshpreetw11/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -1791,6 +1793,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/arshpreetw11/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/arshpreetw11/leetcode/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/arshpreetw11/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/arshpreetw11/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1649-create-sorted-array-through-instructions](https://github.com/arshpreetw11/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 ## Ordered Set
 |  |
@@ -2052,4 +2055,8 @@
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/arshpreetw11/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/arshpreetw11/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 <!---LeetCode Topics End-->
