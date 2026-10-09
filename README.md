@@ -183,6 +183,7 @@
 | [1409-queries-on-a-permutation-with-key](https://github.com/arshpreetw11/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/arshpreetw11/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/arshpreetw11/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1441-build-an-array-with-stack-operations](https://github.com/arshpreetw11/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/arshpreetw11/leetcode/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
@@ -1448,6 +1449,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/arshpreetw11/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/arshpreetw11/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arshpreetw11/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arshpreetw11/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arshpreetw11/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -1478,6 +1480,7 @@
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/arshpreetw11/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/arshpreetw11/leetcode/tree/master/1260-shift-2d-grid) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/arshpreetw11/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
+| [1441-build-an-array-with-stack-operations](https://github.com/arshpreetw11/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/arshpreetw11/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/arshpreetw11/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
