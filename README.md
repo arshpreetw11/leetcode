@@ -152,6 +152,7 @@
 | [1202-smallest-string-with-swaps](https://github.com/arshpreetw11/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arshpreetw11/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/arshpreetw11/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1250-check-if-it-is-a-good-array](https://github.com/arshpreetw11/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/arshpreetw11/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/arshpreetw11/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/arshpreetw11/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -375,6 +376,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arshpreetw11/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1227-airplane-seat-assignment-probability](https://github.com/arshpreetw11/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/arshpreetw11/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1250-check-if-it-is-a-good-array](https://github.com/arshpreetw11/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/arshpreetw11/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arshpreetw11/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arshpreetw11/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -1882,6 +1884,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/arshpreetw11/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/arshpreetw11/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1952-three-divisors](https://github.com/arshpreetw11/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arshpreetw11/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -2026,4 +2029,20 @@
 |  |
 | ------- |
 | [1146-snapshot-array](https://github.com/arshpreetw11/leetcode/tree/master/1146-snapshot-array) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/arshpreetw11/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/arshpreetw11/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/arshpreetw11/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/arshpreetw11/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
