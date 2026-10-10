@@ -260,6 +260,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/arshpreetw11/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/arshpreetw11/leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/arshpreetw11/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2242-maximum-score-of-a-node-sequence](https://github.com/arshpreetw11/leetcode/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/arshpreetw11/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/arshpreetw11/leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arshpreetw11/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -809,6 +810,7 @@
 | [1862-sum-of-floored-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1952-three-divisors](https://github.com/arshpreetw11/leetcode/tree/master/1952-three-divisors) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/arshpreetw11/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+| [2242-maximum-score-of-a-node-sequence](https://github.com/arshpreetw11/leetcode/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/arshpreetw11/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/arshpreetw11/leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/arshpreetw11/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -1178,6 +1180,7 @@
 | [2195-append-k-integers-with-minimal-sum](https://github.com/arshpreetw11/leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/arshpreetw11/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/arshpreetw11/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2242-maximum-score-of-a-node-sequence](https://github.com/arshpreetw11/leetcode/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/arshpreetw11/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/arshpreetw11/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/arshpreetw11/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1681,6 +1684,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/arshpreetw11/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/arshpreetw11/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/arshpreetw11/leetcode/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+| [2242-maximum-score-of-a-node-sequence](https://github.com/arshpreetw11/leetcode/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/arshpreetw11/leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/arshpreetw11/leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2421-number-of-good-paths](https://github.com/arshpreetw11/leetcode/tree/master/2421-number-of-good-paths) |
