@@ -199,6 +199,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/arshpreetw11/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-shuffle-string](https://github.com/arshpreetw11/leetcode/tree/master/1528-shuffle-string) |
 | [1537-get-the-maximum-score](https://github.com/arshpreetw11/leetcode/tree/master/1537-get-the-maximum-score) |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/arshpreetw11/leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1563-stone-game-v](https://github.com/arshpreetw11/leetcode/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/arshpreetw11/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arshpreetw11/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -603,6 +604,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/arshpreetw11/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/arshpreetw11/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1386-cinema-seat-allocation](https://github.com/arshpreetw11/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/arshpreetw11/leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/arshpreetw11/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1763-longest-nice-substring](https://github.com/arshpreetw11/leetcode/tree/master/1763-longest-nice-substring) |
 | [2506-count-pairs-of-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
@@ -1275,6 +1277,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arshpreetw11/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1537-get-the-maximum-score](https://github.com/arshpreetw11/leetcode/tree/master/1537-get-the-maximum-score) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arshpreetw11/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/arshpreetw11/leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/arshpreetw11/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/arshpreetw11/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/arshpreetw11/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
