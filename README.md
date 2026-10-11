@@ -753,6 +753,7 @@
 | [1528-shuffle-string](https://github.com/arshpreetw11/leetcode/tree/master/1528-shuffle-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arshpreetw11/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/arshpreetw11/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/arshpreetw11/leetcode/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1598-crawler-log-folder](https://github.com/arshpreetw11/leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/arshpreetw11/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -1174,6 +1175,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/arshpreetw11/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/arshpreetw11/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arshpreetw11/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/arshpreetw11/leetcode/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/arshpreetw11/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/arshpreetw11/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1626-best-team-with-no-conflicts](https://github.com/arshpreetw11/leetcode/tree/master/1626-best-team-with-no-conflicts) |
@@ -1299,6 +1301,7 @@
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/arshpreetw11/leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/arshpreetw11/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/arshpreetw11/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/arshpreetw11/leetcode/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/arshpreetw11/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1642-furthest-building-you-can-reach](https://github.com/arshpreetw11/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/arshpreetw11/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
