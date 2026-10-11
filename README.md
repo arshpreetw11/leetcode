@@ -905,6 +905,7 @@
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/arshpreetw11/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1202-smallest-string-with-swaps](https://github.com/arshpreetw11/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/arshpreetw11/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arshpreetw11/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/arshpreetw11/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -1610,6 +1611,7 @@
 | [0706-design-hashmap](https://github.com/arshpreetw11/leetcode/tree/master/0706-design-hashmap) |
 | [0729-my-calendar-i](https://github.com/arshpreetw11/leetcode/tree/master/0729-my-calendar-i) |
 | [1146-snapshot-array](https://github.com/arshpreetw11/leetcode/tree/master/1146-snapshot-array) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1348-tweet-counts-per-frequency](https://github.com/arshpreetw11/leetcode/tree/master/1348-tweet-counts-per-frequency) |
 | [1472-design-browser-history](https://github.com/arshpreetw11/leetcode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
@@ -1647,6 +1649,7 @@
 | [0834-sum-of-distances-in-tree](https://github.com/arshpreetw11/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0897-increasing-order-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/arshpreetw11/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/arshpreetw11/leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/arshpreetw11/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -1678,6 +1681,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/arshpreetw11/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/arshpreetw11/leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/arshpreetw11/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arshpreetw11/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1781,6 +1785,7 @@
 | [1034-coloring-a-border](https://github.com/arshpreetw11/leetcode/tree/master/1034-coloring-a-border) |
 | [1036-escape-a-large-maze](https://github.com/arshpreetw11/leetcode/tree/master/1036-escape-a-large-maze) |
 | [1202-smallest-string-with-swaps](https://github.com/arshpreetw11/leetcode/tree/master/1202-smallest-string-with-swaps) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/arshpreetw11/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/arshpreetw11/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/arshpreetw11/leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
@@ -1821,6 +1826,7 @@
 | [1034-coloring-a-border](https://github.com/arshpreetw11/leetcode/tree/master/1034-coloring-a-border) |
 | [1036-escape-a-large-maze](https://github.com/arshpreetw11/leetcode/tree/master/1036-escape-a-large-maze) |
 | [1202-smallest-string-with-swaps](https://github.com/arshpreetw11/leetcode/tree/master/1202-smallest-string-with-swaps) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/arshpreetw11/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/arshpreetw11/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/arshpreetw11/leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
