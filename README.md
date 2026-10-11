@@ -81,6 +81,7 @@
 | [0729-my-calendar-i](https://github.com/arshpreetw11/leetcode/tree/master/0729-my-calendar-i) |
 | [0740-delete-and-earn](https://github.com/arshpreetw11/leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/arshpreetw11/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0748-shortest-completing-word](https://github.com/arshpreetw11/leetcode/tree/master/0748-shortest-completing-word) |
 | [0764-largest-plus-sign](https://github.com/arshpreetw11/leetcode/tree/master/0764-largest-plus-sign) |
 | [0766-toeplitz-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -710,6 +711,7 @@
 | [0692-top-k-frequent-words](https://github.com/arshpreetw11/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/arshpreetw11/leetcode/tree/master/0721-accounts-merge) |
+| [0748-shortest-completing-word](https://github.com/arshpreetw11/leetcode/tree/master/0748-shortest-completing-word) |
 | [0753-cracking-the-safe](https://github.com/arshpreetw11/leetcode/tree/master/0753-cracking-the-safe) |
 | [0756-pyramid-transition-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0771-jewels-and-stones](https://github.com/arshpreetw11/leetcode/tree/master/0771-jewels-and-stones) |
@@ -884,6 +886,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/arshpreetw11/leetcode/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/arshpreetw11/leetcode/tree/master/0740-delete-and-earn) |
+| [0748-shortest-completing-word](https://github.com/arshpreetw11/leetcode/tree/master/0748-shortest-completing-word) |
 | [0756-pyramid-transition-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0771-jewels-and-stones](https://github.com/arshpreetw11/leetcode/tree/master/0771-jewels-and-stones) |
 | [0781-rabbits-in-forest](https://github.com/arshpreetw11/leetcode/tree/master/0781-rabbits-in-forest) |
