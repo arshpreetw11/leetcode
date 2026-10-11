@@ -1652,6 +1652,7 @@
 | [0988-smallest-string-starting-from-leaf](https://github.com/arshpreetw11/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/arshpreetw11/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/arshpreetw11/leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/arshpreetw11/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -1686,6 +1687,7 @@
 | [0988-smallest-string-starting-from-leaf](https://github.com/arshpreetw11/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/arshpreetw11/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/arshpreetw11/leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/arshpreetw11/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arshpreetw11/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1836,6 +1838,7 @@
 | [1267-count-servers-that-communicate](https://github.com/arshpreetw11/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/arshpreetw11/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1462-course-schedule-iv](https://github.com/arshpreetw11/leetcode/tree/master/1462-course-schedule-iv) |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1971-find-if-path-exists-in-graph](https://github.com/arshpreetw11/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/arshpreetw11/leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2101-detonate-the-maximum-bombs](https://github.com/arshpreetw11/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -2039,6 +2042,7 @@
 |  |
 | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/arshpreetw11/leetcode/tree/master/0834-sum-of-distances-in-tree) |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/arshpreetw11/leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 ## Nim Game
