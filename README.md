@@ -139,6 +139,7 @@
 | [1049-last-stone-weight-ii](https://github.com/arshpreetw11/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1053-previous-permutation-with-one-swap](https://github.com/arshpreetw11/leetcode/tree/master/1053-previous-permutation-with-one-swap) |
 | [1054-distant-barcodes](https://github.com/arshpreetw11/leetcode/tree/master/1054-distant-barcodes) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/arshpreetw11/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1089-duplicate-zeros](https://github.com/arshpreetw11/leetcode/tree/master/1089-duplicate-zeros) |
 | [1090-largest-values-from-labels](https://github.com/arshpreetw11/leetcode/tree/master/1090-largest-values-from-labels) |
 | [1094-car-pooling](https://github.com/arshpreetw11/leetcode/tree/master/1094-car-pooling) |
@@ -915,6 +916,7 @@
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/arshpreetw11/leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1036-escape-a-large-maze](https://github.com/arshpreetw11/leetcode/tree/master/1036-escape-a-large-maze) |
 | [1054-distant-barcodes](https://github.com/arshpreetw11/leetcode/tree/master/1054-distant-barcodes) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/arshpreetw11/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1090-largest-values-from-labels](https://github.com/arshpreetw11/leetcode/tree/master/1090-largest-values-from-labels) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1146-snapshot-array](https://github.com/arshpreetw11/leetcode/tree/master/1146-snapshot-array) |
@@ -1101,6 +1103,7 @@
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/arshpreetw11/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/arshpreetw11/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/arshpreetw11/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/arshpreetw11/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1094-car-pooling](https://github.com/arshpreetw11/leetcode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/arshpreetw11/leetcode/tree/master/1140-stone-game-ii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/arshpreetw11/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -1793,6 +1796,7 @@
 | [0892-surface-area-of-3d-shapes](https://github.com/arshpreetw11/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0999-available-captures-for-rook](https://github.com/arshpreetw11/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1034-coloring-a-border](https://github.com/arshpreetw11/leetcode/tree/master/1034-coloring-a-border) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/arshpreetw11/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/arshpreetw11/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/arshpreetw11/leetcode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/arshpreetw11/leetcode/tree/master/1267-count-servers-that-communicate) |
