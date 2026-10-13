@@ -194,6 +194,7 @@
 | [1472-design-browser-history](https://github.com/arshpreetw11/leetcode/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arshpreetw11/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arshpreetw11/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1478-allocate-mailboxes](https://github.com/arshpreetw11/leetcode/tree/master/1478-allocate-mailboxes) |
 | [1488-avoid-flood-in-the-city](https://github.com/arshpreetw11/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/arshpreetw11/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arshpreetw11/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -413,6 +414,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/arshpreetw11/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/arshpreetw11/leetcode/tree/master/1406-stone-game-iii) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/arshpreetw11/leetcode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1478-allocate-mailboxes](https://github.com/arshpreetw11/leetcode/tree/master/1478-allocate-mailboxes) |
 | [1510-stone-game-iv](https://github.com/arshpreetw11/leetcode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/arshpreetw11/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -518,6 +520,7 @@
 | [1402-reducing-dishes](https://github.com/arshpreetw11/leetcode/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/arshpreetw11/leetcode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arshpreetw11/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1478-allocate-mailboxes](https://github.com/arshpreetw11/leetcode/tree/master/1478-allocate-mailboxes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arshpreetw11/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/arshpreetw11/leetcode/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/arshpreetw11/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -1196,6 +1199,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/arshpreetw11/leetcode/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [1478-allocate-mailboxes](https://github.com/arshpreetw11/leetcode/tree/master/1478-allocate-mailboxes) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/arshpreetw11/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/arshpreetw11/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/arshpreetw11/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
