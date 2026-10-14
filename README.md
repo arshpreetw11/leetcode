@@ -783,6 +783,7 @@
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/arshpreetw11/leetcode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1668-maximum-repeating-substring](https://github.com/arshpreetw11/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/arshpreetw11/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1702-maximum-binary-string-after-change](https://github.com/arshpreetw11/leetcode/tree/master/1702-maximum-binary-string-after-change) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/arshpreetw11/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1763-longest-nice-substring](https://github.com/arshpreetw11/leetcode/tree/master/1763-longest-nice-substring) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/arshpreetw11/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -1357,6 +1358,7 @@
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/arshpreetw11/leetcode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1686-stone-game-vi](https://github.com/arshpreetw11/leetcode/tree/master/1686-stone-game-vi) |
+| [1702-maximum-binary-string-after-change](https://github.com/arshpreetw11/leetcode/tree/master/1702-maximum-binary-string-after-change) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/arshpreetw11/leetcode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1710-maximum-units-on-a-truck](https://github.com/arshpreetw11/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/arshpreetw11/leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
