@@ -228,6 +228,7 @@
 | [1686-stone-game-vi](https://github.com/arshpreetw11/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/arshpreetw11/leetcode/tree/master/1690-stone-game-vii) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/arshpreetw11/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/arshpreetw11/leetcode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1710-maximum-units-on-a-truck](https://github.com/arshpreetw11/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/arshpreetw11/leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
@@ -1356,6 +1357,7 @@
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/arshpreetw11/leetcode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1686-stone-game-vi](https://github.com/arshpreetw11/leetcode/tree/master/1686-stone-game-vi) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/arshpreetw11/leetcode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1710-maximum-units-on-a-truck](https://github.com/arshpreetw11/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/arshpreetw11/leetcode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/arshpreetw11/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
@@ -1440,6 +1442,7 @@
 | [1642-furthest-building-you-can-reach](https://github.com/arshpreetw11/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/arshpreetw11/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1686-stone-game-vi](https://github.com/arshpreetw11/leetcode/tree/master/1686-stone-game-vi) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/arshpreetw11/leetcode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/arshpreetw11/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1792-maximum-average-pass-ratio](https://github.com/arshpreetw11/leetcode/tree/master/1792-maximum-average-pass-ratio) |
 | [1834-single-threaded-cpu](https://github.com/arshpreetw11/leetcode/tree/master/1834-single-threaded-cpu) |
