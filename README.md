@@ -223,6 +223,7 @@
 | [1654-minimum-jumps-to-reach-home](https://github.com/arshpreetw11/leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arshpreetw11/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1675-minimize-deviation-in-array](https://github.com/arshpreetw11/leetcode/tree/master/1675-minimize-deviation-in-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/arshpreetw11/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1686-stone-game-vi](https://github.com/arshpreetw11/leetcode/tree/master/1686-stone-game-vi) |
@@ -1359,6 +1360,7 @@
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/arshpreetw11/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/arshpreetw11/leetcode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1675-minimize-deviation-in-array](https://github.com/arshpreetw11/leetcode/tree/master/1675-minimize-deviation-in-array) |
 | [1686-stone-game-vi](https://github.com/arshpreetw11/leetcode/tree/master/1686-stone-game-vi) |
 | [1702-maximum-binary-string-after-change](https://github.com/arshpreetw11/leetcode/tree/master/1702-maximum-binary-string-after-change) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/arshpreetw11/leetcode/tree/master/1705-maximum-number-of-eaten-apples) |
@@ -1446,6 +1448,7 @@
 | [1488-avoid-flood-in-the-city](https://github.com/arshpreetw11/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1642-furthest-building-you-can-reach](https://github.com/arshpreetw11/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/arshpreetw11/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1675-minimize-deviation-in-array](https://github.com/arshpreetw11/leetcode/tree/master/1675-minimize-deviation-in-array) |
 | [1686-stone-game-vi](https://github.com/arshpreetw11/leetcode/tree/master/1686-stone-game-vi) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/arshpreetw11/leetcode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/arshpreetw11/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
@@ -1953,6 +1956,7 @@
 | [1348-tweet-counts-per-frequency](https://github.com/arshpreetw11/leetcode/tree/master/1348-tweet-counts-per-frequency) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/arshpreetw11/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1649-create-sorted-array-through-instructions](https://github.com/arshpreetw11/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
+| [1675-minimize-deviation-in-array](https://github.com/arshpreetw11/leetcode/tree/master/1675-minimize-deviation-in-array) |
 | [1818-minimum-absolute-sum-difference](https://github.com/arshpreetw11/leetcode/tree/master/1818-minimum-absolute-sum-difference) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/arshpreetw11/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Reservoir Sampling
