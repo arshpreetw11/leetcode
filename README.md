@@ -545,6 +545,7 @@
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/arshpreetw11/leetcode/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arshpreetw11/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/arshpreetw11/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/arshpreetw11/leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2376-count-special-integers](https://github.com/arshpreetw11/leetcode/tree/master/2376-count-special-integers) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/arshpreetw11/leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2420-find-all-good-indices](https://github.com/arshpreetw11/leetcode/tree/master/2420-find-all-good-indices) |
@@ -804,6 +805,7 @@
 | [2278-percentage-of-letter-in-string](https://github.com/arshpreetw11/leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/arshpreetw11/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2284-sender-with-largest-word-count](https://github.com/arshpreetw11/leetcode/tree/master/2284-sender-with-largest-word-count) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/arshpreetw11/leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/arshpreetw11/leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/arshpreetw11/leetcode/tree/master/2418-sort-the-people) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/arshpreetw11/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
@@ -1389,6 +1391,7 @@
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/arshpreetw11/leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/arshpreetw11/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/arshpreetw11/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/arshpreetw11/leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/arshpreetw11/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/arshpreetw11/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/arshpreetw11/leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -2036,6 +2039,7 @@
 | [0913-cat-and-mouse](https://github.com/arshpreetw11/leetcode/tree/master/0913-cat-and-mouse) |
 | [1137-n-th-tribonacci-number](https://github.com/arshpreetw11/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/arshpreetw11/leetcode/tree/master/1387-sort-integers-by-the-power-value) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/arshpreetw11/leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/arshpreetw11/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Number Theory
 |  |
