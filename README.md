@@ -110,6 +110,7 @@
 | [0912-sort-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0912-sort-an-array) |
 | [0929-unique-email-addresses](https://github.com/arshpreetw11/leetcode/tree/master/0929-unique-email-addresses) |
 | [0937-reorder-data-in-log-files](https://github.com/arshpreetw11/leetcode/tree/master/0937-reorder-data-in-log-files) |
+| [0944-delete-columns-to-make-sorted](https://github.com/arshpreetw11/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0946-validate-stack-sequences](https://github.com/arshpreetw11/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/arshpreetw11/leetcode/tree/master/0948-bag-of-tokens) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -757,6 +758,7 @@
 | [0929-unique-email-addresses](https://github.com/arshpreetw11/leetcode/tree/master/0929-unique-email-addresses) |
 | [0937-reorder-data-in-log-files](https://github.com/arshpreetw11/leetcode/tree/master/0937-reorder-data-in-log-files) |
 | [0940-distinct-subsequences-ii](https://github.com/arshpreetw11/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [0944-delete-columns-to-make-sorted](https://github.com/arshpreetw11/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0966-vowel-spellchecker](https://github.com/arshpreetw11/leetcode/tree/master/0966-vowel-spellchecker) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/arshpreetw11/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0990-satisfiability-of-equality-equations](https://github.com/arshpreetw11/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
@@ -2162,6 +2164,7 @@
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/arshpreetw11/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1626-best-team-with-no-conflicts](https://github.com/arshpreetw11/leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [3288-length-of-the-longest-increasing-path](https://github.com/arshpreetw11/leetcode/tree/master/3288-length-of-the-longest-increasing-path) |
 ## Dijkstra's Algorithm
