@@ -315,6 +315,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/arshpreetw11/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arshpreetw11/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/arshpreetw11/leetcode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arshpreetw11/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2933-high-access-employees](https://github.com/arshpreetw11/leetcode/tree/master/2933-high-access-employees) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arshpreetw11/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/arshpreetw11/leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
@@ -992,6 +993,7 @@
 | [2869-minimum-operations-to-collect-elements](https://github.com/arshpreetw11/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/arshpreetw11/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/arshpreetw11/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arshpreetw11/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2933-high-access-employees](https://github.com/arshpreetw11/leetcode/tree/master/2933-high-access-employees) |
 | [2953-count-complete-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2953-count-complete-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arshpreetw11/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1049,6 +1051,7 @@
 | [0729-my-calendar-i](https://github.com/arshpreetw11/leetcode/tree/master/0729-my-calendar-i) |
 | [1649-create-sorted-array-through-instructions](https://github.com/arshpreetw11/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/arshpreetw11/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arshpreetw11/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/arshpreetw11/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arshpreetw11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
@@ -1945,6 +1948,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/arshpreetw11/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/arshpreetw11/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1649-create-sorted-array-through-instructions](https://github.com/arshpreetw11/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arshpreetw11/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Ordered Set
 |  |
 | ------- |
