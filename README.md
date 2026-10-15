@@ -281,6 +281,7 @@
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/arshpreetw11/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/arshpreetw11/leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arshpreetw11/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/arshpreetw11/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/arshpreetw11/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2284-sender-with-largest-word-count](https://github.com/arshpreetw11/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/arshpreetw11/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -1138,6 +1139,7 @@
 | [1856-maximum-subarray-min-product](https://github.com/arshpreetw11/leetcode/tree/master/1856-maximum-subarray-min-product) |
 | [1862-sum-of-floored-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1943-describe-the-painting](https://github.com/arshpreetw11/leetcode/tree/master/1943-describe-the-painting) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/arshpreetw11/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2420-find-all-good-indices](https://github.com/arshpreetw11/leetcode/tree/master/2420-find-all-good-indices) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/arshpreetw11/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/arshpreetw11/leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
@@ -1258,6 +1260,7 @@
 | [2225-find-players-with-zero-or-one-losses](https://github.com/arshpreetw11/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/arshpreetw11/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/arshpreetw11/leetcode/tree/master/2242-maximum-score-of-a-node-sequence) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/arshpreetw11/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/arshpreetw11/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/arshpreetw11/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/arshpreetw11/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1396,6 +1399,7 @@
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/arshpreetw11/leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/arshpreetw11/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/arshpreetw11/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/arshpreetw11/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/arshpreetw11/leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/arshpreetw11/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/arshpreetw11/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -1522,6 +1526,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/arshpreetw11/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/arshpreetw11/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2187-minimum-time-to-complete-trips](https://github.com/arshpreetw11/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/arshpreetw11/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/arshpreetw11/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/arshpreetw11/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arshpreetw11/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
@@ -1649,6 +1654,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arshpreetw11/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1763-longest-nice-substring](https://github.com/arshpreetw11/leetcode/tree/master/1763-longest-nice-substring) |
 | [2090-k-radius-subarray-averages](https://github.com/arshpreetw11/leetcode/tree/master/2090-k-radius-subarray-averages) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/arshpreetw11/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arshpreetw11/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/arshpreetw11/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2953-count-complete-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2953-count-complete-substrings) |
