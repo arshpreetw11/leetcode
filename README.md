@@ -299,6 +299,7 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/arshpreetw11/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2506-count-pairs-of-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2512-reward-top-k-students](https://github.com/arshpreetw11/leetcode/tree/master/2512-reward-top-k-students) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/arshpreetw11/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/arshpreetw11/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/arshpreetw11/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/arshpreetw11/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
@@ -1272,6 +1273,7 @@
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/arshpreetw11/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/arshpreetw11/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2512-reward-top-k-students](https://github.com/arshpreetw11/leetcode/tree/master/2512-reward-top-k-students) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/arshpreetw11/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/arshpreetw11/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/arshpreetw11/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2578-split-with-minimum-sum](https://github.com/arshpreetw11/leetcode/tree/master/2578-split-with-minimum-sum) |
@@ -1407,6 +1409,7 @@
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/arshpreetw11/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/arshpreetw11/leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/arshpreetw11/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/arshpreetw11/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2578-split-with-minimum-sum](https://github.com/arshpreetw11/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/arshpreetw11/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
@@ -1532,6 +1535,7 @@
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/arshpreetw11/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/arshpreetw11/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/arshpreetw11/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/arshpreetw11/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arshpreetw11/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/arshpreetw11/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
