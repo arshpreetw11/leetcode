@@ -94,6 +94,7 @@
 | [0805-split-array-with-same-average](https://github.com/arshpreetw11/leetcode/tree/master/0805-split-array-with-same-average) |
 | [0806-number-of-lines-to-write-string](https://github.com/arshpreetw11/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0809-expressive-words](https://github.com/arshpreetw11/leetcode/tree/master/0809-expressive-words) |
+| [0813-largest-sum-of-averages](https://github.com/arshpreetw11/leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0819-most-common-word](https://github.com/arshpreetw11/leetcode/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/arshpreetw11/leetcode/tree/master/0820-short-encoding-of-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/arshpreetw11/leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -522,6 +523,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/arshpreetw11/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0764-largest-plus-sign](https://github.com/arshpreetw11/leetcode/tree/master/0764-largest-plus-sign) |
 | [0805-split-array-with-same-average](https://github.com/arshpreetw11/leetcode/tree/master/0805-split-array-with-same-average) |
+| [0813-largest-sum-of-averages](https://github.com/arshpreetw11/leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0823-binary-trees-with-factors](https://github.com/arshpreetw11/leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0834-sum-of-distances-in-tree](https://github.com/arshpreetw11/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0845-longest-mountain-in-array](https://github.com/arshpreetw11/leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -1166,6 +1168,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/arshpreetw11/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/arshpreetw11/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/arshpreetw11/leetcode/tree/master/0731-my-calendar-ii) |
+| [0813-largest-sum-of-averages](https://github.com/arshpreetw11/leetcode/tree/master/0813-largest-sum-of-averages) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/arshpreetw11/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1094-car-pooling](https://github.com/arshpreetw11/leetcode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/arshpreetw11/leetcode/tree/master/1140-stone-game-ii) |
