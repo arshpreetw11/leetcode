@@ -51,6 +51,7 @@
 | [0502-ipo](https://github.com/arshpreetw11/leetcode/tree/master/0502-ipo) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/arshpreetw11/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/arshpreetw11/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0525-contiguous-array](https://github.com/arshpreetw11/leetcode/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/arshpreetw11/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0528-random-pick-with-weight](https://github.com/arshpreetw11/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0553-optimal-division](https://github.com/arshpreetw11/leetcode/tree/master/0553-optimal-division) |
@@ -918,6 +919,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/arshpreetw11/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/arshpreetw11/leetcode/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/arshpreetw11/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0525-contiguous-array](https://github.com/arshpreetw11/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/arshpreetw11/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/arshpreetw11/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -1156,6 +1158,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/arshpreetw11/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/arshpreetw11/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/arshpreetw11/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0525-contiguous-array](https://github.com/arshpreetw11/leetcode/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/arshpreetw11/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/arshpreetw11/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/arshpreetw11/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
