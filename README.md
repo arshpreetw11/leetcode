@@ -221,6 +221,7 @@
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/arshpreetw11/leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1563-stone-game-v](https://github.com/arshpreetw11/leetcode/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/arshpreetw11/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arshpreetw11/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arshpreetw11/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/arshpreetw11/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/arshpreetw11/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -446,6 +447,7 @@
 | [1512-number-of-good-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/arshpreetw11/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/arshpreetw11/leetcode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arshpreetw11/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/arshpreetw11/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arshpreetw11/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/arshpreetw11/leetcode/tree/master/1641-count-sorted-vowel-strings) |
@@ -557,6 +559,7 @@
 | [1537-get-the-maximum-score](https://github.com/arshpreetw11/leetcode/tree/master/1537-get-the-maximum-score) |
 | [1563-stone-game-v](https://github.com/arshpreetw11/leetcode/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/arshpreetw11/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arshpreetw11/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/arshpreetw11/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arshpreetw11/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1626-best-team-with-no-conflicts](https://github.com/arshpreetw11/leetcode/tree/master/1626-best-team-with-no-conflicts) |
@@ -1072,6 +1075,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/arshpreetw11/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0912-sort-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/arshpreetw11/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arshpreetw11/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1649-create-sorted-array-through-instructions](https://github.com/arshpreetw11/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1763-longest-nice-substring](https://github.com/arshpreetw11/leetcode/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/arshpreetw11/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -1684,6 +1688,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/arshpreetw11/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1202-smallest-string-with-swaps](https://github.com/arshpreetw11/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1267-count-servers-that-communicate](https://github.com/arshpreetw11/leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arshpreetw11/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/arshpreetw11/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/arshpreetw11/leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2421-number-of-good-paths](https://github.com/arshpreetw11/leetcode/tree/master/2421-number-of-good-paths) |
@@ -1793,6 +1798,7 @@
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/arshpreetw11/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arshpreetw11/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/arshpreetw11/leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/arshpreetw11/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -1811,6 +1817,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/arshpreetw11/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arshpreetw11/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1828,6 +1835,7 @@
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/arshpreetw11/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arshpreetw11/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/arshpreetw11/leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/arshpreetw11/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arshpreetw11/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1871,6 +1879,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arshpreetw11/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arshpreetw11/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/arshpreetw11/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [2063-vowels-of-all-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2063-vowels-of-all-substrings) |
@@ -2114,6 +2123,7 @@
 | [0913-cat-and-mouse](https://github.com/arshpreetw11/leetcode/tree/master/0913-cat-and-mouse) |
 | [1137-n-th-tribonacci-number](https://github.com/arshpreetw11/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/arshpreetw11/leetcode/tree/master/1387-sort-integers-by-the-power-value) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arshpreetw11/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/arshpreetw11/leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/arshpreetw11/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Number Theory
@@ -2294,4 +2304,8 @@
 |  |
 | ------- |
 | [1035-uncrossed-lines](https://github.com/arshpreetw11/leetcode/tree/master/1035-uncrossed-lines) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arshpreetw11/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
