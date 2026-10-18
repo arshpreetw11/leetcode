@@ -309,6 +309,7 @@
 | [2421-number-of-good-paths](https://github.com/arshpreetw11/leetcode/tree/master/2421-number-of-good-paths) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/arshpreetw11/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/arshpreetw11/leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/arshpreetw11/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/arshpreetw11/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2506-count-pairs-of-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
@@ -1583,6 +1584,7 @@
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/arshpreetw11/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/arshpreetw11/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/arshpreetw11/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/arshpreetw11/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/arshpreetw11/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arshpreetw11/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
@@ -1810,6 +1812,7 @@
 | [2331-evaluate-boolean-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/arshpreetw11/leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2421-number-of-good-paths](https://github.com/arshpreetw11/leetcode/tree/master/2421-number-of-good-paths) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2603-collect-coins-in-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/2603-collect-coins-in-a-tree) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [3249-count-the-number-of-good-nodes](https://github.com/arshpreetw11/leetcode/tree/master/3249-count-the-number-of-good-nodes) |
@@ -1824,6 +1827,7 @@
 | [0938-range-sum-of-bst](https://github.com/arshpreetw11/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/arshpreetw11/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arshpreetw11/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1849,6 +1853,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/arshpreetw11/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arshpreetw11/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -2015,6 +2020,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arshpreetw11/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/arshpreetw11/leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arshpreetw11/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [3249-count-the-number-of-good-nodes](https://github.com/arshpreetw11/leetcode/tree/master/3249-count-the-number-of-good-nodes) |
