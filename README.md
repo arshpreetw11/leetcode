@@ -262,6 +262,7 @@
 | [1862-sum-of-floored-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/arshpreetw11/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/arshpreetw11/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1936-add-minimum-number-of-rungs](https://github.com/arshpreetw11/leetcode/tree/master/1936-add-minimum-number-of-rungs) |
 | [1943-describe-the-painting](https://github.com/arshpreetw11/leetcode/tree/master/1943-describe-the-painting) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/arshpreetw11/leetcode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
@@ -1004,6 +1005,7 @@
 | [1763-longest-nice-substring](https://github.com/arshpreetw11/leetcode/tree/master/1763-longest-nice-substring) |
 | [1782-count-pairs-of-nodes](https://github.com/arshpreetw11/leetcode/tree/master/1782-count-pairs-of-nodes) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/arshpreetw11/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/arshpreetw11/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1943-describe-the-painting](https://github.com/arshpreetw11/leetcode/tree/master/1943-describe-the-painting) |
 | [2007-find-original-array-from-doubled-array](https://github.com/arshpreetw11/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/arshpreetw11/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -1807,6 +1809,7 @@
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arshpreetw11/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/arshpreetw11/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/arshpreetw11/leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/arshpreetw11/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/arshpreetw11/leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -1831,6 +1834,7 @@
 | [0938-range-sum-of-bst](https://github.com/arshpreetw11/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/arshpreetw11/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arshpreetw11/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/arshpreetw11/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -1855,6 +1859,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/arshpreetw11/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arshpreetw11/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/arshpreetw11/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/arshpreetw11/leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/arshpreetw11/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arshpreetw11/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -2021,6 +2026,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/arshpreetw11/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1462-course-schedule-iv](https://github.com/arshpreetw11/leetcode/tree/master/1462-course-schedule-iv) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/arshpreetw11/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/arshpreetw11/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/arshpreetw11/leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2101-detonate-the-maximum-bombs](https://github.com/arshpreetw11/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
