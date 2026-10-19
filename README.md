@@ -1797,6 +1797,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0690-employee-importance](https://github.com/arshpreetw11/leetcode/tree/master/0690-employee-importance) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/arshpreetw11/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0834-sum-of-distances-in-tree](https://github.com/arshpreetw11/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0897-increasing-order-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/arshpreetw11/leetcode/tree/master/0938-range-sum-of-bst) |
@@ -1825,6 +1826,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arshpreetw11/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/arshpreetw11/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/arshpreetw11/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/arshpreetw11/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/arshpreetw11/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -1845,6 +1847,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arshpreetw11/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/arshpreetw11/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/arshpreetw11/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/arshpreetw11/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/arshpreetw11/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -1959,6 +1962,7 @@
 | [0721-accounts-merge](https://github.com/arshpreetw11/leetcode/tree/master/0721-accounts-merge) |
 | [0765-couples-holding-hands](https://github.com/arshpreetw11/leetcode/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/arshpreetw11/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/arshpreetw11/leetcode/tree/master/0841-keys-and-rooms) |
 | [0854-k-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/0854-k-similar-strings) |
 | [1034-coloring-a-border](https://github.com/arshpreetw11/leetcode/tree/master/1034-coloring-a-border) |
@@ -2002,6 +2006,7 @@
 | [0753-cracking-the-safe](https://github.com/arshpreetw11/leetcode/tree/master/0753-cracking-the-safe) |
 | [0765-couples-holding-hands](https://github.com/arshpreetw11/leetcode/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/arshpreetw11/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0834-sum-of-distances-in-tree](https://github.com/arshpreetw11/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/arshpreetw11/leetcode/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/arshpreetw11/leetcode/tree/master/0851-loud-and-rich) |
