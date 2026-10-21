@@ -882,6 +882,7 @@
 | [3692-majority-frequency-characters](https://github.com/arshpreetw11/leetcode/tree/master/3692-majority-frequency-characters) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/arshpreetw11/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/arshpreetw11/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/arshpreetw11/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3913-sort-vowels-by-frequency](https://github.com/arshpreetw11/leetcode/tree/master/3913-sort-vowels-by-frequency) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/arshpreetw11/leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Enumeration
