@@ -699,6 +699,7 @@
 | [0633-sum-of-square-numbers](https://github.com/arshpreetw11/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/arshpreetw11/leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/arshpreetw11/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0763-partition-labels](https://github.com/arshpreetw11/leetcode/tree/master/0763-partition-labels) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/arshpreetw11/leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0809-expressive-words](https://github.com/arshpreetw11/leetcode/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/arshpreetw11/leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -778,6 +779,7 @@
 | [0748-shortest-completing-word](https://github.com/arshpreetw11/leetcode/tree/master/0748-shortest-completing-word) |
 | [0753-cracking-the-safe](https://github.com/arshpreetw11/leetcode/tree/master/0753-cracking-the-safe) |
 | [0756-pyramid-transition-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0763-partition-labels](https://github.com/arshpreetw11/leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/arshpreetw11/leetcode/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/arshpreetw11/leetcode/tree/master/0784-letter-case-permutation) |
 | [0791-custom-sort-string](https://github.com/arshpreetw11/leetcode/tree/master/0791-custom-sort-string) |
@@ -966,6 +968,7 @@
 | [0740-delete-and-earn](https://github.com/arshpreetw11/leetcode/tree/master/0740-delete-and-earn) |
 | [0748-shortest-completing-word](https://github.com/arshpreetw11/leetcode/tree/master/0748-shortest-completing-word) |
 | [0756-pyramid-transition-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0763-partition-labels](https://github.com/arshpreetw11/leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/arshpreetw11/leetcode/tree/master/0771-jewels-and-stones) |
 | [0781-rabbits-in-forest](https://github.com/arshpreetw11/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0791-custom-sort-string](https://github.com/arshpreetw11/leetcode/tree/master/0791-custom-sort-string) |
@@ -1401,6 +1404,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/arshpreetw11/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/arshpreetw11/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/arshpreetw11/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/arshpreetw11/leetcode/tree/master/0763-partition-labels) |
 | [0765-couples-holding-hands](https://github.com/arshpreetw11/leetcode/tree/master/0765-couples-holding-hands) |
 | [0781-rabbits-in-forest](https://github.com/arshpreetw11/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/arshpreetw11/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
