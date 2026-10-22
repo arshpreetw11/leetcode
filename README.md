@@ -96,6 +96,7 @@
 | [0805-split-array-with-same-average](https://github.com/arshpreetw11/leetcode/tree/master/0805-split-array-with-same-average) |
 | [0806-number-of-lines-to-write-string](https://github.com/arshpreetw11/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0809-expressive-words](https://github.com/arshpreetw11/leetcode/tree/master/0809-expressive-words) |
+| [0811-subdomain-visit-count](https://github.com/arshpreetw11/leetcode/tree/master/0811-subdomain-visit-count) |
 | [0813-largest-sum-of-averages](https://github.com/arshpreetw11/leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0819-most-common-word](https://github.com/arshpreetw11/leetcode/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/arshpreetw11/leetcode/tree/master/0820-short-encoding-of-words) |
@@ -785,6 +786,7 @@
 | [0791-custom-sort-string](https://github.com/arshpreetw11/leetcode/tree/master/0791-custom-sort-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/arshpreetw11/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0809-expressive-words](https://github.com/arshpreetw11/leetcode/tree/master/0809-expressive-words) |
+| [0811-subdomain-visit-count](https://github.com/arshpreetw11/leetcode/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/arshpreetw11/leetcode/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/arshpreetw11/leetcode/tree/master/0820-short-encoding-of-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/arshpreetw11/leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -973,6 +975,7 @@
 | [0781-rabbits-in-forest](https://github.com/arshpreetw11/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0791-custom-sort-string](https://github.com/arshpreetw11/leetcode/tree/master/0791-custom-sort-string) |
 | [0805-split-array-with-same-average](https://github.com/arshpreetw11/leetcode/tree/master/0805-split-array-with-same-average) |
+| [0811-subdomain-visit-count](https://github.com/arshpreetw11/leetcode/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/arshpreetw11/leetcode/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/arshpreetw11/leetcode/tree/master/0820-short-encoding-of-words) |
 | [0822-card-flipping-game](https://github.com/arshpreetw11/leetcode/tree/master/0822-card-flipping-game) |
@@ -1140,6 +1143,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/arshpreetw11/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/arshpreetw11/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0811-subdomain-visit-count](https://github.com/arshpreetw11/leetcode/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/arshpreetw11/leetcode/tree/master/0819-most-common-word) |
 | [0869-reordered-power-of-2](https://github.com/arshpreetw11/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/arshpreetw11/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
