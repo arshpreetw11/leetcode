@@ -63,6 +63,7 @@
 | [0622-design-circular-queue](https://github.com/arshpreetw11/leetcode/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/arshpreetw11/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/arshpreetw11/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0648-replace-words](https://github.com/arshpreetw11/leetcode/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/arshpreetw11/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/arshpreetw11/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0661-image-smoother](https://github.com/arshpreetw11/leetcode/tree/master/0661-image-smoother) |
@@ -768,6 +769,7 @@
 | [0551-student-attendance-record-i](https://github.com/arshpreetw11/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0606-construct-string-from-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/arshpreetw11/leetcode/tree/master/0647-palindromic-substrings) |
+| [0648-replace-words](https://github.com/arshpreetw11/leetcode/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0678-valid-parenthesis-string](https://github.com/arshpreetw11/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/arshpreetw11/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -950,6 +952,7 @@
 | [0554-brick-wall](https://github.com/arshpreetw11/leetcode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/arshpreetw11/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0648-replace-words](https://github.com/arshpreetw11/leetcode/tree/master/0648-replace-words) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/arshpreetw11/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0676-implement-magic-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0690-employee-importance](https://github.com/arshpreetw11/leetcode/tree/master/0690-employee-importance) |
@@ -2136,6 +2139,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/arshpreetw11/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0648-replace-words](https://github.com/arshpreetw11/leetcode/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0692-top-k-frequent-words](https://github.com/arshpreetw11/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0720-longest-word-in-dictionary) |
