@@ -382,6 +382,7 @@
 | [3606-coupon-code-validator](https://github.com/arshpreetw11/leetcode/tree/master/3606-coupon-code-validator) |
 | [3620-network-recovery-pathways](https://github.com/arshpreetw11/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/arshpreetw11/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/arshpreetw11/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/arshpreetw11/leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arshpreetw11/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/arshpreetw11/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -676,6 +677,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/arshpreetw11/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arshpreetw11/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arshpreetw11/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/arshpreetw11/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Bitmask
 |  |
 | ------- |
