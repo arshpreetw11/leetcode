@@ -481,6 +481,7 @@
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/arshpreetw11/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2376-count-special-integers](https://github.com/arshpreetw11/leetcode/tree/master/2376-count-special-integers) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/arshpreetw11/leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [2409-count-days-spent-together](https://github.com/arshpreetw11/leetcode/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/arshpreetw11/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/arshpreetw11/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2578-split-with-minimum-sum](https://github.com/arshpreetw11/leetcode/tree/master/2578-split-with-minimum-sum) |
@@ -864,6 +865,7 @@
 | [2284-sender-with-largest-word-count](https://github.com/arshpreetw11/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/arshpreetw11/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/arshpreetw11/leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2409-count-days-spent-together](https://github.com/arshpreetw11/leetcode/tree/master/2409-count-days-spent-together) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/arshpreetw11/leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/arshpreetw11/leetcode/tree/master/2418-sort-the-people) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/arshpreetw11/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
