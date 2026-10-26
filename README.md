@@ -380,6 +380,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/arshpreetw11/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/arshpreetw11/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3606-coupon-code-validator](https://github.com/arshpreetw11/leetcode/tree/master/3606-coupon-code-validator) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arshpreetw11/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/arshpreetw11/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/arshpreetw11/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/arshpreetw11/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -1739,6 +1740,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arshpreetw11/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3613-minimize-maximum-component-cost](https://github.com/arshpreetw11/leetcode/tree/master/3613-minimize-maximum-component-cost) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arshpreetw11/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1991,6 +1993,7 @@
 | [3030-find-the-grid-of-region-average](https://github.com/arshpreetw11/leetcode/tree/master/3030-find-the-grid-of-region-average) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3446-sort-matrix-by-diagonals](https://github.com/arshpreetw11/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arshpreetw11/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -2030,6 +2033,7 @@
 | [3310-remove-methods-from-project](https://github.com/arshpreetw11/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/arshpreetw11/leetcode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3528-unit-conversion-i](https://github.com/arshpreetw11/leetcode/tree/master/3528-unit-conversion-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arshpreetw11/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -2085,6 +2089,7 @@
 | [3310-remove-methods-from-project](https://github.com/arshpreetw11/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/arshpreetw11/leetcode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3528-unit-conversion-i](https://github.com/arshpreetw11/leetcode/tree/master/3528-unit-conversion-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arshpreetw11/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Iterator
 |  |
 | ------- |
