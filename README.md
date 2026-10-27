@@ -398,6 +398,7 @@
 | [3903-smallest-stable-index-i](https://github.com/arshpreetw11/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/arshpreetw11/leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/arshpreetw11/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/arshpreetw11/leetcode/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 ## Math
 |  |
 | ------- |
@@ -515,6 +516,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/arshpreetw11/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arshpreetw11/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/arshpreetw11/leetcode/tree/master/3886-sum-of-sortable-integers) |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/arshpreetw11/leetcode/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1957,6 +1959,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/arshpreetw11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3317-find-the-number-of-possible-ways-for-an-event](https://github.com/arshpreetw11/leetcode/tree/master/3317-find-the-number-of-possible-ways-for-an-event) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/arshpreetw11/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/arshpreetw11/leetcode/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 ## Matrix
 |  |
 | ------- |
@@ -1997,6 +2000,7 @@
 | [3148-maximum-difference-score-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3446-sort-matrix-by-diagonals](https://github.com/arshpreetw11/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arshpreetw11/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/arshpreetw11/leetcode/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 ## Breadth-First Search
 |  |
 | ------- |
