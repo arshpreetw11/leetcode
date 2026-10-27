@@ -106,6 +106,7 @@
 | [0833-find-and-replace-in-string](https://github.com/arshpreetw11/leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0835-image-overlap](https://github.com/arshpreetw11/leetcode/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/arshpreetw11/leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0848-shifting-letters](https://github.com/arshpreetw11/leetcode/tree/master/0848-shifting-letters) |
 | [0851-loud-and-rich](https://github.com/arshpreetw11/leetcode/tree/master/0851-loud-and-rich) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arshpreetw11/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0867-transpose-matrix) |
@@ -800,6 +801,7 @@
 | [0830-positions-of-large-groups](https://github.com/arshpreetw11/leetcode/tree/master/0830-positions-of-large-groups) |
 | [0833-find-and-replace-in-string](https://github.com/arshpreetw11/leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0844-backspace-string-compare](https://github.com/arshpreetw11/leetcode/tree/master/0844-backspace-string-compare) |
+| [0848-shifting-letters](https://github.com/arshpreetw11/leetcode/tree/master/0848-shifting-letters) |
 | [0854-k-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/0854-k-similar-strings) |
 | [0856-score-of-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/arshpreetw11/leetcode/tree/master/0880-decoded-string-at-index) |
@@ -1215,6 +1217,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/arshpreetw11/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/arshpreetw11/leetcode/tree/master/0731-my-calendar-ii) |
 | [0813-largest-sum-of-averages](https://github.com/arshpreetw11/leetcode/tree/master/0813-largest-sum-of-averages) |
+| [0848-shifting-letters](https://github.com/arshpreetw11/leetcode/tree/master/0848-shifting-letters) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/arshpreetw11/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1094-car-pooling](https://github.com/arshpreetw11/leetcode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/arshpreetw11/leetcode/tree/master/1140-stone-game-ii) |
