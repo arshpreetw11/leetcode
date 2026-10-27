@@ -440,6 +440,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/arshpreetw11/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/arshpreetw11/leetcode/tree/master/1025-divisor-game) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/arshpreetw11/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1041-robot-bounded-in-circle](https://github.com/arshpreetw11/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1137-n-th-tribonacci-number](https://github.com/arshpreetw11/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/arshpreetw11/leetcode/tree/master/1140-stone-game-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arshpreetw11/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -824,6 +825,7 @@
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/arshpreetw11/leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1023-camelcase-matching](https://github.com/arshpreetw11/leetcode/tree/master/1023-camelcase-matching) |
+| [1041-robot-bounded-in-circle](https://github.com/arshpreetw11/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arshpreetw11/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arshpreetw11/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/arshpreetw11/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -1718,6 +1720,7 @@
 | [0946-validate-stack-sequences](https://github.com/arshpreetw11/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0999-available-captures-for-rook](https://github.com/arshpreetw11/leetcode/tree/master/0999-available-captures-for-rook) |
+| [1041-robot-bounded-in-circle](https://github.com/arshpreetw11/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1094-car-pooling](https://github.com/arshpreetw11/leetcode/tree/master/1094-car-pooling) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/arshpreetw11/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/arshpreetw11/leetcode/tree/master/1260-shift-2d-grid) |
