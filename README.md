@@ -265,6 +265,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arshpreetw11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1856-maximum-subarray-min-product](https://github.com/arshpreetw11/leetcode/tree/master/1856-maximum-subarray-min-product) |
 | [1862-sum-of-floored-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1862-sum-of-floored-pairs) |
+| [1905-count-sub-islands](https://github.com/arshpreetw11/leetcode/tree/master/1905-count-sub-islands) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/arshpreetw11/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/arshpreetw11/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -1733,6 +1734,7 @@
 | [1202-smallest-string-with-swaps](https://github.com/arshpreetw11/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1267-count-servers-that-communicate](https://github.com/arshpreetw11/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arshpreetw11/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1905-count-sub-islands](https://github.com/arshpreetw11/leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/arshpreetw11/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/arshpreetw11/leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2421-number-of-good-paths](https://github.com/arshpreetw11/leetcode/tree/master/2421-number-of-good-paths) |
@@ -1984,6 +1986,7 @@
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/arshpreetw11/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1329-sort-the-matrix-diagonally](https://github.com/arshpreetw11/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/arshpreetw11/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1905-count-sub-islands](https://github.com/arshpreetw11/leetcode/tree/master/1905-count-sub-islands) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/arshpreetw11/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arshpreetw11/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/arshpreetw11/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -2024,6 +2027,7 @@
 | [1311-get-watched-videos-by-your-friends](https://github.com/arshpreetw11/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1462-course-schedule-iv](https://github.com/arshpreetw11/leetcode/tree/master/1462-course-schedule-iv) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/arshpreetw11/leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
+| [1905-count-sub-islands](https://github.com/arshpreetw11/leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/arshpreetw11/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/arshpreetw11/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/arshpreetw11/leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -2073,6 +2077,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/arshpreetw11/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1462-course-schedule-iv](https://github.com/arshpreetw11/leetcode/tree/master/1462-course-schedule-iv) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1905-count-sub-islands](https://github.com/arshpreetw11/leetcode/tree/master/1905-count-sub-islands) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/arshpreetw11/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/arshpreetw11/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/arshpreetw11/leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
