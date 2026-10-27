@@ -116,6 +116,7 @@
 | [0896-monotonic-array](https://github.com/arshpreetw11/leetcode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/arshpreetw11/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0912-sort-an-array) |
+| [0916-word-subsets](https://github.com/arshpreetw11/leetcode/tree/master/0916-word-subsets) |
 | [0929-unique-email-addresses](https://github.com/arshpreetw11/leetcode/tree/master/0929-unique-email-addresses) |
 | [0937-reorder-data-in-log-files](https://github.com/arshpreetw11/leetcode/tree/master/0937-reorder-data-in-log-files) |
 | [0944-delete-columns-to-make-sorted](https://github.com/arshpreetw11/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -808,6 +809,7 @@
 | [0880-decoded-string-at-index](https://github.com/arshpreetw11/leetcode/tree/master/0880-decoded-string-at-index) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/arshpreetw11/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/arshpreetw11/leetcode/tree/master/0890-find-and-replace-pattern) |
+| [0916-word-subsets](https://github.com/arshpreetw11/leetcode/tree/master/0916-word-subsets) |
 | [0917-reverse-only-letters](https://github.com/arshpreetw11/leetcode/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/arshpreetw11/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/arshpreetw11/leetcode/tree/master/0929-unique-email-addresses) |
@@ -999,6 +1001,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/arshpreetw11/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/arshpreetw11/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/arshpreetw11/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0916-word-subsets](https://github.com/arshpreetw11/leetcode/tree/master/0916-word-subsets) |
 | [0929-unique-email-addresses](https://github.com/arshpreetw11/leetcode/tree/master/0929-unique-email-addresses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0954-array-of-doubled-pairs](https://github.com/arshpreetw11/leetcode/tree/master/0954-array-of-doubled-pairs) |
