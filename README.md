@@ -738,6 +738,7 @@
 | [0986-interval-list-intersections](https://github.com/arshpreetw11/leetcode/tree/master/0986-interval-list-intersections) |
 | [1023-camelcase-matching](https://github.com/arshpreetw11/leetcode/tree/master/1023-camelcase-matching) |
 | [1089-duplicate-zeros](https://github.com/arshpreetw11/leetcode/tree/master/1089-duplicate-zeros) |
+| [1332-remove-palindromic-subsequences](https://github.com/arshpreetw11/leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arshpreetw11/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/arshpreetw11/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -865,6 +866,7 @@
 | [1255-maximum-score-words-formed-by-letters](https://github.com/arshpreetw11/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/arshpreetw11/leetcode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1328-break-a-palindrome](https://github.com/arshpreetw11/leetcode/tree/master/1328-break-a-palindrome) |
+| [1332-remove-palindromic-subsequences](https://github.com/arshpreetw11/leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1348-tweet-counts-per-frequency](https://github.com/arshpreetw11/leetcode/tree/master/1348-tweet-counts-per-frequency) |
 | [1366-rank-teams-by-votes](https://github.com/arshpreetw11/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/arshpreetw11/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
