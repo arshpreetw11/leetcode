@@ -678,6 +678,7 @@
 | [0784-letter-case-permutation](https://github.com/arshpreetw11/leetcode/tree/master/0784-letter-case-permutation) |
 | [0805-split-array-with-same-average](https://github.com/arshpreetw11/leetcode/tree/master/0805-split-array-with-same-average) |
 | [0957-prison-cells-after-n-days](https://github.com/arshpreetw11/leetcode/tree/master/0957-prison-cells-after-n-days) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/arshpreetw11/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/arshpreetw11/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/arshpreetw11/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1386-cinema-seat-allocation](https://github.com/arshpreetw11/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -841,6 +842,7 @@
 | [0988-smallest-string-starting-from-leaf](https://github.com/arshpreetw11/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0990-satisfiability-of-equality-equations](https://github.com/arshpreetw11/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/arshpreetw11/leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/arshpreetw11/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1021-remove-outermost-parentheses](https://github.com/arshpreetw11/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1023-camelcase-matching](https://github.com/arshpreetw11/leetcode/tree/master/1023-camelcase-matching) |
 | [1041-robot-bounded-in-circle](https://github.com/arshpreetw11/leetcode/tree/master/1041-robot-bounded-in-circle) |
@@ -1034,6 +1036,7 @@
 | [0981-time-based-key-value-store](https://github.com/arshpreetw11/leetcode/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/arshpreetw11/leetcode/tree/master/0997-find-the-town-judge) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/arshpreetw11/leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/arshpreetw11/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1036-escape-a-large-maze](https://github.com/arshpreetw11/leetcode/tree/master/1036-escape-a-large-maze) |
 | [1054-distant-barcodes](https://github.com/arshpreetw11/leetcode/tree/master/1054-distant-barcodes) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/arshpreetw11/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -1797,6 +1800,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/arshpreetw11/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/arshpreetw11/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/arshpreetw11/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/arshpreetw11/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arshpreetw11/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arshpreetw11/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
