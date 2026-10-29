@@ -447,6 +447,7 @@
 | [1041-robot-bounded-in-circle](https://github.com/arshpreetw11/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1137-n-th-tribonacci-number](https://github.com/arshpreetw11/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/arshpreetw11/leetcode/tree/master/1140-stone-game-ii) |
+| [1154-day-of-the-year](https://github.com/arshpreetw11/leetcode/tree/master/1154-day-of-the-year) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arshpreetw11/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1227-airplane-seat-assignment-probability](https://github.com/arshpreetw11/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/arshpreetw11/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -851,6 +852,7 @@
 | [1078-occurrences-after-bigram](https://github.com/arshpreetw11/leetcode/tree/master/1078-occurrences-after-bigram) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arshpreetw11/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1138-alphabet-board-path](https://github.com/arshpreetw11/leetcode/tree/master/1138-alphabet-board-path) |
+| [1154-day-of-the-year](https://github.com/arshpreetw11/leetcode/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/arshpreetw11/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1169-invalid-transactions](https://github.com/arshpreetw11/leetcode/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/arshpreetw11/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
