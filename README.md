@@ -869,6 +869,7 @@
 | [1332-remove-palindromic-subsequences](https://github.com/arshpreetw11/leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1348-tweet-counts-per-frequency](https://github.com/arshpreetw11/leetcode/tree/master/1348-tweet-counts-per-frequency) |
 | [1366-rank-teams-by-votes](https://github.com/arshpreetw11/leetcode/tree/master/1366-rank-teams-by-votes) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/arshpreetw11/leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/arshpreetw11/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/arshpreetw11/leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/arshpreetw11/leetcode/tree/master/1451-rearrange-words-in-a-sentence) |
