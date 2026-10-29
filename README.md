@@ -847,6 +847,7 @@
 | [1023-camelcase-matching](https://github.com/arshpreetw11/leetcode/tree/master/1023-camelcase-matching) |
 | [1041-robot-bounded-in-circle](https://github.com/arshpreetw11/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arshpreetw11/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/arshpreetw11/leetcode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arshpreetw11/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/arshpreetw11/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1169-invalid-transactions](https://github.com/arshpreetw11/leetcode/tree/master/1169-invalid-transactions) |
@@ -1776,6 +1777,7 @@
 | [0765-couples-holding-hands](https://github.com/arshpreetw11/leetcode/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0990-satisfiability-of-equality-equations](https://github.com/arshpreetw11/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/arshpreetw11/leetcode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1202-smallest-string-with-swaps](https://github.com/arshpreetw11/leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1267-count-servers-that-communicate](https://github.com/arshpreetw11/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arshpreetw11/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
