@@ -850,6 +850,7 @@
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/arshpreetw11/leetcode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1078-occurrences-after-bigram](https://github.com/arshpreetw11/leetcode/tree/master/1078-occurrences-after-bigram) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arshpreetw11/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1138-alphabet-board-path](https://github.com/arshpreetw11/leetcode/tree/master/1138-alphabet-board-path) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/arshpreetw11/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1169-invalid-transactions](https://github.com/arshpreetw11/leetcode/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/arshpreetw11/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -1044,6 +1045,7 @@
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/arshpreetw11/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1090-largest-values-from-labels](https://github.com/arshpreetw11/leetcode/tree/master/1090-largest-values-from-labels) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1138-alphabet-board-path](https://github.com/arshpreetw11/leetcode/tree/master/1138-alphabet-board-path) |
 | [1146-snapshot-array](https://github.com/arshpreetw11/leetcode/tree/master/1146-snapshot-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/arshpreetw11/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1169-invalid-transactions](https://github.com/arshpreetw11/leetcode/tree/master/1169-invalid-transactions) |
