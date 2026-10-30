@@ -880,6 +880,7 @@
 | [1433-check-if-a-string-can-break-another-string](https://github.com/arshpreetw11/leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1436-destination-city](https://github.com/arshpreetw11/leetcode/tree/master/1436-destination-city) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/arshpreetw11/leetcode/tree/master/1451-rearrange-words-in-a-sentence) |
+| [1507-reformat-date](https://github.com/arshpreetw11/leetcode/tree/master/1507-reformat-date) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arshpreetw11/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/arshpreetw11/leetcode/tree/master/1528-shuffle-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arshpreetw11/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
