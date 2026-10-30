@@ -207,6 +207,7 @@
 | [1409-queries-on-a-permutation-with-key](https://github.com/arshpreetw11/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/arshpreetw11/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/arshpreetw11/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1436-destination-city](https://github.com/arshpreetw11/leetcode/tree/master/1436-destination-city) |
 | [1441-build-an-array-with-stack-operations](https://github.com/arshpreetw11/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/arshpreetw11/leetcode/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
@@ -877,6 +878,7 @@
 | [1419-minimum-number-of-frogs-croaking](https://github.com/arshpreetw11/leetcode/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/arshpreetw11/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/arshpreetw11/leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1436-destination-city](https://github.com/arshpreetw11/leetcode/tree/master/1436-destination-city) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/arshpreetw11/leetcode/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arshpreetw11/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/arshpreetw11/leetcode/tree/master/1528-shuffle-string) |
@@ -1077,6 +1079,7 @@
 | [1366-rank-teams-by-votes](https://github.com/arshpreetw11/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1386-cinema-seat-allocation](https://github.com/arshpreetw11/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/arshpreetw11/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+| [1436-destination-city](https://github.com/arshpreetw11/leetcode/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arshpreetw11/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1488-avoid-flood-in-the-city](https://github.com/arshpreetw11/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1512-number-of-good-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1512-number-of-good-pairs) |
