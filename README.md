@@ -948,6 +948,7 @@
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/arshpreetw11/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3913-sort-vowels-by-frequency](https://github.com/arshpreetw11/leetcode/tree/master/3913-sort-vowels-by-frequency) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/arshpreetw11/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/arshpreetw11/leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Enumeration
 |  |
@@ -1623,6 +1624,7 @@
 | [3362-zero-array-transformation-iii](https://github.com/arshpreetw11/leetcode/tree/master/3362-zero-array-transformation-iii) |
 | [3620-network-recovery-pathways](https://github.com/arshpreetw11/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/arshpreetw11/leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/arshpreetw11/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
 |  |
 | ------- |
@@ -2005,6 +2007,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arshpreetw11/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3613-minimize-maximum-component-cost](https://github.com/arshpreetw11/leetcode/tree/master/3613-minimize-maximum-component-cost) |
 | [3620-network-recovery-pathways](https://github.com/arshpreetw11/leetcode/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/arshpreetw11/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Combinatorics
 |  |
 | ------- |
@@ -2221,6 +2224,7 @@
 | [0399-evaluate-division](https://github.com/arshpreetw11/leetcode/tree/master/0399-evaluate-division) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/arshpreetw11/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [3620-network-recovery-pathways](https://github.com/arshpreetw11/leetcode/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/arshpreetw11/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Trie
 |  |
 | ------- |
