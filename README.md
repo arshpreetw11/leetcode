@@ -875,6 +875,7 @@
 | [1417-reformat-the-string](https://github.com/arshpreetw11/leetcode/tree/master/1417-reformat-the-string) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/arshpreetw11/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/arshpreetw11/leetcode/tree/master/1419-minimum-number-of-frogs-croaking) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/arshpreetw11/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/arshpreetw11/leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/arshpreetw11/leetcode/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arshpreetw11/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -1273,6 +1274,7 @@
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/arshpreetw11/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1094-car-pooling](https://github.com/arshpreetw11/leetcode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/arshpreetw11/leetcode/tree/master/1140-stone-game-ii) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/arshpreetw11/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/arshpreetw11/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/arshpreetw11/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/arshpreetw11/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
