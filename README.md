@@ -132,6 +132,7 @@
 | [0969-pancake-sorting](https://github.com/arshpreetw11/leetcode/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/arshpreetw11/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0975-odd-even-jump](https://github.com/arshpreetw11/leetcode/tree/master/0975-odd-even-jump) |
+| [0978-longest-turbulent-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/arshpreetw11/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [0986-interval-list-intersections](https://github.com/arshpreetw11/leetcode/tree/master/0986-interval-list-intersections) |
 | [0989-add-to-array-form-of-integer](https://github.com/arshpreetw11/leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -566,6 +567,7 @@
 | [0926-flip-string-to-monotone-increasing](https://github.com/arshpreetw11/leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0940-distinct-subsequences-ii](https://github.com/arshpreetw11/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0975-odd-even-jump](https://github.com/arshpreetw11/leetcode/tree/master/0975-odd-even-jump) |
+| [0978-longest-turbulent-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/arshpreetw11/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1014-best-sightseeing-pair](https://github.com/arshpreetw11/leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1024-video-stitching](https://github.com/arshpreetw11/leetcode/tree/master/1024-video-stitching) |
@@ -1839,6 +1841,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/arshpreetw11/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/arshpreetw11/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0978-longest-turbulent-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/arshpreetw11/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/arshpreetw11/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arshpreetw11/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
