@@ -123,6 +123,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/arshpreetw11/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0946-validate-stack-sequences](https://github.com/arshpreetw11/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/arshpreetw11/leetcode/tree/master/0948-bag-of-tokens) |
+| [0949-largest-time-for-given-digits](https://github.com/arshpreetw11/leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0953-verifying-an-alien-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0954-array-of-doubled-pairs](https://github.com/arshpreetw11/leetcode/tree/master/0954-array-of-doubled-pairs) |
@@ -675,6 +676,7 @@
 | [0756-pyramid-transition-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0784-letter-case-permutation](https://github.com/arshpreetw11/leetcode/tree/master/0784-letter-case-permutation) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/arshpreetw11/leetcode/tree/master/0842-split-array-into-fibonacci-sequence) |
+| [0949-largest-time-for-given-digits](https://github.com/arshpreetw11/leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/arshpreetw11/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/arshpreetw11/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/arshpreetw11/leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
@@ -861,6 +863,7 @@
 | [0937-reorder-data-in-log-files](https://github.com/arshpreetw11/leetcode/tree/master/0937-reorder-data-in-log-files) |
 | [0940-distinct-subsequences-ii](https://github.com/arshpreetw11/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/arshpreetw11/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0949-largest-time-for-given-digits](https://github.com/arshpreetw11/leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [0953-verifying-an-alien-dictionary](https://github.com/arshpreetw11/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0966-vowel-spellchecker](https://github.com/arshpreetw11/leetcode/tree/master/0966-vowel-spellchecker) |
 | [0981-time-based-key-value-store](https://github.com/arshpreetw11/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -984,6 +987,7 @@
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/arshpreetw11/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0869-reordered-power-of-2](https://github.com/arshpreetw11/leetcode/tree/master/0869-reordered-power-of-2) |
+| [0949-largest-time-for-given-digits](https://github.com/arshpreetw11/leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [1291-sequential-digits](https://github.com/arshpreetw11/leetcode/tree/master/1291-sequential-digits) |
 | [1862-sum-of-floored-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1952-three-divisors](https://github.com/arshpreetw11/leetcode/tree/master/1952-three-divisors) |
