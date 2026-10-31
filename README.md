@@ -1951,6 +1951,7 @@
 | [0834-sum-of-distances-in-tree](https://github.com/arshpreetw11/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0897-increasing-order-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/arshpreetw11/leetcode/tree/master/0938-range-sum-of-bst) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/arshpreetw11/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/arshpreetw11/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -2005,6 +2006,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/arshpreetw11/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/arshpreetw11/leetcode/tree/master/0938-range-sum-of-bst) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/arshpreetw11/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/arshpreetw11/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -2182,6 +2184,7 @@
 | [0851-loud-and-rich](https://github.com/arshpreetw11/leetcode/tree/master/0851-loud-and-rich) |
 | [0897-increasing-order-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/arshpreetw11/leetcode/tree/master/0938-range-sum-of-bst) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/arshpreetw11/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1034-coloring-a-border](https://github.com/arshpreetw11/leetcode/tree/master/1034-coloring-a-border) |
 | [1036-escape-a-large-maze](https://github.com/arshpreetw11/leetcode/tree/master/1036-escape-a-large-maze) |
@@ -2414,6 +2417,7 @@
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/arshpreetw11/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0834-sum-of-distances-in-tree](https://github.com/arshpreetw11/leetcode/tree/master/0834-sum-of-distances-in-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/arshpreetw11/leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
