@@ -674,6 +674,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/arshpreetw11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0784-letter-case-permutation](https://github.com/arshpreetw11/leetcode/tree/master/0784-letter-case-permutation) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/arshpreetw11/leetcode/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/arshpreetw11/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/arshpreetw11/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/arshpreetw11/leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
@@ -844,6 +845,7 @@
 | [0830-positions-of-large-groups](https://github.com/arshpreetw11/leetcode/tree/master/0830-positions-of-large-groups) |
 | [0833-find-and-replace-in-string](https://github.com/arshpreetw11/leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0838-push-dominoes](https://github.com/arshpreetw11/leetcode/tree/master/0838-push-dominoes) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/arshpreetw11/leetcode/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0844-backspace-string-compare](https://github.com/arshpreetw11/leetcode/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/arshpreetw11/leetcode/tree/master/0848-shifting-letters) |
 | [0854-k-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/0854-k-similar-strings) |
