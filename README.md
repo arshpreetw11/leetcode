@@ -365,6 +365,7 @@
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/arshpreetw11/leetcode/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3265-count-almost-equal-pairs-i](https://github.com/arshpreetw11/leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/arshpreetw11/leetcode/tree/master/3267-count-almost-equal-pairs-ii) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/arshpreetw11/leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3288-length-of-the-longest-increasing-path](https://github.com/arshpreetw11/leetcode/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arshpreetw11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3362-zero-array-transformation-iii](https://github.com/arshpreetw11/leetcode/tree/master/3362-zero-array-transformation-iii) |
@@ -501,6 +502,7 @@
 | [2578-split-with-minimum-sum](https://github.com/arshpreetw11/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/arshpreetw11/leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arshpreetw11/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/arshpreetw11/leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arshpreetw11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3317-find-the-number-of-possible-ways-for-an-event](https://github.com/arshpreetw11/leetcode/tree/master/3317-find-the-number-of-possible-ways-for-an-event) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arshpreetw11/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -647,6 +649,7 @@
 | [1686-stone-game-vi](https://github.com/arshpreetw11/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/arshpreetw11/leetcode/tree/master/1690-stone-game-vii) |
 | [1927-sum-game](https://github.com/arshpreetw11/leetcode/tree/master/1927-sum-game) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/arshpreetw11/leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/arshpreetw11/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Backtracking
 |  |
@@ -698,6 +701,7 @@
 | [2869-minimum-operations-to-collect-elements](https://github.com/arshpreetw11/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/arshpreetw11/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/arshpreetw11/leetcode/tree/master/3180-maximum-total-reward-using-operations-i) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/arshpreetw11/leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/arshpreetw11/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arshpreetw11/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arshpreetw11/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -711,6 +715,7 @@
 | [0805-split-array-with-same-average](https://github.com/arshpreetw11/leetcode/tree/master/0805-split-array-with-same-average) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/arshpreetw11/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1755-closest-subsequence-sum](https://github.com/arshpreetw11/leetcode/tree/master/1755-closest-subsequence-sum) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/arshpreetw11/leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 ## Two Pointers
 |  |
 | ------- |
@@ -2119,6 +2124,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arshpreetw11/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/arshpreetw11/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/arshpreetw11/leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3310-remove-methods-from-project](https://github.com/arshpreetw11/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/arshpreetw11/leetcode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3528-unit-conversion-i](https://github.com/arshpreetw11/leetcode/tree/master/3528-unit-conversion-i) |
