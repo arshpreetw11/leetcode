@@ -74,6 +74,7 @@
 | [0690-employee-importance](https://github.com/arshpreetw11/leetcode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/arshpreetw11/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0697-degree-of-an-array) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/arshpreetw11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0705-design-hashset](https://github.com/arshpreetw11/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/arshpreetw11/leetcode/tree/master/0706-design-hashmap) |
 | [0710-random-pick-with-blacklist](https://github.com/arshpreetw11/leetcode/tree/master/0710-random-pick-with-blacklist) |
@@ -549,6 +550,7 @@
 | [0650-2-keys-keyboard](https://github.com/arshpreetw11/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/arshpreetw11/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/arshpreetw11/leetcode/tree/master/0688-knight-probability-in-chessboard) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/arshpreetw11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/arshpreetw11/leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/arshpreetw11/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -664,6 +666,7 @@
 | [0306-additive-number](https://github.com/arshpreetw11/leetcode/tree/master/0306-additive-number) |
 | [0526-beautiful-arrangement](https://github.com/arshpreetw11/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0679-24-game](https://github.com/arshpreetw11/leetcode/tree/master/0679-24-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/arshpreetw11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0784-letter-case-permutation](https://github.com/arshpreetw11/leetcode/tree/master/0784-letter-case-permutation) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/arshpreetw11/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -683,6 +686,7 @@
 | [0477-total-hamming-distance](https://github.com/arshpreetw11/leetcode/tree/master/0477-total-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/arshpreetw11/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0672-bulb-switcher-ii](https://github.com/arshpreetw11/leetcode/tree/master/0672-bulb-switcher-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/arshpreetw11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0779-k-th-symbol-in-grammar](https://github.com/arshpreetw11/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/arshpreetw11/leetcode/tree/master/0784-letter-case-permutation) |
@@ -712,6 +716,7 @@
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/arshpreetw11/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/arshpreetw11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0805-split-array-with-same-average](https://github.com/arshpreetw11/leetcode/tree/master/0805-split-array-with-same-average) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/arshpreetw11/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1755-closest-subsequence-sum](https://github.com/arshpreetw11/leetcode/tree/master/1755-closest-subsequence-sum) |
@@ -2304,6 +2309,7 @@
 |  |
 | ------- |
 | [0488-zuma-game](https://github.com/arshpreetw11/leetcode/tree/master/0488-zuma-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/arshpreetw11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0913-cat-and-mouse](https://github.com/arshpreetw11/leetcode/tree/master/0913-cat-and-mouse) |
 | [1137-n-th-tribonacci-number](https://github.com/arshpreetw11/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/arshpreetw11/leetcode/tree/master/1387-sort-integers-by-the-power-value) |
