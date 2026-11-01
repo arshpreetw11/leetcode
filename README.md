@@ -64,6 +64,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/arshpreetw11/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/arshpreetw11/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/arshpreetw11/leetcode/tree/master/0648-replace-words) |
+| [0654-maximum-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/arshpreetw11/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/arshpreetw11/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0661-image-smoother](https://github.com/arshpreetw11/leetcode/tree/master/0661-image-smoother) |
@@ -1200,6 +1201,7 @@
 | [0347-top-k-frequent-elements](https://github.com/arshpreetw11/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/arshpreetw11/leetcode/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/arshpreetw11/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0654-maximum-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/arshpreetw11/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/arshpreetw11/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arshpreetw11/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -1754,6 +1756,7 @@
 | [0488-zuma-game](https://github.com/arshpreetw11/leetcode/tree/master/0488-zuma-game) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/arshpreetw11/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/arshpreetw11/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/arshpreetw11/leetcode/tree/master/0844-backspace-string-compare) |
@@ -1948,6 +1951,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/arshpreetw11/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/arshpreetw11/leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0654-maximum-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/arshpreetw11/leetcode/tree/master/0690-employee-importance) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/arshpreetw11/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0834-sum-of-distances-in-tree](https://github.com/arshpreetw11/leetcode/tree/master/0834-sum-of-distances-in-tree) |
@@ -2006,6 +2010,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/arshpreetw11/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/arshpreetw11/leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0654-maximum-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/arshpreetw11/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/arshpreetw11/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/arshpreetw11/leetcode/tree/master/0938-range-sum-of-bst) |
@@ -2373,6 +2378,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/arshpreetw11/leetcode/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arshpreetw11/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0654-maximum-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0962-maximum-width-ramp](https://github.com/arshpreetw11/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0975-odd-even-jump](https://github.com/arshpreetw11/leetcode/tree/master/0975-odd-even-jump) |
 | [1019-next-greater-node-in-linked-list](https://github.com/arshpreetw11/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -2452,6 +2458,7 @@
 ## Cartesian Tree
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/0654-maximum-binary-tree) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/arshpreetw11/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1856-maximum-subarray-min-product](https://github.com/arshpreetw11/leetcode/tree/master/1856-maximum-subarray-min-product) |
 ## Floyd's Cycle Finding Algorithm
