@@ -108,6 +108,7 @@
 | [0823-binary-trees-with-factors](https://github.com/arshpreetw11/leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0833-find-and-replace-in-string](https://github.com/arshpreetw11/leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0835-image-overlap](https://github.com/arshpreetw11/leetcode/tree/master/0835-image-overlap) |
+| [0840-magic-squares-in-grid](https://github.com/arshpreetw11/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0845-longest-mountain-in-array](https://github.com/arshpreetw11/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0848-shifting-letters](https://github.com/arshpreetw11/leetcode/tree/master/0848-shifting-letters) |
 | [0851-loud-and-rich](https://github.com/arshpreetw11/leetcode/tree/master/0851-loud-and-rich) |
@@ -448,6 +449,7 @@
 | [0779-k-th-symbol-in-grammar](https://github.com/arshpreetw11/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0781-rabbits-in-forest](https://github.com/arshpreetw11/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0805-split-array-with-same-average](https://github.com/arshpreetw11/leetcode/tree/master/0805-split-array-with-same-average) |
+| [0840-magic-squares-in-grid](https://github.com/arshpreetw11/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0869-reordered-power-of-2](https://github.com/arshpreetw11/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/arshpreetw11/leetcode/tree/master/0877-stone-game) |
 | [0892-surface-area-of-3d-shapes](https://github.com/arshpreetw11/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
@@ -1074,6 +1076,7 @@
 | [0822-card-flipping-game](https://github.com/arshpreetw11/leetcode/tree/master/0822-card-flipping-game) |
 | [0823-binary-trees-with-factors](https://github.com/arshpreetw11/leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0833-find-and-replace-in-string](https://github.com/arshpreetw11/leetcode/tree/master/0833-find-and-replace-in-string) |
+| [0840-magic-squares-in-grid](https://github.com/arshpreetw11/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0854-k-similar-strings](https://github.com/arshpreetw11/leetcode/tree/master/0854-k-similar-strings) |
 | [0869-reordered-power-of-2](https://github.com/arshpreetw11/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/arshpreetw11/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -2094,6 +2097,7 @@
 | [0778-swim-in-rising-water](https://github.com/arshpreetw11/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0794-valid-tic-tac-toe-state](https://github.com/arshpreetw11/leetcode/tree/master/0794-valid-tic-tac-toe-state) |
 | [0835-image-overlap](https://github.com/arshpreetw11/leetcode/tree/master/0835-image-overlap) |
+| [0840-magic-squares-in-grid](https://github.com/arshpreetw11/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/arshpreetw11/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0999-available-captures-for-rook](https://github.com/arshpreetw11/leetcode/tree/master/0999-available-captures-for-rook) |
