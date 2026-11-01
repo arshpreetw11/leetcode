@@ -69,6 +69,7 @@
 | [0659-split-array-into-consecutive-subsequences](https://github.com/arshpreetw11/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0661-image-smoother](https://github.com/arshpreetw11/leetcode/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/arshpreetw11/leetcode/tree/master/0665-non-decreasing-array) |
+| [0667-beautiful-arrangement-ii](https://github.com/arshpreetw11/leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/arshpreetw11/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0679-24-game](https://github.com/arshpreetw11/leetcode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/arshpreetw11/leetcode/tree/master/0682-baseball-game) |
@@ -439,6 +440,7 @@
 | [0587-erect-the-fence](https://github.com/arshpreetw11/leetcode/tree/master/0587-erect-the-fence) |
 | [0633-sum-of-square-numbers](https://github.com/arshpreetw11/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/arshpreetw11/leetcode/tree/master/0650-2-keys-keyboard) |
+| [0667-beautiful-arrangement-ii](https://github.com/arshpreetw11/leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0672-bulb-switcher-ii](https://github.com/arshpreetw11/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0679-24-game](https://github.com/arshpreetw11/leetcode/tree/master/0679-24-game) |
 | [0710-random-pick-with-blacklist](https://github.com/arshpreetw11/leetcode/tree/master/0710-random-pick-with-blacklist) |
