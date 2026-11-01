@@ -366,6 +366,7 @@
 | [3148-maximum-difference-score-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3169-count-days-without-meetings](https://github.com/arshpreetw11/leetcode/tree/master/3169-count-days-without-meetings) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/arshpreetw11/leetcode/tree/master/3180-maximum-total-reward-using-operations-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arshpreetw11/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3238-find-the-number-of-winning-players](https://github.com/arshpreetw11/leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/arshpreetw11/leetcode/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3265-count-almost-equal-pairs-i](https://github.com/arshpreetw11/leetcode/tree/master/3265-count-almost-equal-pairs-i) |
@@ -507,6 +508,7 @@
 | [2578-split-with-minimum-sum](https://github.com/arshpreetw11/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/arshpreetw11/leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arshpreetw11/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arshpreetw11/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/arshpreetw11/leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arshpreetw11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3317-find-the-number-of-possible-ways-for-an-event](https://github.com/arshpreetw11/leetcode/tree/master/3317-find-the-number-of-possible-ways-for-an-event) |
