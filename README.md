@@ -111,6 +111,7 @@
 | [0840-magic-squares-in-grid](https://github.com/arshpreetw11/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0845-longest-mountain-in-array](https://github.com/arshpreetw11/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0848-shifting-letters](https://github.com/arshpreetw11/leetcode/tree/master/0848-shifting-letters) |
+| [0849-maximize-distance-to-closest-person](https://github.com/arshpreetw11/leetcode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0851-loud-and-rich](https://github.com/arshpreetw11/leetcode/tree/master/0851-loud-and-rich) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arshpreetw11/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/arshpreetw11/leetcode/tree/master/0867-transpose-matrix) |
