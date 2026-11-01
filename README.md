@@ -279,6 +279,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arshpreetw11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1856-maximum-subarray-min-product](https://github.com/arshpreetw11/leetcode/tree/master/1856-maximum-subarray-min-product) |
 | [1862-sum-of-floored-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1862-sum-of-floored-pairs) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/arshpreetw11/leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1905-count-sub-islands](https://github.com/arshpreetw11/leetcode/tree/master/1905-count-sub-islands) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/arshpreetw11/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -1438,6 +1439,7 @@
 | [1834-single-threaded-cpu](https://github.com/arshpreetw11/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arshpreetw11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1859-sorting-the-sentence](https://github.com/arshpreetw11/leetcode/tree/master/1859-sorting-the-sentence) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/arshpreetw11/leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1943-describe-the-painting](https://github.com/arshpreetw11/leetcode/tree/master/1943-describe-the-painting) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/arshpreetw11/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
