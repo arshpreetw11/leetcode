@@ -1923,6 +1923,7 @@
 | [0706-design-hashmap](https://github.com/arshpreetw11/leetcode/tree/master/0706-design-hashmap) |
 | [0729-my-calendar-i](https://github.com/arshpreetw11/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/arshpreetw11/leetcode/tree/master/0731-my-calendar-ii) |
+| [0933-number-of-recent-calls](https://github.com/arshpreetw11/leetcode/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/arshpreetw11/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/arshpreetw11/leetcode/tree/master/1146-snapshot-array) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -2386,6 +2387,7 @@
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/arshpreetw11/leetcode/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/arshpreetw11/leetcode/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/arshpreetw11/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
@@ -2541,6 +2543,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/arshpreetw11/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/arshpreetw11/leetcode/tree/master/1472-design-browser-history) |
 ## Longest Common Subsequence
 |  |
