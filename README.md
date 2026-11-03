@@ -409,6 +409,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/arshpreetw11/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/arshpreetw11/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/arshpreetw11/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/arshpreetw11/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arshpreetw11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/arshpreetw11/leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/arshpreetw11/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -539,6 +540,7 @@
 | [3700-number-of-zigzag-arrays-ii](https://github.com/arshpreetw11/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/arshpreetw11/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/arshpreetw11/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/arshpreetw11/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/arshpreetw11/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arshpreetw11/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/arshpreetw11/leetcode/tree/master/3870-count-commas-in-range) |
