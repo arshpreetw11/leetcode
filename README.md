@@ -280,6 +280,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arshpreetw11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1856-maximum-subarray-min-product](https://github.com/arshpreetw11/leetcode/tree/master/1856-maximum-subarray-min-product) |
 | [1862-sum-of-floored-pairs](https://github.com/arshpreetw11/leetcode/tree/master/1862-sum-of-floored-pairs) |
+| [1882-process-tasks-using-servers](https://github.com/arshpreetw11/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/arshpreetw11/leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1905-count-sub-islands](https://github.com/arshpreetw11/leetcode/tree/master/1905-count-sub-islands) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/arshpreetw11/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -1677,6 +1678,7 @@
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/arshpreetw11/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1792-maximum-average-pass-ratio](https://github.com/arshpreetw11/leetcode/tree/master/1792-maximum-average-pass-ratio) |
 | [1834-single-threaded-cpu](https://github.com/arshpreetw11/leetcode/tree/master/1834-single-threaded-cpu) |
+| [1882-process-tasks-using-servers](https://github.com/arshpreetw11/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/arshpreetw11/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/arshpreetw11/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/arshpreetw11/leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
