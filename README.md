@@ -390,6 +390,7 @@
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/arshpreetw11/leetcode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/arshpreetw11/leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/arshpreetw11/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/arshpreetw11/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3446-sort-matrix-by-diagonals](https://github.com/arshpreetw11/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3457-eat-pizzas](https://github.com/arshpreetw11/leetcode/tree/master/3457-eat-pizzas) |
 | [3483-unique-3-digit-even-numbers](https://github.com/arshpreetw11/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -1250,6 +1251,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/arshpreetw11/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arshpreetw11/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/arshpreetw11/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/arshpreetw11/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/arshpreetw11/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arshpreetw11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -1825,6 +1827,7 @@
 | [2289-steps-to-make-array-non-decreasing](https://github.com/arshpreetw11/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/arshpreetw11/leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2865-beautiful-towers-i](https://github.com/arshpreetw11/leetcode/tree/master/2865-beautiful-towers-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/arshpreetw11/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -1910,6 +1913,7 @@
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/arshpreetw11/leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arshpreetw11/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/arshpreetw11/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/arshpreetw11/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/arshpreetw11/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/arshpreetw11/leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 ## Linked List
@@ -2413,6 +2417,7 @@
 | [0933-number-of-recent-calls](https://github.com/arshpreetw11/leetcode/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/arshpreetw11/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/arshpreetw11/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/arshpreetw11/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -2430,6 +2435,7 @@
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/arshpreetw11/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/arshpreetw11/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2865-beautiful-towers-i](https://github.com/arshpreetw11/leetcode/tree/master/2865-beautiful-towers-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/arshpreetw11/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Interactive
 |  |
 | ------- |
@@ -2576,4 +2582,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arshpreetw11/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/arshpreetw11/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
