@@ -386,6 +386,7 @@
 | [3288-length-of-the-longest-increasing-path](https://github.com/arshpreetw11/leetcode/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arshpreetw11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3362-zero-array-transformation-iii](https://github.com/arshpreetw11/leetcode/tree/master/3362-zero-array-transformation-iii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/arshpreetw11/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/arshpreetw11/leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/arshpreetw11/leetcode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/arshpreetw11/leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
@@ -1357,6 +1358,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/arshpreetw11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3333-find-the-original-typed-string-ii](https://github.com/arshpreetw11/leetcode/tree/master/3333-find-the-original-typed-string-ii) |
 | [3362-zero-array-transformation-iii](https://github.com/arshpreetw11/leetcode/tree/master/3362-zero-array-transformation-iii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/arshpreetw11/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arshpreetw11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/arshpreetw11/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/arshpreetw11/leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -1912,6 +1914,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arshpreetw11/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/arshpreetw11/leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arshpreetw11/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/arshpreetw11/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/arshpreetw11/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/arshpreetw11/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/arshpreetw11/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
