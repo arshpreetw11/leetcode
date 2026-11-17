@@ -645,6 +645,7 @@
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/arshpreetw11/leetcode/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arshpreetw11/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/arshpreetw11/leetcode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/arshpreetw11/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/arshpreetw11/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/3148-maximum-difference-score-in-a-grid) |
@@ -805,6 +806,7 @@
 | [2563-count-the-number-of-fair-pairs](https://github.com/arshpreetw11/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/arshpreetw11/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/arshpreetw11/leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/arshpreetw11/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arshpreetw11/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3362-zero-array-transformation-iii](https://github.com/arshpreetw11/leetcode/tree/master/3362-zero-array-transformation-iii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arshpreetw11/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -982,6 +984,7 @@
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arshpreetw11/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/arshpreetw11/leetcode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/arshpreetw11/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/arshpreetw11/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2933-high-access-employees](https://github.com/arshpreetw11/leetcode/tree/master/2933-high-access-employees) |
 | [2953-count-complete-substrings](https://github.com/arshpreetw11/leetcode/tree/master/2953-count-complete-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arshpreetw11/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
