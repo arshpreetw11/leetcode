@@ -371,6 +371,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/arshpreetw11/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3030-find-the-grid-of-region-average](https://github.com/arshpreetw11/leetcode/tree/master/3030-find-the-grid-of-region-average) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/arshpreetw11/leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/arshpreetw11/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3074-apple-redistribution-into-boxes](https://github.com/arshpreetw11/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/arshpreetw11/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3143-maximum-points-inside-the-square](https://github.com/arshpreetw11/leetcode/tree/master/3143-maximum-points-inside-the-square) |
@@ -648,6 +649,7 @@
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/arshpreetw11/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/arshpreetw11/leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/arshpreetw11/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/arshpreetw11/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/arshpreetw11/leetcode/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/arshpreetw11/leetcode/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/arshpreetw11/leetcode/tree/master/3259-maximum-energy-boost-from-two-drinks) |
@@ -1510,6 +1512,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arshpreetw11/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshpreetw11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/arshpreetw11/leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/arshpreetw11/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3074-apple-redistribution-into-boxes](https://github.com/arshpreetw11/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3143-maximum-points-inside-the-square](https://github.com/arshpreetw11/leetcode/tree/master/3143-maximum-points-inside-the-square) |
 | [3169-count-days-without-meetings](https://github.com/arshpreetw11/leetcode/tree/master/3169-count-days-without-meetings) |
