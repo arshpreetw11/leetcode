@@ -201,6 +201,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/arshpreetw11/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/arshpreetw11/leetcode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1338-reduce-array-size-to-the-half](https://github.com/arshpreetw11/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1352-product-of-the-last-k-numbers](https://github.com/arshpreetw11/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/arshpreetw11/leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1363-largest-multiple-of-three](https://github.com/arshpreetw11/leetcode/tree/master/1363-largest-multiple-of-three) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arshpreetw11/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -487,6 +488,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arshpreetw11/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/arshpreetw11/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/arshpreetw11/leetcode/tree/master/1323-maximum-69-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/arshpreetw11/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1363-largest-multiple-of-three](https://github.com/arshpreetw11/leetcode/tree/master/1363-largest-multiple-of-three) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/arshpreetw11/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/arshpreetw11/leetcode/tree/master/1406-stone-game-iii) |
@@ -1348,6 +1350,7 @@
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/arshpreetw11/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1094-car-pooling](https://github.com/arshpreetw11/leetcode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/arshpreetw11/leetcode/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/arshpreetw11/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/arshpreetw11/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/arshpreetw11/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/arshpreetw11/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -1967,6 +1970,7 @@
 | [1146-snapshot-array](https://github.com/arshpreetw11/leetcode/tree/master/1146-snapshot-array) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/arshpreetw11/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1348-tweet-counts-per-frequency](https://github.com/arshpreetw11/leetcode/tree/master/1348-tweet-counts-per-frequency) |
+| [1352-product-of-the-last-k-numbers](https://github.com/arshpreetw11/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/arshpreetw11/leetcode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -2586,6 +2590,7 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/arshpreetw11/leetcode/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/arshpreetw11/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/arshpreetw11/leetcode/tree/master/1472-design-browser-history) |
 ## Longest Common Subsequence
 |  |
