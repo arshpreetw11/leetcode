@@ -433,6 +433,7 @@
 | [3934-smallest-unique-subarray](https://github.com/arshpreetw11/leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/arshpreetw11/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/arshpreetw11/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/arshpreetw11/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3988-create-grid-with-exactly-k-paths-i](https://github.com/arshpreetw11/leetcode/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 ## Math
 |  |
@@ -1547,6 +1548,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arshpreetw11/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/arshpreetw11/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3913-sort-vowels-by-frequency](https://github.com/arshpreetw11/leetcode/tree/master/3913-sort-vowels-by-frequency) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/arshpreetw11/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/arshpreetw11/leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Greedy
 |  |
@@ -1670,6 +1672,7 @@
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/arshpreetw11/leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/arshpreetw11/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/arshpreetw11/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/arshpreetw11/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1722,6 +1725,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/arshpreetw11/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/arshpreetw11/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/arshpreetw11/leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/arshpreetw11/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/arshpreetw11/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
 |  |
